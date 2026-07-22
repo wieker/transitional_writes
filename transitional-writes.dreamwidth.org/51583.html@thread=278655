@@ -1,0 +1,1161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head profile="http://www.w3.org/2006/03/hcard http://purl.org/uF/hAtom/0.1/ http://gmpg.org/xfn/11">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta property="og:title" content="(no subject)"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://transitional-writes.dreamwidth.org/51583.html"/>
+<meta property="og:site_name" content="Dreamwidth Studios"/>
+<meta property="og:description" content="Возможно я бегу вперед паровоза,&lt;br /&gt;хотя некоторые и говорят - а какие задачи это способно решить и нужно ли оно.&lt;br /&gt;Но для начала надо просто описать примененеие индукции Соломонова в&lt;br /&gt;социальных науках.&lt;br /&gt;&lt;br /&gt;1. есть множество всех сценариев всех фильмов, которые ты можешь увидеть. их"/>
+<meta property="article:published_time" content="2026-07-02T13:09:00"/>
+<meta property="article:author" content="https://transitional-writes.dreamwidth.org/profile"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="help" href="https://www.dreamwidth.org/support/faq" />
+<link rel="apple-touch-icon" href="//www.dreamwidth.org/apple-touch-icon.png" />
+<meta property="og:image:width" content="363"/>
+<meta property="og:image:height" content="363"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="prev" href="https://www.dreamwidth.org/go?dir=prev&itemid=51583&journal=transitional_writes" />
+<link rel="next" href="https://www.dreamwidth.org/go?dir=next&itemid=51583&journal=transitional_writes" />
+<link rel="canonical" href="https://transitional-writes.dreamwidth.org/51583.html?thread=278655#cmt278655" />
+<script>
+// don't crawl this.  read http://www.livejournal.com/developer/exporting
+var LJ_cmtinfo = {"281215":{"rc":[],"screened":0,"u":"transitional_writes","deleted":0,"parent":280447,"full":1},"279935":{"parent":279167,"full":1,"u":"transitional_writes","deleted":0,"screened":0,"rc":[]},"284031":{"rc":[],"screened":0,"u":"transitional_writes","deleted":0,"parent":280447,"full":1},"281983":{"full":1,"parent":280447,"u":"transitional_writes","deleted":0,"screened":0,"rc":[]},"280959":{"rc":[],"screened":0,"full":1,"parent":280447,"u":"transitional_writes","deleted":0},"282495":{"rc":[],"screened":0,"deleted":0,"u":"transitional_writes","parent":280447,"full":1},"279423":{"parent":279167,"full":1,"deleted":0,"u":"transitional_writes","rc":[],"screened":0},"canAdmin":1,"278911":{"rc":[279167],"screened":0,"deleted":0,"u":"transitional_writes","parent":278655,"full":1},"279679":{"u":"transitional_writes","deleted":0,"parent":279167,"full":1,"screened":0,"rc":[]},"281471":{"screened":0,"rc":[],"full":1,"parent":280447,"deleted":0,"u":"transitional_writes"},"280447":{"rc":[280703,280959,281215,281471,281727,281983,282239,282495,282751,283007,283263,283519,283775,284031,284287,284543,284799],"screened":0,"parent":279167,"full":1,"u":"transitional_writes","deleted":0},"remote":"transitional_writes","281727":{"full":1,"parent":280447,"u":"transitional_writes","deleted":0,"screened":0,"rc":[]},"283263":{"parent":280447,"full":1,"u":"transitional_writes","deleted":0,"rc":[],"screened":0},"280191":{"rc":[],"screened":0,"full":1,"parent":279167,"deleted":0,"u":"transitional_writes"},"283775":{"parent":280447,"full":1,"u":"transitional_writes","deleted":0,"screened":0,"rc":[]},"284543":{"full":1,"parent":280447,"deleted":0,"u":"transitional_writes","rc":[],"screened":0},"283007":{"full":1,"parent":280447,"deleted":0,"u":"transitional_writes","screened":0,"rc":[]},"284287":{"u":"transitional_writes","deleted":0,"parent":280447,"full":1,"screened":0,"rc":[]},"278655":{"screened":0,"rc":[278911],"u":"transitional_writes","deleted":0,"full":1,"parent":278399},"279167":{"deleted":0,"u":"transitional_writes","full":1,"parent":278911,"screened":0,"rc":[279423,279679,279935,280191,280447]},"form_auth":"c0:1784739600:2470:86400:wScLBwA3TE-4255543-23:da796787951c9f0084626780bd434165","282239":{"rc":[],"screened":0,"u":"transitional_writes","deleted":0,"full":1,"parent":280447},"journal":"transitional_writes","280703":{"screened":0,"rc":[],"u":"transitional_writes","deleted":0,"parent":280447,"full":1},"282751":{"deleted":0,"u":"transitional_writes","parent":280447,"full":1,"screened":0,"rc":[]},"canSpam":1,"283519":{"screened":0,"rc":[],"u":"transitional_writes","deleted":0,"parent":280447,"full":1},"284799":{"rc":[],"screened":0,"full":1,"parent":280447,"deleted":0,"u":"transitional_writes"}}
+</script>
+            <script type="text/javascript">
+                var Site;
+                if (!Site)
+                    Site = {};
+
+                Site = Object.assign(Site, {"ctx_popup_icons":1,"inbox_update_poll":1,"ctx_popup_userhead":1,"cmax_comment":16000,"ctx_popup":1,"siteroot":"https://www.dreamwidth.org","has_remote":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","imgprefix":"https://www.dreamwidth.org/img","iconprefix":"https://v2.dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","media_embed_enabled":1,"user_domain":"dreamwidth.org","currentJournal":"transitional_writes","esn_async":1});
+           </script>
+        <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/foundation/foundation_minimal.css?v=1783757040" />
+<link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.theme.smoothness.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery.commentmanage.css,controlstrip.css,controlstrip-dark.css,canary.css?v=1783757040" />
+<link rel="stylesheet" href="https://transitional-writes.dreamwidth.org/res/4545987/stylesheet?1765491116" type="text/css" />
+<title>transitional_writes | (no subject)</title>
+</head><body class="page-entry two-columns column-left any-column multiple-columns two-columns-left  logged-in my-journal not-subscribed has-access  has-navstrip">
+
+<div id='lj_controlstrip'>
+
+<div id='lj_controlstrip_userpic'>
+  <a href='https://www.dreamwidth.org/manage/icons'><img src='//www.dreamwidth.org/palimg/controlstrip/nouserpic.gif/p0699482' alt="Upload Icon" title="Edit Icons" height='43' width='43' /></a>
+</div>
+  <div id='lj_controlstrip_user'>
+    <span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='https://transitional-writes.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://transitional-writes.dreamwidth.org/'><b>transitional_writes</b></a></span>    <form id='Greeting' class='nopic' action='https://www.dreamwidth.org/logout' method='post'>
+      <div><input type='hidden' name="lj_form_auth" value="c0:1784739600:2470:86400:wScLBwA3TE-4255543-23:da796787951c9f0084626780bd434165" /><input type='hidden' name="user" value="transitional_writes" /><input type='hidden' name="returnto" value="https://transitional-writes.dreamwidth.org/51583.html?thread=278655" /><input type='hidden' name="sessid" value="23" /><input type='hidden' name="ret" value="1" />
+        <input type='submit' name="logout_one" value="Log out" id="Logout" class="submit" />      </div>
+    </form><a href='https://www.dreamwidth.org/'>Home</a>&nbsp;&nbsp; <a href='https://www.dreamwidth.org/update'>Post</a>&nbsp;&nbsp;<a href='https://transitional-writes.dreamwidth.org/read'>Reading</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/manage/settings/'>Settings</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/inbox/'>Inbox (173)</a>  </div>
+<div id='lj_controlstrip_actionlinks'>
+  <span id='lj_controlstrip_statustext'>You're viewing your journal</span>
+  <br /><a href='https://www.dreamwidth.org/comments/recent'>View Recent Comments</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/editjournal'>Manage Entries</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/manage/circle/invite'>Invite People</a></div>
+
+<div id='lj_controlstrip_search'><div class='appwidget appwidget-search' id='LJWidget_67'>
+<form action='https://www.dreamwidth.org/multisearch' method='post'>
+<input type="text" title="Search" size="20" class="text" id="search" value="" name="q" />
+<select id="id-type-0" name="type" class="select">
+<option value="int" selected='selected'>Interest</option>
+<option value="region">Region</option>
+<option value="nav_and_user">Site and Account</option>
+<option value="faq">FAQ</option>
+<option value="email">Email</option>
+</select>
+<input type='submit' value="Go" class="submit" />
+</form></div><!-- end .appwidget-search -->
+
+  Reload page in style:&nbsp;&nbsp;<a href='https://transitional-writes.dreamwidth.org/51583.html?style=site&amp;thread=278655'>site</a>&nbsp;&nbsp; <a href='https://transitional-writes.dreamwidth.org/51583.html?style=light&amp;thread=278655'>light</a></div>
+
+</div>
+
+    <div id="canvas">
+        <div class="inner">
+            <div id="header">
+                <div class="inner">
+                    <h1 id="title"><span><a href='https://transitional-writes.dreamwidth.org'>transitional_writes</a></span></h1><h2 id="pagetitle"><span>(no subject)</span></h2>
+<div class="module-wrapper"><div class="separator separator-before"><div class="inner"></div></div>
+<div class="module-section-header">
+<div class="inner"></div>
+</div><div class="separator separator-after"><div class="inner"></div></div>
+</div>
+                </div><!-- end header>inner -->
+            </div><!-- end header -->
+            <div id="content">
+                <div class="inner">
+    
+                    <div id="primary"><div class="inner">
+                        <div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-51583">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-51583">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/51583.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/07/">Jul</a>. <a href="/2026/07/02/">2nd</a>, <a href="/2026/">2026</a></span> <span class="time">01:09 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster "><span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='https://transitional-writes.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://transitional-writes.dreamwidth.org/'><b>transitional_writes</b></a></span></span><div class="entry-content">Возможно я бегу вперед паровоза,<br />хотя некоторые и говорят - а какие задачи это способно решить и нужно ли оно.<br />Но для начала надо просто описать примененеие индукции Соломонова в<br />социальных науках.<br /><br />1. есть множество всех сценариев всех фильмов, которые ты можешь увидеть. их бесконечно много.<br /><br />2. в каждом фильме есть бекстейдж. 7 999 999 999 жителей земли что-то делают и договариваются за твоей спиной<br /><br />3. чем проще сценарий - тем он вероятнее в реальной жизни<br /><br />4. то что ты наблюдаешь - просто отбрасывает несбывшиеся сценарии. остальные остаются<br /><br />Пынкты 1-4 - это естественно-научная методология.<br />Так называемое априорное распределение Соломонова.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><a href="https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html">https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html</a><br /><br />Это все возможные сценарии жизни, включая злые и порнографические.<br />В них может происходить все что угодно. В них может происходить<br />какое угодно зло. Этих сценариев бесконечно много, это так называемое<br />неразрешимое множество. Его можно бесконечно печатать. Этих сценариев<br />бесконечно.<br /><br />Во всех этих сценариях есть backstage, то что ты не видишь, но видят другие.<br />Людей 8 000 000 000, ты видишь лишь 1/8 000 000 000 часть общей картины,<br />7 999 999 999 что-то делают и о чем-то договариваются за твоей спиной.<br /><br />Это множество перечислимо. Можно печатать сценарии от простого к сложному.<br />Чем проще сценарий, тем он вероятнее. Итоговые вероятности всех сценариев<br />задают априорное распределение вероятности финалов жизни всех людей.<br /><br />То что ты видишь или не видишь перед собой отбрасывает те сценарии, в<br />которых увиденное или не увиденное тобой событие не произошло. Оставшиеся<br />сценарии с их вероятностями образуют апостериорное распределение вероятностей.<br /><br />Во всех сценариях и во всех backstage есть определенная база, которая не<br />испаряется за твоей спиной. Это многократно проверяемые законы физики и химии,<br />а также математики и индуктивной логики.<br /><br />Я так понимаю, что многие люди просто не верят, что какие-то негативные<br />сценарии могут осуществляться на практике. Априорно их отбрасывают.<br />Назовем эти сценарии злыми.<br /><br />Часто говорят, что<br />1. Априорного зла нет, так как человек не животное.<br />Странный аргумент. Априорное зло есть, так как все сценарии<br />можно напечатать. А самый простой сценарий - это подражать<br />животным.<br />2. Априорного зла нет, так как все обучены на добром советском<br />телевизоре. Но в добром советстком телевизиоре есть фильм<br />Место встречи изменить нельзя, который посвящен априорному злу.<br />3. Априорного зла нет, так как в школе учат другому.<br />Но всегда есть странновато-прошаренные двоешники, которые<br />будто бы подметили асимметрию в обучающем материале и<br />сделали свои выводы.<br />4. Априорного зла нет, так как есть УК РФ.<br />Но в УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br /><br /><br />Собственно, в разговорах про социализм я столкнулся с тем, что никто<br />вообще не может сказать, что конкретно делают планировщики за его спиной.<br /><br />Планировщики планируют.<br />Это такие специальные люди. На кружке по изобретательству в третьем классе<br />мне Боков сказал - если в решении задачи появляется специальный компонент,<br />значит задача решена неверно.<br /><br />У Госплана же есть entry point.<br />Trace log. Ее можно дебажить по шагам.<br />За прошедшее время что-то стало недоступно или изменилось?<br />Но это банальные ненаблюдаемые обстоятельства времени и места,<br />любой планировщик госплана отделен от событий на местах как минимум<br />расстоянием, он их не наблюдает. А для относительно быстрых событий,<br />даже потенциальная возможность приехать оставляет и отделение по<br />времени.<br /><br />Наконец люди могут просто сказать.<br />Я выучил определенный набор процедур и навыков. Этого достаточно.<br />Зачем мне знать что-то еще? Но мир меняется, сегодня эти навыки<br />востребованы, завтра никому не нужны.<br /><br />И не скатываться на #include<br />только буквальное исследование выводов из этой теории.<br /><br />В конечном счете, раз уж тут есть военная тайна и дезинформация,<br />особенно если я прав насчет детонаторов - но возможно не прав -<br />то не было ли военной тайной здесь существование рынка в Госплане в<br />СССР?<br /><br />В конечном счете, если детали конструкции оружия могут быть засекречены,<br />детали функционирования Госплана могут быть засекречены, то<br />почему не может оказаться, что в СССР на уровне топов был свободнй рынок?<br /><br />Чему это противоречит? Скорее всего, ничему.<br /><br />Отвлекаясь в сторону Мизеса.<br />Именно этот вопрос меня и заинтересовал.<br />Кажется я продвинулся несколько дальше Мизеса.<br />Его "доказательство" мне показалось не доказательством, а именно<br />плохо выраженной мысль - а что будет делать Госплан.<br />На которую легко возражать - ну есть же матметоды, тупй ты Мизес.<br />Вот и все.<br /><br />Я решил, что не вот и все, а нужно все проверить. Любопытно.<br />Но в целом исходил, что ответ про матметоды - реально все крушит.<br />Заинтересовался обобщенным планированием. Там неопределенность и<br />невычислимость. И колмогоровская сложность.<br />Подумал о колмогоровской сложности деятельности госплана.<br />Это вполне формальный вопрос.<br />Подумал, что рыночный процесс создает определенные, основанные на законах<br />физики явления, колмогоровская сложность информации из которых<br />при считывании агентами как раз и равна колмогоровской сложности<br />госплана.<br /><br />А что госплану даст такую информацию?<br />Ему же нужен diff, assert.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link link_prev first-item"> <a href="https://www.dreamwidth.org/go?dir=prev&itemid=51583&journal=transitional_writes" ><img border='0' width="16" height="16" alt="Previous Entry" title="Previous Entry" src="//www.dreamwidth.org/img/silk/entry/previous.png"  /></a></li>
+<li class="link edit_entry"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=51583" class="TrackButton" lj_auth_token="ajax:1784739600:4255543:23:/__rpc_esn_subs:addsub&51583&3&4255543:3fdddc2fb0912b90051cd04eb22cb44b203a0d16" lj_subid="0" lj_newentry_etypeid="1" lj_etypeid="3" js_swapname="Untrack This" lj_newentry_token="ajax:1784739600:4255543:23:/__rpc_esn_subs:addsub&1&4255543:9f16ac53d56fd443b0f12ecb86cdeafc66193581" lj_newentry_subid="0" lj_journalid="4255543" lj_arg1="51583" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=51583&journal=transitional_writes" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="//www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
+</ul><hr class="above-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">80 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("topcomment", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
+
+<div id='qrdiv' style="display: none;">
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1784739600:2470:86400:wScLBwA3TE-4255543-23:da796787951c9f0084626780bd434165" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="51583" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/51583.html?" id="basepath" /><input type='hidden' name="viewing_thread" value="278655" id="viewing_thread" /><input type='hidden' name="chrp1" value="51583-4255543-1784739600-v9ODk8Xlioo7FSKQVyhS-c55f212371fd61ec102f69dd43d28dd6" />
+<div class='qr-meta'>
+
+  <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
+
+
+
+
+
+<div class='block-icon no-label'>
+
+  <a href="https://www.dreamwidth.org/manage/icons" class="no-icon"><img src="https://www.dreamwidth.org/img/nouserpic.png" width="80" height="80" alt="Manage Icons" title="Manage Icons" border='0' /></a>
+
+</div>
+
+
+
+
+</div>
+
+<div class="qr-subject">
+        <label for="subject" class="invisible">
+            Subject
+        </label>
+        <input type="text" value="" name="subject" placeholder="Subject" id="subject" class="text" size="50" maxlength="100" />
+</div>
+
+
+
+<div class="qr-markup">
+  <div class="qr-markup-type">
+        <label for="prop_editor" class="invisible">
+            Formatting type
+        </label>
+        <select id="prop_editor" name="prop_editor" class="select">
+<option value="html_casual1" selected='selected'>Casual HTML</option>
+<option value="markdown0">Markdown</option>
+<option value="html_raw0">Raw HTML</option>
+<option value="rte0">Rich Text Editor</option>
+</select>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
+  </div>
+
+  <div class="qr-markup-controls">
+    <input type="button" id="comment-text-quote" value="Quote" tabindex="-1" class="js-only markup-button" style="display: none;" data-quote-error="To quote a portion of the original message, highlight it and press Quote." />
+  </div>
+</div>
+
+<div class="qr-body">
+        <label for="body" class="invisible">
+            Message
+        </label>
+        <textarea cols="80" name="body" id="body" rows="10" class="text" wrap="soft"></textarea></div>
+
+<div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" class="submit" id="submitpost" />
+
+  <input type='submit' name="submitpview" value="Preview" id="submitpview" class="submit" /><input type='hidden' name="submitpreview" value="0" />
+
+  
+    <div class='de'><strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.</div>
+    
+  </div>
+
+</form></div>
+</div>
+<hr class="below-reply-container" /></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-flat"><a href="https://transitional-writes.dreamwidth.org/51583.html?view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="https://transitional-writes.dreamwidth.org/51583.html?view=top-only#comments">Top-Level Comments Only</a></span></div><form style='display: inline' method='post' action='https://www.dreamwidth.org/talkmulti' name='multiform'>
+<input type='hidden' name="ditemid" value="51583" /><input type='hidden' name="journal" value="transitional_writes" />
+<div data-comment-depth='1' style='--comment-depth: 1; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-1 comment-depth-1'>
+<div id='cmt278655' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt278655">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=278655#cmt278655" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 05:11 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">но без рынка нет такого процесса, который бы ее обеспечивал<br /><br />так что, в СССР был рынок и это было гостайной?<br /><br />выглядит, что без рынка невозможно вообще планирование и работа экономики.<br /><br />в итоге все-равно нужен поток assert<br /><br />ну доредуцировать нужно.<br />но в итоге это реально поток assert на действия конкретных людей.<br /><br /><br />Отвлекаясь в сторону Мизеса.<br />Именно этот вопрос меня и заинтересовал.<br />Кажется я продвинулся несколько дальше Мизеса.<br />Его "доказательство" мне показалось не доказательством, а именно<br />плохо выраженной мысль - а что будет делать Госплан.<br />На которую легко возражать - ну есть же матметоды, тупй ты Мизес.<br />Вот и все.<br /><br />Я решил, что не вот и все, а нужно все проверить. Любопытно.<br />Но в целом исходил, что ответ про матметоды - реально все крушит.<br />Заинтересовался обобщенным планированием. Там неопределенность и<br />невычислимость. И колмогоровская сложность.<br />Подумал о колмогоровской сложности деятельности госплана.<br />Это вполне формальный вопрос.<br />Подумал, что рыночный процесс создает определенные, основанные на законах<br />физики явления, колмогоровская сложность информации из которых<br />при считывании агентами как раз и равна колмогоровской сложности<br />госплана.<br /><br />А что госплану даст такую информацию?<br />Ему же нужен diff, assert.<br /><br />По большому счету есть три явления.<br /><br />1. Поведение людей в Госплане.<br /><br />2. Поведение людей в условиях рынка.<br /><br />3. Рыночные цены, полученные за счет поведения людей в условиях рынка.<br />Это тонкий момент, так как как таковых рыночных цен нет.<br />Есть отдельные сделки. И информация о них. Но она, (в силу закона спроса и предложения? -- насколько это важно??)<br />позволяет делать выводы о некоторой текущей цене.<br />По крайней мере позволяет считать прибыль и убыток.<br />Т.е. получать assert.<br />Сложность которого равна сложности деятельности.<br /><br />даже если что-то по ошибке или специально работает на свалку,<br />по идее это все точно приводит либо к истощению количества денег у ошибающихся<br />либо к уменьшению несвалочного потребления у специалистов по свалке.<br /><br />Не то, чтобы невозможны были сценарии длительных ошибок.<br />Но видны вполне конкретные assertLessThen.<br /><br />В случае госплана не с чем сравнивать любое решение.<br /><br />&gt; Но видны вполне конкретные assertLessThen.<br /><br />фактически видны assertLessThen  на каждое действие каждого человека<br />даже в крупной корпорации,<br />доколе он работает с вещами имеющими то или иное хождение на рынке.<br /><br />В Госплане об ошибке может сообщить только такой же планировщик рядом.<br />если не рыночны процесс - то только Госплан может выдать<br />такой assertLessThen. но в сумме эти два человека образуют просто<br />отдел Госплана. А кто выдаст assertLessThen отделу?<br /><br />В итоге снова получаем два Госплана, но как они будут сравнивать свалки?<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text">Date: </span> <span title="">2026-07-06 05:37 pm (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_278655">Select:</label> <input type='checkbox' name='selected_1088' class='ljcomsel' id='ljcomsel_278655' /></span><ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=278655" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=278655" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=278655" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278655#cmt278655">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("278655", 1088, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=278655&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=278655">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278399#cmt278399">Parent</a></li>
+<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278655#cmt278655">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt278655_hide"><a href='#cmt278655' onClick="Expander.hideComments(this, '278655'); return false;">Hide 24 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt278655_unhide"><a href='https://transitional-writes.dreamwidth.org/51583.html?thread=278655#cmt278655' onClick="Expander.unhideComments(this, '278655'); return false;">Show 24 comments</a></li>
+</ul><div  id="ljqrt278655" data-quickreply-container="278655" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div><div data-comment-depth='2' style='--comment-depth: 2; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-even comment-depth-mod5-2 comment-depth-2'>
+<div id='cmt278911' class='dwexpcomment' style='margin-left: 25px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt278911">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=278911#cmt278911" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 06:01 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">В целом ясно, что что для каждого человека важны assert<br />Что для Госплана.<br /><br />Можно даже исходить из фиксированных потребностей и задачи<br />минимизации свалок. Иначе вообще получается, что госплан<br />может делать все что угодно.<br /><br />Можно сократить количество проверок. Но тогда не будет уверенности,<br />что непроверенное действие не было лишним.<br /><br />В итоге все ссводится к assertLessThen каждого конкретного сотрудника Госплана.<br />А им не с чем сравнивать свою деятельность.<br /><br />Как конкретно это было отрефлексировано в СССР?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_278911">Select:</label> <input type='checkbox' name='selected_1089' class='ljcomsel' id='ljcomsel_278911' /></span><ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=278911" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=278911" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=278911" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278911#cmt278911">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("278911", 1089, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=278911&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=278911">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278655#cmt278655">Parent</a></li>
+<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278911#cmt278911">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt278911_hide"><a href='#cmt278911' onClick="Expander.hideComments(this, '278911'); return false;">Hide 23 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt278911_unhide"><a href='https://transitional-writes.dreamwidth.org/51583.html?thread=278911#cmt278911' onClick="Expander.unhideComments(this, '278911'); return false;">Show 23 comments</a></li>
+</ul><div  id="ljqrt278911" data-quickreply-container="278911" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div><div data-comment-depth='3' style='--comment-depth: 3; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-3 comment-depth-3'>
+<div id='cmt279167' class='dwexpcomment' style='margin-left: 50px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt279167">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 06:02 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">Планирование от достигнутого?<br />Именно, что не совсем понимаю что это такое.<br />Но звучит как то, что если что-то уже работает на свалку оно<br />еще больше свалок будет порождать.<br /><br />Как проверить, что достигнутое - не свалка?<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text">Date: </span> <span title="">2026-07-06 06:02 pm (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_279167">Select:</label> <input type='checkbox' name='selected_1090' class='ljcomsel' id='ljcomsel_279167' /></span><ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=279167" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=279167" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=279167" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("279167", 1090, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=279167&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=279167">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=278911#cmt278911">Parent</a></li>
+<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt279167_hide"><a href='#cmt279167' onClick="Expander.hideComments(this, '279167'); return false;">Hide 22 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt279167_unhide"><a href='https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167' onClick="Expander.unhideComments(this, '279167'); return false;">Show 22 comments</a></li>
+</ul><div  id="ljqrt279167" data-quickreply-container="279167" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div><div data-comment-depth='4' style='--comment-depth: 4; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-even comment-depth-mod5-4 comment-depth-4'>
+<div id='cmt279423' class='dwexpcomment' style='margin-left: 75px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt279423">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=279423#cmt279423" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 06:11 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">В конечном счете тут есть несколько вариантов.<br /><br />1. Тексты Мизеса выглядят странновато. Скорее как<br />"вырезано цензурой". Там именно полупустая страничка вместо<br />доказательства. При этом к 1920 году естественно-научная<br />методология и весь этот махизм были не столь уж неизвестны.<br />И, возможно, даже это прозвучит недооценкой их влияние.<br /><br />Конечно, это теория заговора, но любое конкретное устройство<br />Госплана - это теория заговора. Любое совещание в Госплане -<br />это заговор, закрытый от посторонних глаз.<br /><br />В СССР все времена были деньги. Они всегда были. Они могли значить<br />не столь много для рядовых граждан. Но могли значить гораздо больше<br />для тех, кто в теме. Это лишь интерпретация. Но быть может<br />вырезанные цензурой тексты из Мизеса были вполне известны<br />топам СССР.<br /><br />2. Может быть есть очень сильно недооцененные масштабы свалок в СССР.<br />Реально издержки были огромными. Красивым был лишь фасад.<br /><br />3. Возможно просто прокатило, повезло. Кажется социализм разлива СССР<br />более-менее витринным получился лишь в СССР. В остальных - не очень.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_279423">Select:</label> <input type='checkbox' name='selected_1091' class='ljcomsel' id='ljcomsel_279423' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=279423&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=279423" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=279423" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=279423" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279423#cmt279423">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("279423", 1091, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=279423&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=279423">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Parent</a></li>
+</ul><div  id="ljqrt279423" data-quickreply-container="279423" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='4' style='--comment-depth: 4; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-even comment-depth-mod5-4 comment-depth-4'>
+<div id='cmt279679' class='dwexpcomment' style='margin-left: 75px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt279679">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=279679#cmt279679" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 06:47 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">в конечном счете потребность в assertThen может вызвать и<br /><br />1. банальная склонность доверять и лгать. сильно лгать.<br />хотя именно к этому я и не хотел что-либо сводить.<br />пусть все люди честны<br /><br />2. банальные ошибки. но к этому тоже не хочу сводить.<br />это звучит как, пусть и незбежное, но нечто мимолетное и сводимое<br />к минимому.<br /><br />3. но, даже для очень дисциплинированных людей часто строгие рассуждения и<br />фантазии могут быть отделены очень тонкой гранью. как точно<br />отличить одно от другого? ценную идею, полученную перебором вариантов,<br />и выглядящую правдоподобной от реально проверенной информации?<br /><br />пропадать идее? но если она выглядит истинной? что-то услышанное,<br />но неверно запомненное? или даже запомненное как есть, но в реальности<br />являющееся лишь идеей для мозгового штурма? как отличить одно<br />от другого? нужна сверка с реальностью. assertThen.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_279679">Select:</label> <input type='checkbox' name='selected_1092' class='ljcomsel' id='ljcomsel_279679' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=279679&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=279679" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=279679" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=279679" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279679#cmt279679">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("279679", 1092, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=279679&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=279679">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Parent</a></li>
+</ul><div  id="ljqrt279679" data-quickreply-container="279679" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='4' style='--comment-depth: 4; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-even comment-depth-mod5-4 comment-depth-4'>
+<div id='cmt279935' class='dwexpcomment' style='margin-left: 75px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt279935">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=279935#cmt279935" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 06:49 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">доколе вообще мыслительный процесс в какой-то мере близок к коррелятору<br />априорного универсального распределения и входящей информации<br />требуется входящая информация для сравнения со своими идеями.<br /><br />иначе будут переть только свои идеи.<br /><br />в этом смысле рыночный ассерт на каждое действие чуть ли<br />не безусловно необходим.<br /><br />ну доколе вообще мыслительный процесс в какой-то мере близок...<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text">Date: </span> <span title="">2026-07-06 06:50 pm (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_279935">Select:</label> <input type='checkbox' name='selected_1093' class='ljcomsel' id='ljcomsel_279935' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=279935&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=279935" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=279935" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=279935" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279935#cmt279935">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("279935", 1093, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=279935&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=279935">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Parent</a></li>
+</ul><div  id="ljqrt279935" data-quickreply-container="279935" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='4' style='--comment-depth: 4; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-even comment-depth-mod5-4 comment-depth-4'>
+<div id='cmt280191' class='dwexpcomment' style='margin-left: 75px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt280191">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=280191#cmt280191" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-06 07:09 pm (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">в конечном счете вопрос классификации личной шерсти от государственной<br />личного времени от государствоенного<br />и государственных мыслей от личных<br />для сотрудника госплана<br />есть процесс индуктивный и алгоритмически неразрешимый.<br /><br />а значит нужно сравнение с объективной реальностью.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_280191">Select:</label> <input type='checkbox' name='selected_1094' class='ljcomsel' id='ljcomsel_280191' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=280191&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=280191" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=280191" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=280191" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280191#cmt280191">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("280191", 1094, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=280191&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=280191">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Parent</a></li>
+</ul><div  id="ljqrt280191" data-quickreply-container="280191" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='4' style='--comment-depth: 4; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-even comment-depth-mod5-4 comment-depth-4'>
+<div id='cmt280447' class='dwexpcomment' style='margin-left: 75px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt280447">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 02:29 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">ну т.е. да<br /><br />можно подъехать к open source разработчику.<br /><br />можно подъехать к планировщику Госплана.<br /><br />можно подъехать к инженерам-нефтяникам, химикам, азотчикам<br /><br />можно подъехать к методологам образования<br /><br />можно подъезжать к девушкам и говорить всем разное.<br /><br />одни добавляют в УК РФ статью за метарт, другие говорят, что ничего за это не будет.<br /><br />можно расплачиваться скомпрометированными девушками с теми, к кому подъезжаешь.<br /><br />и этих параллельных Госпланов можно запустить множество. разведка вражеского государства может<br />запустить контргосплан. кстати, а сколько таких контргоспланов запускают друг другу<br />вражеские государства?<br /><br />можно запустить Госплан по планированию, а кто тут ценные специалисты остались - не увезти ли их<br />в сказочный Валинор. т.е. долину Джона Голта. На вертолетике над океаном.<br /><br />основное возражение - что если тут будет параллельная полиция, то ее будет ловить основная.<br />но в каждом конкретном случае основной полицейский один, граждан много, улик не хватает,<br />гипотезы размыты, также можно подделать корочки и стать похожим на основного полицейского.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_280447">Select:</label> <input type='checkbox' name='selected_1095' class='ljcomsel' id='ljcomsel_280447' /></span><ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=280447" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=280447" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=280447" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("280447", 1095, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=280447&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=280447">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=279167#cmt279167">Parent</a></li>
+<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt280447_hide"><a href='#cmt280447' onClick="Expander.hideComments(this, '280447'); return false;">Hide 17 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt280447_unhide"><a href='https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447' onClick="Expander.unhideComments(this, '280447'); return false;">Show 17 comments</a></li>
+</ul><div  id="ljqrt280447" data-quickreply-container="280447" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div><div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt280703' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt280703">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=280703#cmt280703" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 02:33 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">Что за Госплан и откуда он приехал в СССР в 1917?<br />И в каком вагоне?<br />Что точно происходило в Вене в 1920, Отто фон Нейрат, Мизесы?<br /><br />Как точно хайрили всякий Nitrogen Engineering и прочих инженеров,<br />описанных Саттоном <br /><a href="https://ia803209.us.archive.org/1/items/Sutton--Western-Technology-1917-1930/Sutton--WesternTechnologyAndSovietEconomicDevelopment1917To1930.pdf">https://ia803209.us.archive.org/1/items/Sutton--Western-Technology-1917-1930/Sutton--WesternTechnologyAndSovietEconomicDevelopment1917To1930.pdf</a><br /><br />Если доверять этоим матриалам Саттона. Но здесь видна попытка провести<br />исследование, а откуда вообще что взялось?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_280703">Select:</label> <input type='checkbox' name='selected_1096' class='ljcomsel' id='ljcomsel_280703' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=280703&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=280703" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=280703" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=280703" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280703#cmt280703">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("280703", 1096, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=280703&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=280703">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt280703" data-quickreply-container="280703" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt280959' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt280959">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=280959#cmt280959" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 03:18 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">&gt; можно подъехать к инженерам-нефтяникам, химикам, азотчикам<br /><br />&gt; Как точно хайрили всякий Nitrogen Engineering и прочих инженеров,<br /><br />ну, кстати, да. Берцелиус все эти C2H5OH открл только потому что<br />все химические реактивы 200 лет назад продавались в аптеках и<br />горно-рудных магазинах.<br /><br />сейчас химия везде запрещена. ей должна заниматься кучка,<br />небольшая кучка людей. их можно найти по статьям. и подъехать.<br />и некому будет их заменить. а как же азотные заводы?  а как же НПЗ?<br /><br />Вот уж что-то, но некоторый базис в СССР на эту тему был.<br />нитроцеллюлозу и хлорат натрия там в методичках получали.<br />некоторые вопросы к дальнейшему - как регулировать точно<br />чувствительность этих составов?<br /><br />хлорат натрия + битум. а как пластифицировать нитроцеллюлозу?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_280959">Select:</label> <input type='checkbox' name='selected_1097' class='ljcomsel' id='ljcomsel_280959' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=280959&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=280959" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=280959" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=280959" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280959#cmt280959">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("280959", 1097, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=280959&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=280959">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt280959" data-quickreply-container="280959" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt281215' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt281215">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=281215#cmt281215" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 03:42 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content"><a href="https://ia803209.us.archive.org/1/items/Sutton--Western-Technology-1917-1930/Sutton--WesternTechnologyAndSovietEconomicDevelopment1917To1930.pdf">https://ia803209.us.archive.org/1/items/Sutton--Western-Technology-1917-1930/Sutton--WesternTechnologyAndSovietEconomicDevelopment1917To1930.pdf</a><br /><br /><a href="https://ia801501.us.archive.org/14/items/Sutton--Western-Technology-1945-1965/Sutton--WesternTechnologyAndSovietEconomicDevelopment1945To1965.pdf">https://ia801501.us.archive.org/14/items/Sutton--Western-Technology-1945-1965/Sutton--WesternTechnologyAndSovietEconomicDevelopment1945To1965.pdf</a><br /><br /><a href="https://crystalbook.ru/wp-content/uploads/2021/05/Sutton-WesternTechnologyAndSovietEconomicDevelopment_2_1930To1945.pdf">https://crystalbook.ru/wp-content/uploads/2021/05/Sutton-WesternTechnologyAndSovietEconomicDevelopment_2_1930To1945.pdf</a><br /><br />В конечном счете я не видел вообще практически книг по истории такого духа.<br />Саттон рассматривает следующий вопрос.<br />Вот на западе есть 100 лет истории. От простейших методов производства до<br />современного состояния. При этом множество конкретных проб и ошибок,<br />множество разных методов. Какие-то живут параллельно и неизвестно, кто<br />эффективнее. Какие-то отмерли.<br />Все это выглядит как естественный процесс инженерного открытия.<br /><br />В СССР изниоткуда возникает один из эти современных методов в чистом виде.<br />Без истории, без методов проб и ошибок.<br /><br />Что это?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_281215">Select:</label> <input type='checkbox' name='selected_1098' class='ljcomsel' id='ljcomsel_281215' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=281215&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=281215" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=281215" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=281215" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=281215#cmt281215">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("281215", 1098, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=281215&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=281215">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt281215" data-quickreply-container="281215" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt281471' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt281471">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=281471#cmt281471" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 03:44 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">&gt; Что это?<br /><br />Верно ли я понимаю, что есть люди, верующие в<br />скатерть самобранку, либо же распространяющие эту веру?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_281471">Select:</label> <input type='checkbox' name='selected_1099' class='ljcomsel' id='ljcomsel_281471' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=281471&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=281471" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=281471" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=281471" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=281471#cmt281471">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("281471", 1099, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=281471&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=281471">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt281471" data-quickreply-container="281471" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt281727' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt281727">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=281727#cmt281727" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 03:47 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">&gt; В СССР изниоткуда возникает один из эти современных методов в чистом виде.<br /><br />В конечном счете, чтобы сделать сложную вещь следует.<br /><br />1. Отталкиваться от достигнутого.<br />2. Проводить эксперименты.<br />3. Искать различные варианты. И проверять их. Перебор.<br /><br />Есть ли какой-то иной секретный метод?<br />но если он секретен - не может ли это быть все тем же методом индуктивного поиска?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_281727">Select:</label> <input type='checkbox' name='selected_1100' class='ljcomsel' id='ljcomsel_281727' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=281727&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=281727" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=281727" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=281727" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=281727#cmt281727">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("281727", 1100, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=281727&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=281727">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt281727" data-quickreply-container="281727" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt281983' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt281983">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=281983#cmt281983" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 03:57 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">В конечном счете именно здесь сходится<br /><br />1. Проблема планирования<br />Выдачи инструкций R1, R2 -&gt; R3<br /><br />2. Собственно, технологическое знание,<br />что R1 + R2 -&gt; R3<br /><br />3. Проблема индукции. А как вообще было получено это знание?<br />Эксперименты многочисленные + обработка результатов?<br />Мешали все со всем R[x] * R[y], выяснили закономерности<br />и нашли как частные правила, так и общие закономерности<br /><br />4. Проблема уточнений знаний. Но ведь если в каждый конкретный момент<br />я делаю R1 + R2, но не получаю R3 значит<br />1. либо я что-то не понял и надо бы самому разобраться,<br />если этот способ я не осилил найду другой, может и эффективнее будет<br />2. с R1 и R2 что-то не совсем то, но может быть другой способ сработает.<br />или саому поискать заменители<br />3. Это вообще все ложь - так работать не может.<br />Эта инструкция неверна.<br /><br />5. Проблема истории. Что конкретно делали разные люди.<br />Как составляли приказы R1, R2 -&gt; R3. <br />Откуда они взялись? Это же априорно только результат индуктивного процесса<br />2 и 3.<br />И как происходитл assert в пункте 4?<br />Ведь если знание индуктивно, то оно требует уточнений.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text">Date: </span> <span title="">2026-07-07 03:58 am (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_281983">Select:</label> <input type='checkbox' name='selected_1101' class='ljcomsel' id='ljcomsel_281983' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=281983&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=281983" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=281983" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=281983" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=281983#cmt281983">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("281983", 1101, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=281983&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=281983">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt281983" data-quickreply-container="281983" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt282239' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt282239">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=282239#cmt282239" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 04:03 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">вот, здесь уже все ближе к вот центральному элементу.<br /><br />3 - это понятно.<br />вопрос может ли этот процесс в некотором смысле дать вечные данные<br />и можно ли эти вечные данные неправильно понимать?<br /><br />кроме того, кроме самих процедур R1, R2 -&gt; R3 есть еще данные о ресурсах<br />R1, R2. поиск полезных ископаемых это тоже индуктивный процесс.<br />химический анализ это тоже индуктивный процесс.<br /><br />ну или конкретные рецепты и процедуры являются результатом индуктивного процесса<br />это уже не вопрос интерпретации. это уже вопрос того, что называют люди этим словом<br />ну и основного свойства этого процесса - что это все неочевидно. это нужно искать.<br />в этом нужно разбираться. а значит каждый человек может этого не понимать.<br />независимо от прочтенных инструкций.<br /><br />в итоге Госплан тоже базирует решения на данных, полученных индутивным путем.<br />но эти данные никогда не бывают полностью верны<br />3 сигма, 6 сигма, все это будет мешаться в динамической системе без<br />assertThen.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_282239">Select:</label> <input type='checkbox' name='selected_1102' class='ljcomsel' id='ljcomsel_282239' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=282239&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=282239" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=282239" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=282239" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=282239#cmt282239">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("282239", 1102, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=282239&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=282239">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt282239" data-quickreply-container="282239" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt282495' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt282495">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=282495#cmt282495" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 04:11 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">&gt; в итоге Госплан тоже базирует решения на данных, полученных индутивным путем.<br />&gt; но эти данные никогда не бывают полностью верны<br />&gt; 3 сигма, 6 сигма, все это будет мешаться в динамической системе без<br />&gt; assertThen.<br /><br />причем тут даже 6 сигма не поможет.<br />уран, другие металлы можно получить в очень чистом виде и они<br />будут пригодны для использования.<br /><br />но как получить в чистом виде какую-то глину с какими-то свойствами?<br /><br />это уже практически невозможно. разные исследования могут давать<br />разные результаты. требуется глина из какого-то конкретного места.<br />требуются какие-то конкретные, подходящие этой глине методы.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_282495">Select:</label> <input type='checkbox' name='selected_1103' class='ljcomsel' id='ljcomsel_282495' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=282495&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=282495" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=282495" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=282495" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=282495#cmt282495">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("282495", 1103, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=282495&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=282495">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt282495" data-quickreply-container="282495" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt282751' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt282751">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=282751#cmt282751" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 04:13 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">вспоминается статья, что застывание цемента - это строго говоря _многолетний_ процесс,<br />подчиняющийся законам гиперцикла из книжк Эйгена про возникновение жизни.<br />что это типа протожизнь. вы искали может ли самозарождаться гиперцикл на земле -<br />изучайте процесс застывания бетона.<br />ну а это глина и известка.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_282751">Select:</label> <input type='checkbox' name='selected_1104' class='ljcomsel' id='ljcomsel_282751' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=282751&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=282751" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=282751" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=282751" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=282751#cmt282751">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("282751", 1104, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=282751&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=282751">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt282751" data-quickreply-container="282751" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt283007' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt283007">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=283007#cmt283007" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 04:20 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">&gt; уран, другие металлы можно получить в очень чистом виде и они<br />&gt; будут пригодны для использования.<br /><br />&gt;но как получить в чистом виде какую-то глину с какими-то свойствами?<br /><br />вообще обогащение урана процесс крайне простой.<br />простейший детонатор - разогнать болванку порохом и пустить через урановое кольцо - тоже прост.<br />секрет термоядерной бомбы нигде не опубликован, но, возможно, прицнип тот же самый.<br />это лишь еще один щаг в explosive train.<br /><br />а вот если свойства цемента зависят от свойств глины, а месторождение непрерывно<br />вырабатывается и глина меняет свойства?<br />это приводит к тому, что работа с этим материалом всегда будет индуктивным процессом,<br />а не следованием один раз написанным инструкциям.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_283007">Select:</label> <input type='checkbox' name='selected_1105' class='ljcomsel' id='ljcomsel_283007' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=283007&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=283007" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=283007" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=283007" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=283007#cmt283007">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("283007", 1105, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=283007&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=283007">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt283007" data-quickreply-container="283007" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt283263' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt283263">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=283263#cmt283263" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 04:28 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">С жд насыпями то же самое.<br />Что-то может пойти не так. Материал, грунт, погодные условия всегда разные.<br />Что-то может пойти не так.<br />Инструкции на все случаи будет невозможно прочесть и запомнить.<br />Надо решать задачи каждый раз заново.<br /><br />Вообще все это надо на физфак желдора и строительного тащить.<br />Ну и инженерам тоже, основной момент - реально повод для общения,<br />строго говоря, отсутствует. Если только на ЛОРе железнодорожники не попались.<br />На самом деле полно, не понятно почему не зацепил в свое время.<br />На физфаке могут понять. И как бы типа повод понятен.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_283263">Select:</label> <input type='checkbox' name='selected_1106' class='ljcomsel' id='ljcomsel_283263' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=283263&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=283263" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=283263" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=283263" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=283263#cmt283263">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("283263", 1106, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=283263&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=283263">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt283263" data-quickreply-container="283263" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt283519' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt283519">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=283519#cmt283519" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 04:48 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">в конечном счете именно эту странность я и подметил.<br />не специалист, я лишь задавал вопросы.<br /><br />1. с точки зрения моего подхода,<br />индуктивного.<br />железнодорожники и инженеры цементных комбинатов могут<br />заниматься чуть ли не более интеллектуальным трудом, чем физики ядерщики.<br />они каждый раз решают новые, ну или старые, но из такого обширного списка<br />задач, что его не запомнить и не записать. каждый раз решай заново как новую<br />задачу.<br />физики ядерного цикла сидят на простой и давно решенной задаче.<br />(на самом деле нет, но это то общий вопрос)<br /><br />2. разработка ПО тоже индуктивный процесс. Всегда спрашивай требования заказчика,<br />уточняй их. Идут проблемы непрерывно.<br /><br />3. Некоторые математики (или многие математики?) считали, что в математике крайне важен,<br />а то и представляет суть интуитивный, исторический, индуктивный процесс. В этом<br />месте тоже есть некоторая странность. Но некоторые подмечали, что это важная часть<br />вот этого всего. См. Пойа, Курант, Колмогоров в книгах по истории математики.<br /><br />4. В планировании тоже существует "планирование в условиях неопределенности",<br />как наиболее обощенная задача планирования. Нет никаких правил. Ты их ищешь<br />индуктивным путем, а что нашел - то действует неопределенное время.<br />См. Рассел, Норвиг.<br /><br />Так как сотруднику Госплана узнать, что найденные им или кем-то правила еще<br />действуют?<br />Или Госплан СССР существует в условиях определенности?<br />Но как, если даже технологические данные могут быть недостаточно определенными.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text">Date: </span> <span title="">2026-07-07 04:53 am (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_283519">Select:</label> <input type='checkbox' name='selected_1107' class='ljcomsel' id='ljcomsel_283519' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=283519&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=283519" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=283519" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=283519" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=283519#cmt283519">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("283519", 1107, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=283519&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=283519">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt283519" data-quickreply-container="283519" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt283775' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt283775">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=283775#cmt283775" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 05:06 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">ну по большому счету индуктивная логика меняет поведение некоторых людей,<br />которые живут из долга перед невидимыми сущностями.<br /><br />поэтому и я делаю заключение, что Таня на кого-то работала.<br />она изменилась.<br /><br />почему не меняюсь я? ну, у меня чувство долга перед 4 невидимыми сущностями.<br /><br />1. индуктивная логика. но она никуда не исчезла.<br /><br />2. мне нравятся самарчанки и метарт-модели из России и Украины<br />и этот вопрос тоже не решен.<br /><br />3. мне нравится изобретательство.<br />надо дожать хлоратно-битумный детонатор.<br />да и тут столько задач вообще интересных прет.<br />переводить программистов на намотку обмоток для релейной логики<br />тут еще правда хороший вопрос - а реально, нужны ли умные люди в строительной сфере?<br />или там таких достаточно, работать некому, кирпичи таскать?<br /><br />4. не пропала страсть к лекциям. только усилилась.<br />ну как то же тут учат людей и считают это своим долгом.<br />не похоже на невидимую сущность.<br />единственное что, кто-то может сказать. чел, это все хорошо,<br />но по твоим же принципам - обучай лаконично, конкретно, целесообразно<br />с assert за деньги. вот мы и учим железнодорожников и нефтяников конкретным вещам,<br />которые позволяют решать задачи и делать деньги.<br />но, кмк, такие знания полезны всем.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_283775">Select:</label> <input type='checkbox' name='selected_1108' class='ljcomsel' id='ljcomsel_283775' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=283775&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=283775" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=283775" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=283775" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=283775#cmt283775">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("283775", 1108, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=283775&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=283775">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt283775" data-quickreply-container="283775" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt284031' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt284031">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=284031#cmt284031" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 05:14 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">вообще да, опять же вовзращаясь к исходному.<br /><br />вот в результате индуктивного сжатия текстов с Twirpx,<br />сканов советских книг с торрентов<br /><br />получилось зареверсить и увидеть советсткий ядерный цикл.<br />даже в книгах по аналитической химии наиболее тщательно прописанные вещи<br />- это аналитическая химия урана и плутония.<br /><a href="https://www.twirpx.com/file/215045/">https://www.twirpx.com/file/215045/</a><br />Рябчиков Д.И., Сенявин М.М. Аналитическая химия урана<br /><br />но как только заходит дело до строительства начинаются байки и<br />ссылки на дореволюцонный опыт.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_284031">Select:</label> <input type='checkbox' name='selected_1109' class='ljcomsel' id='ljcomsel_284031' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=284031&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=284031" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=284031" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=284031" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=284031#cmt284031">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("284031", 1109, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=284031&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=284031">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt284031" data-quickreply-container="284031" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt284287' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt284287">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=284287#cmt284287" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 06:01 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">начинается все с того, как люди решают задачи - как сделать ЖД насыпь, как изготовить цемент<br />вот с чего надо начинать рассмотрение<br />индуктивная логика и решение технических задач. ЖД насыпь, релейная автоматика, изготовление цемента<br />вот что важно<br /><br />меня интересует индуктивная логика и решение задач. а также оценка людей на способноть решать задачи<br /><br />как построить ЖД, как прокормить семью, как сделать цемент, как правильно планировать экономику<br />решение задач и индуктивная логика<br />а также как отличить бред от ценной информации<br /><br />в общем из этих соображений, что всегда в технике требуется решать задачи<br />решение задач - это в общем то, что я и называю индуктивным процессом.<br />и любые решения и результаты этого процесса требуют перепроверки.<br />и самиявляются лишь отсечением ошибок в результате множества перепроверок.<br /><br />и Госплан тоже решает задачи и может лишь полагаться на результаты решения<br />задач другими людьми. о том, какие и в каком карьере свойства глины и<br />сколько нужно затратить гравия для ЖД насыпи.<br /><br />а следовательно результаты этого процесса требуют перепроверки.<br /><br />а как перепроверить планирование экономики без рыночной прибыли и убытка в<br />деньгах, основанных на физических инвариантах?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_284287">Select:</label> <input type='checkbox' name='selected_1110' class='ljcomsel' id='ljcomsel_284287' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=284287&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=284287" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=284287" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=284287" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=284287#cmt284287">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("284287", 1110, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=284287&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=284287">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt284287" data-quickreply-container="284287" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt284543' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt284543">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=284543#cmt284543" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 06:19 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">ну по сути да. хотя мои представления сейчас несколько сместились.<br />не закладка ли это у Мизеса?<br />2 года назад я считал его рыцарем в белом плаще.<br />интересно, что в реальности?<br /><br />но вот как 3 года назад.<br /><br />либертарианец-рыночник.<br />программист из офиса со смузи<br /><br />едет проводить сталинскую индустриализацию в землянку.<br />с литературой по советскому и американскому ядерному проекту.<br />с книгами про ракеты для Катюш 1948 года и американских<br />хлоратно-битумных ракетах 1946 года.<br /><br />с литературой по ранним НПЗ и производству аммиачной селитры из<br />воздуха.<br /><br />в чем же связь?<br />связь в связи индуктивной логики и решении задач.<br />как сделать ЖД насыпь.<br />как сделать ракету.<br />как планировать экономику.<br />как фотографировать девушку.<br />как изготовить цемент.<br /><br />вот в чем связь.<br />решение задач это процесс отсечения неверных вариантов.<br />неизвестно насколько точно были отсечены ошибки.<br />а сам процесс уточнения и перепроверок решения<br />очень затратен и по времени и<br />по ресурсам. для разных задач требуется разная точность.<br />и всегда есть неопределенность, что та или иная ошибка не была<br />поймана.<br /><br />Госплан полагается лишь на неточные технические данные и<br />всегда существует в условиях неопределенности. что та или иная<br />ошибка не была поймана.<br /><br />но на конкретной практике, особенно если есть рынок, всегда<br />существуют конкретные assert, которые вовремя сработают.<br /><br />Госплан же не может поймать ни одной ошибки.<br />которые всегда прут в огромном числе.<br /><br />как вообще это все работало?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_284543">Select:</label> <input type='checkbox' name='selected_1111' class='ljcomsel' id='ljcomsel_284543' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=284543&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=284543" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=284543" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=284543" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=284543#cmt284543">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("284543", 1111, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=284543&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=284543">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt284543" data-quickreply-container="284543" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+<div data-comment-depth='5' style='--comment-depth: 5; --comment-indent-limit-mobile: 8' class='comment-thread comment-depth-indent-desktop comment-depth-indent-mobile comment-depth-odd comment-depth-mod5-0 comment-depth-5'>
+<div id='cmt284799' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt284799">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h4 class="comment-title"><a title="no subject" href="https://transitional-writes.dreamwidth.org/51583.html?thread=284799#cmt284799" class=" invisible" >no subject</a></h4><span class="datetime"><span class="comment-date-text">Date: </span> <span title="4 days after journal entry">2026-07-07 07:57 am (UTC)</span></span></div>
+</div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster comment-poster"><span class="comment-from-text">From:</span> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
+<span class="poster-ip"><span class="comment-ip-text">IP Address:</span> (51.178.141.131)</span><div class="comment-content">по сути все сводится к тому, что<br /><br />1. решай технические задачи задачи. ТРИЗ, Пойа<br /><br />2. Физические принципы.<br /><br />3. Перебор вариантов<br /><br />4. Простейшие - наиболее вероятные.<br /><br />5. Отсекай неверные варианты. Но отсечь все ошибки крайне тяжело,<br />как и перебрать все варианты. Всегда есть неопределенность в том,<br />сколько ошибок осталось и сколько верных вариантов было отсечено.<br /><br />6. В социальных науках всегда есть backstage, то что ты не видишь, а видит только кто-то другой.<br />Это создает неопределенность.<br /><br />7. Наличие неопределенности требует проверок, сравнения с эталоном,<br />чтобы понять, не вылезла ли ошибка<br />на поверхность из погрешности и работают ли еще старые закономерности.<br /><br />8. При наличии рынка со стабильной валютой, основанной на физических инвариантах и<br />законе спроса и предложения ты можешь сверять свои планы с получаемой тобой прибылью<br />и убытками. Пользуется ли твой товар спросом? Госплан без рынка же пребывает в полной<br />неопределенности.<br /><br />9. Неопределенность не создает и наличие у тебя оружия. Это определенность в безопасности.<br /><br />10. Послание девушкам. Так как наличие сценариев с пакетом на голове также создает неопределенность,<br />то выглядит наиболее оптимальным вариантом выбирать в женихи<br />1. рабочих и нженеров базовых специальностей твоего региона. железнодорожников,<br />электротехников, нефтяников, энергетиков.<br />2. выбирать из них тех, кто платит за ужин на первом свидании. если у него есть деньги.<br /><br />но бекап варианты для особых случаев тоже бывают. met-art за деньги.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<span class="multiform-checkbox"> <label for="ljcomsel_284799">Select:</label> <input type='checkbox' name='selected_1112' class='ljcomsel' id='ljcomsel_284799' /></span><ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html?edit=284799&thread=278655" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=284799" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=284799" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=284799" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=284799#cmt284799">Link</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("284799", 1112, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?replyto=284799&amp;thread=278655' >Reply</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=284799">Thread from start</a></li>
+<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/51583.html?thread=280447#cmt280447">Parent</a></li>
+</ul><div  id="ljqrt284799" data-quickreply-container="284799" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+<div class='bottomcomment'><ul class="entry-management-links icon-links"><li class="link link_prev first-item"> <a href="https://www.dreamwidth.org/go?dir=prev&itemid=51583&journal=transitional_writes" ><img border='0' width="16" height="16" alt="Previous Entry" title="Previous Entry" src="//www.dreamwidth.org/img/silk/entry/previous.png"  /></a></li>
+<li class="link edit_entry"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=51583" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=51583" lj_newentry_etypeid="1" lj_auth_token="ajax:1784739600:4255543:23:/__rpc_esn_subs:addsub&51583&3&4255543:3fdddc2fb0912b90051cd04eb22cb44b203a0d16" lj_etypeid="3" lj_newentry_token="ajax:1784739600:4255543:23:/__rpc_esn_subs:addsub&1&4255543:9f16ac53d56fd443b0f12ecb86cdeafc66193581" lj_newentry_subid="0" class="TrackButton" lj_subid="0" js_swapname="Untrack This" lj_journalid="4255543" journal="transitional_writes" lj_arg1="51583" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=51583&journal=transitional_writes" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="//www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="https://transitional-writes.dreamwidth.org/51583.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">80 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("bottomcomment", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/51583.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtbottomcomment" data-quickreply-container="bottomcomment" style="display: none;"></div>
+        <label for="multiform_mode" >
+            Mass action on selected comments:
+        </label>
+        
+<select name="mode" id="multiform_mode">
+<option value=""></option>
+<option value="unscreen">Unscreen</option>
+<option value="screen">Screen</option>
+<option value="delete">Delete</option>
+<option value="deletespam">Delete as Spam</option>
+</select>
+<input type='submit' value="Perform Action" id="multiform_submit" onclick="return ((document.multiform.mode.value != &quot;delete&quot; &amp;&amp; document.multiform.mode.value != &quot;deletespam&quot;)) || confirm(&quot;Delete selected comments?&quot;);" /></form></div><div class='comment-pages bottompages'><span class="view-flat"><a href="https://transitional-writes.dreamwidth.org/51583.html?view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="https://transitional-writes.dreamwidth.org/51583.html?view=top-only#comments">Top-Level Comments Only</a></span></div></div></div>
+                    </div></div><!-- end primary and primary>inner -->
+    
+                    <div id="secondary"><div class="inner">
+    <div class="module-wrapper"><div class="separator separator-before"><div class="inner"></div></div>
+<div class="module-section-one">
+<div class="inner"><div class="module-userprofile module"><h2 class="module-header"><a href="https://transitional-writes.dreamwidth.org/profile">Profile</a></h2>
+<div class="module-content">
+<div class='journal-name'>transitional_writes</div>
+<div class='journal-website-name'><a href='https://github.com/wieker/electrolyser'>My Website</a></div>
+<ul class="userlite-interaction-links icon-links"><li class="link watch first-item"><a href="https://www.dreamwidth.org/manage/circle/add?user=transitional_writes&action=subscribe" ><img border='0' width="20" height="18" alt="Subscribe to your account" title="Subscribe to your account" src="https://www.dreamwidth.org/img/silk/profile/subscription_add.png"  /></a></li>
+<li class="link post_entry"><a href="https://www.dreamwidth.org/update?usejournal=transitional_writes" ><img border='0' width="20" height="18" alt="Post to your journal" title="Post to your journal" src="https://www.dreamwidth.org/img/silk/profile/post.png"  /></a></li>
+<li class="link message"><a href="https://www.dreamwidth.org/inbox/compose?user=transitional_writes" ><img border='0' width="20" height="18" alt="Send a private message to yourself" title="Send a private message to yourself" src="https://www.dreamwidth.org/img/silk/profile/message.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?user=transitional_writes" ><img border='0' width="16" height="16" alt="Tell someone about your journal" title="Tell someone about your journal" src="https://www.dreamwidth.org/img/silk/profile/tellafriend.png"  /></a></li>
+</ul></div>
+</div>
+<div class="module-navlinks module"><div class="module-content">
+<ul class="module-list">
+<li class="module-list-item list-item-recent"><a href="https://transitional-writes.dreamwidth.org/" class="recent">Recent Entries</a></li>
+<li class="module-list-item list-item-archive"><a href="https://transitional-writes.dreamwidth.org/archive" class="archive">Archive</a></li>
+<li class="module-list-item list-item-read"><a href="https://transitional-writes.dreamwidth.org/read" class="read">Reading</a></li>
+<li class="module-list-item list-item-tags"><a href="https://transitional-writes.dreamwidth.org/tag/" class="tags">Tags</a></li>
+<li class="module-list-item list-item-memories"><a href="https://www.dreamwidth.org/tools/memories?user=transitional_writes" class="memories">Memories</a></li>
+<li class="module-list-item list-item-userinfo"><a href="https://transitional-writes.dreamwidth.org/profile" class="userinfo">Profile</a></li>
+</ul>
+</div>
+</div>
+<div class="module-calendar module"><h2 class="module-header"><a href="/2026/07/">July</a> <a href="/2026/">2026</a></h2>
+<div class="module-content">
+<table summary="Monthly calendar with links to each day's entries">
+<tr>
+<th>S</th>
+<th>M</th>
+<th>T</th>
+<th>W</th>
+<th>T</th>
+<th>F</th>
+<th>S</th>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/07/01/" title="1 entry">1</a></td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/07/02/" title="2 entries">2</a></td><td class="empty-day">3</td><td class="empty-day">4</td></tr>
+<tr>
+<td class="empty-day">5</td><td class="empty-day">6</td><td class="empty-day">7</td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/07/08/" title="1 entry">8</a></td><td class="empty-day">9</td><td class="empty-day">10</td><td class="empty-day">11</td></tr>
+<tr>
+<td class="empty-day">12</td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/07/13/" title="1 entry">13</a></td><td class="empty-day">14</td><td class="empty-day">15</td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/07/16/" title="1 entry">16</a></td><td class="empty-day">17</td><td class="empty-day">18</td></tr>
+<tr>
+<td class="empty-day">19</td><td class="empty-day">20</td><td class="empty-day">21</td><td class="empty-day">22</td><td class="empty-day">23</td><td class="empty-day">24</td><td class="empty-day">25</td></tr>
+<tr>
+<td class="empty-day">26</td><td class="empty-day">27</td><td class="empty-day">28</td><td class="empty-day">29</td><td class="empty-day">30</td><td class="empty-day">31</td><td>&nbsp;</td></tr>
+</table>
+</div>
+</div>
+<div class="module-tags_list module"><h2 class="module-header"><a href="https://transitional-writes.dreamwidth.org/tag/">Most Popular Tags</a></h2>
+<div class="module-content">
+<ul class="module-list" >
+<li class="visibility-private module-list-item" ><a href="https://transitional-writes.dreamwidth.org/tag/%D0%B9">й</a> - <span class='detail-tagcount'>0 uses</span></li>
+
+</ul>
+<div class="manage-link manage-tags-link"><a href="https://www.dreamwidth.org/manage/tags?authas=transitional_writes">Manage Tags</a></div></div>
+</div>
+<div class="module-pagesummary module"><h2 class="module-header">Page Summary</h2>
+<div class="module-content">
+<ul class="module-list">
+<li class="module-list-item"><span class="pagesummary-poster"><span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span> - <span class="pagesummary-subject"><a href="#cmt278655" title="24 responses"><em>(no subject)</em></a></span></li>
+</ul>
+</div>
+</div>
+<div class="module-credit module"><h2 class="module-header">Style Credit</h2>
+<div class="module-content">
+<ul class="module-list"><li class="module-list-item"><span class="category-title">Style:</span> <span class="theme-name">Neutral Good</span> for <span class="style-name"><a href="https://www.dreamwidth.org/customize/?layoutid=165554">Practicality</a></span> by <span class="style-author"><span lj:user="timeasmymeasure" style="white-space: nowrap;" class="ljuser"><a href="https://timeasmymeasure.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://timeasmymeasure.dreamwidth.org/"><b>timeasmymeasure</b></a></span></span></li>
+</ul></div>
+</div>
+<div class="module-cuttagcontrols module"><h2 class="module-header">Expand Cut Tags</h2>
+<div class="module-content">
+<span class="cutTagControls"><span style="font-size: smaller;">No cut tags</span></span></div>
+</div>
+</div>
+</div><div class="separator separator-after"><div class="inner"></div></div>
+</div>
+                    </div></div><!--  end secondary and secondary>inner -->
+    
+                    <div id="invisible-separator" style="float: left; width: 1px;"></div> <!-- this is a hack for IE7 + two-columns-right -->
+                    <div id="tertiary"><div class="inner">
+                        <div class="module-wrapper"><div class="separator separator-before"><div class="inner"></div></div>
+<div class="module-section-two">
+<div class="inner"><div class="module-time module"><div class="module-content">
+<span id="load-time">Page generated Jul. 22nd, 2026 05:41 pm</span></div>
+</div>
+<div class="module-powered module"><div class="module-content">
+<span id="site-branding">Powered by <a href="https://www.dreamwidth.org/">Dreamwidth Studios</a></span></div>
+</div>
+</div>
+</div><div class="separator separator-after"><div class="inner"></div></div>
+</div>
+                    </div></div><!-- end tertiary and tertiary>inner -->
+                    <div id="content-footer"></div>
+                </div><!-- end content>inner -->
+            </div> <!-- end content -->
+        </div> <!-- end canvas>inner -->
+    
+    <div id="footer">
+        <div class="inner">
+            
+                <div class="page-top"><a href="#">Top of page</a></div>
+        </div>
+    </div>
+
+    </div> 
+    <script type="text/javascript" src="//www.dreamwidth.org/js/??jquery/jquery-1.8.3.js,foundation/vendor/custom.modernizr.js,foundation/foundation/foundation.js,foundation/foundation/foundation.topbar.js,dw/dw-core.js,jquery/jquery.ui.core.js,jquery/jquery.ui.widget.js,jquery/jquery.ui.tooltip.js,jquery.ajaxtip.js,jquery/jquery.ui.position.js,jquery.hoverIntent.js,jquery.contextualhover.js?v=1783736183"></script>
+<script type="text/javascript" src="//www.dreamwidth.org/js/??jquery.replyforms.js,jquery.poll.js,journals/jquery.tag-nav.js,jquery.mediaplaceholder.js,jquery.imageshrink.js,components/jquery.icon-select.js,jquery.quickreply.js,jquery.threadexpander.js,jquery/jquery.ui.button.js,jquery/jquery.ui.dialog.js,jquery.commentmanage.js,jquery.esn.js?v=1783736183"></script>
+
+<script type='text/javascript'>
+jQuery(function(jQ){
+    if (jQ("#lj_controlstrip").length == 0) {
+        jQ.getJSON("/transitional_writes/__rpc_controlstrip?user=transitional_writes&host=transitional-writes.dreamwidth.org&uri=/51583.html&args=thread%3D278655&view=entry", {},
+            function(data) {
+                jQ("<div></div>").html(data.control_strip).prependTo("body");
+            }
+        );
+    }
+})
+</script><script>$(document).foundation();</script><div id='statistics' style='text-align: left; font-size:0; line-height:0; height:0; overflow:hidden;'></div></body></html>
