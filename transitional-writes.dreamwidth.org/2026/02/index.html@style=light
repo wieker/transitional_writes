@@ -15,18 +15,18 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"inbox_update_poll":1,"iconprefix":"https://v2.dreamwidth.org","currentJournal":"transitional_writes","ctx_popup_icons":1,"cmax_comment":16000,"user_domain":"dreamwidth.org","currentJournalBase":"https://transitional-writes.dreamwidth.org","media_embed_enabled":1,"ctx_popup_userhead":1,"siteroot":"https://www.dreamwidth.org","esn_async":1,"imgprefix":"https://www.dreamwidth.org/img","ctx_popup":1,"has_remote":1,"statprefix":"https://www.dreamwidth.org/stc"});
+                Site = Object.assign(Site, {"ctx_popup":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup_userhead":1,"esn_async":1,"cmax_comment":16000,"has_remote":1,"user_domain":"dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","imgprefix":"https://www.dreamwidth.org/img","media_embed_enabled":1,"siteroot":"https://www.dreamwidth.org","ctx_popup_icons":1,"inbox_update_poll":1,"currentJournal":"transitional_writes","iconprefix":"https://v2.dreamwidth.org"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783736173" />
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="help" href="https://www.dreamwidth.org/support/faq" />
-<link rel="apple-touch-icon" href="https://www.dreamwidth.org/apple-touch-icon.png" />
+<link rel="apple-touch-icon" href="//www.dreamwidth.org/apple-touch-icon.png" />
 <meta property="og:image:width" content="363"/>
 <meta property="og:image:height" content="363"/>
-<link rel="prev" href="../01/index.html" />
-<link rel="next" href="../03/index.html" />
+<link rel="prev" href="https://transitional-writes.dreamwidth.org/2026/01/" />
+<link rel="next" href="https://transitional-writes.dreamwidth.org/2026/03/" />
 
 </head>
 
@@ -51,12 +51,12 @@
             <input type='hidden' name='redir_user' value='transitional_writes' />
 <input type='hidden' name='redir_vhost' value='users' />
 <input type='hidden' name='redir_type' value='monthview' />
-<li class='month-back'>[<a href='../01/index.html'>&lt;&lt;&lt;</a>]</li>
+<li class='month-back'>[<a href='https://transitional-writes.dreamwidth.org/2026/01/'>&lt;&lt;&lt;</a>]</li>
 <li><select name='redir_key'>
 <option value='202512'>December 2025</option><option value='202601'>January 2026</option><option value='202602' selected='selected'>February 2026</option><option value='202603'>March 2026</option><option value='202604'>April 2026</option><option value='202605'>May 2026</option><option value='202606'>June 2026</option><option value='202607'>July 2026</option><option value='202611'>November 2026</option><option value='203602'>February 2036</option></select>
 <input type='submit' value='View' /></li>
 
-<li class='month-forward'>[<a href='../03/index.html'>&gt;&gt;&gt;</a>]</li>
+<li class='month-forward'>[<a href='https://transitional-writes.dreamwidth.org/2026/03/'>&gt;&gt;&gt;</a>]</li>
 
             </form>
             </ul>
@@ -66,216 +66,216 @@
             <div class="month">
                 <div class="inner">
                     <dl>
-                    <dt><a href="01/index.html"><b>1st</b></a></dt>
-<dd><span class="datetime"><span class="time">12:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../3800.html">(no subject)</a></h3><br />
+                    <dt><a href="https://transitional-writes.dreamwidth.org/2026/02/01/"><b>1st</b></a></dt>
+<dd><span class="datetime"><span class="time">12:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/3800.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="02/index.html"><b>2nd</b></a></dt>
-<dd><span class="datetime"><span class="time">12:47</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../3962.html">(no subject)</a></h3> - 1 comment<br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/02/"><b>2nd</b></a></dt>
+<dd><span class="datetime"><span class="time">12:47</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/3962.html">(no subject)</a></h3> - 1 comment<br />
 <br />
-<span class="datetime"><span class="time">14:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../4238.html">(no subject)</a></h3><br />
-<br />
-</dd>
-<dt><a href="04/index.html"><b>4th</b></a></dt>
-<dd><span class="datetime"><span class="time">16:35</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../4435.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">14:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/4238.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="05/index.html"><b>5th</b></a></dt>
-<dd><span class="datetime"><span class="time">03:37</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../4835.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">10:51</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../5008.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">19:12</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../5200.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/04/"><b>4th</b></a></dt>
+<dd><span class="datetime"><span class="time">16:35</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/4435.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="06/index.html"><b>6th</b></a></dt>
-<dd><span class="datetime"><span class="time">09:48</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../5576.html">(no subject)</a></h3> - 7 comments<br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/05/"><b>5th</b></a></dt>
+<dd><span class="datetime"><span class="time">03:37</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/4835.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">10:51</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/5008.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">19:12</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/5200.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="07/index.html"><b>7th</b></a></dt>
-<dd><span class="datetime"><span class="time">10:38</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../5876.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/06/"><b>6th</b></a></dt>
+<dd><span class="datetime"><span class="time">09:48</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/5576.html">(no subject)</a></h3> - 7 comments<br />
 <br />
 </dd>
-<dt><a href="09/index.html"><b>9th</b></a></dt>
-<dd><span class="datetime"><span class="time">07:22</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../5913.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">20:49</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../6215.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">21:01</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../6439.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">21:23</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../6684.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/07/"><b>7th</b></a></dt>
+<dd><span class="datetime"><span class="time">10:38</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/5876.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="10/index.html"><b>10th</b></a></dt>
-<dd><span class="datetime"><span class="time">01:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../7102.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/09/"><b>9th</b></a></dt>
+<dd><span class="datetime"><span class="time">07:22</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/5913.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">09:44</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../7389.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">20:49</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/6215.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">11:23</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../7678.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">21:01</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/6439.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">17:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../7723.html">(no subject)</a></h3> - 2 comments<br />
-<br />
-</dd>
-<dt><a href="14/index.html"><b>14th</b></a></dt>
-<dd><span class="datetime"><span class="time">11:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../8266.html">(no subject)</a></h3> - 1 comment<br />
-<br />
-<span class="datetime"><span class="time">22:29</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../8569.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">21:23</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/6684.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="15/index.html"><b>15th</b></a></dt>
-<dd><span class="datetime"><span class="time">09:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../8852.html">(no subject)</a></h3> - 8 comments<br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/10/"><b>10th</b></a></dt>
+<dd><span class="datetime"><span class="time">01:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/7102.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">09:44</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/7389.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">11:23</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/7678.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">17:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/7723.html">(no subject)</a></h3> - 2 comments<br />
 <br />
 </dd>
-<dt><a href="16/index.html"><b>16th</b></a></dt>
-<dd><span class="datetime"><span class="time">11:57</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../9103.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/14/"><b>14th</b></a></dt>
+<dd><span class="datetime"><span class="time">11:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/8266.html">(no subject)</a></h3> - 1 comment<br />
 <br />
-<span class="datetime"><span class="time">13:47</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../9417.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">16:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../9538.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">22:29</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/8569.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="17/index.html"><b>17th</b></a></dt>
-<dd><span class="datetime"><span class="time">00:28</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../9881.html">(no subject)</a></h3> - 3 comments<br />
-<br />
-<span class="datetime"><span class="time">11:10</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../10102.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">15:13</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../10403.html">(no subject)</a></h3> - 2 comments<br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/15/"><b>15th</b></a></dt>
+<dd><span class="datetime"><span class="time">09:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/8852.html">(no subject)</a></h3> - 8 comments<br />
 <br />
 </dd>
-<dt><a href="18/index.html"><b>18th</b></a></dt>
-<dd><span class="datetime"><span class="time">11:36</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../10610.html">(no subject)</a></h3> - 6 comments<br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/16/"><b>16th</b></a></dt>
+<dd><span class="datetime"><span class="time">11:57</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/9103.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">13:47</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/9417.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">16:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/9538.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="19/index.html"><b>19th</b></a></dt>
-<dd><span class="datetime"><span class="time">08:58</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../10998.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/17/"><b>17th</b></a></dt>
+<dd><span class="datetime"><span class="time">00:28</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/9881.html">(no subject)</a></h3> - 3 comments<br />
 <br />
-<span class="datetime"><span class="time">11:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../11190.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">11:10</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/10102.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">14:40</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../11499.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">18:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../11566.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">19:37</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../12017.html">(no subject)</a></h3> - 2 comments<br />
-<br />
-<span class="datetime"><span class="time">23:25</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../12120.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">15:13</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/10403.html">(no subject)</a></h3> - 2 comments<br />
 <br />
 </dd>
-<dt><a href="20/index.html"><b>20th</b></a></dt>
-<dd><span class="datetime"><span class="time">09:48</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../12417.html">(no subject)</a></h3> - 1 comment<br />
-<br />
-<span class="datetime"><span class="time">12:36</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../12733.html">(no subject)</a></h3> - 25 comments<br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/18/"><b>18th</b></a></dt>
+<dd><span class="datetime"><span class="time">11:36</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/10610.html">(no subject)</a></h3> - 6 comments<br />
 <br />
 </dd>
-<dt><a href="22/index.html"><b>22nd</b></a></dt>
-<dd><span class="datetime"><span class="time">09:02</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../12878.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/19/"><b>19th</b></a></dt>
+<dd><span class="datetime"><span class="time">08:58</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/10998.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">10:38</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../13286.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">11:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/11190.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">15:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../13562.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">14:40</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/11499.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">18:39</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../13600.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">18:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/11566.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">19:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../14000.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">19:37</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/12017.html">(no subject)</a></h3> - 2 comments<br />
 <br />
-</dd>
-<dt><a href="23/index.html"><b>23rd</b></a></dt>
-<dd><span class="datetime"><span class="time">09:57</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../14154.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">23:25</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/12120.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="24/index.html"><b>24th</b></a></dt>
-<dd><span class="datetime"><span class="time">09:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../14465.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/20/"><b>20th</b></a></dt>
+<dd><span class="datetime"><span class="time">09:48</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/12417.html">(no subject)</a></h3> - 1 comment<br />
 <br />
-<span class="datetime"><span class="time">10:06</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../14798.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">10:22</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../14936.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">11:54</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../15163.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">14:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../15383.html">(no subject)</a></h3> - 16 comments<br />
-<br />
-<span class="datetime"><span class="time">18:48</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../15650.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">12:36</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/12733.html">(no subject)</a></h3> - 25 comments<br />
 <br />
 </dd>
-<dt><a href="25/index.html"><b>25th</b></a></dt>
-<dd><span class="datetime"><span class="time">09:47</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../15989.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/22/"><b>22nd</b></a></dt>
+<dd><span class="datetime"><span class="time">09:02</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/12878.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">12:46</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../16215.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">10:38</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/13286.html">(no subject)</a></h3><br />
 <br />
-</dd>
-<dt><a href="26/index.html"><b>26th</b></a></dt>
-<dd><span class="datetime"><span class="time">09:42</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../16587.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">15:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/13562.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">10:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../16675.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">18:39</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/13600.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">10:23</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../16943.html">(no subject)</a></h3> - 1 comment<br />
-<br />
-<span class="datetime"><span class="time">10:34</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../17241.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">11:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../17608.html">(no subject)</a></h3> - 1 comment<br />
-<br />
-<span class="datetime"><span class="time">12:01</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../17732.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">14:52</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../18088.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">15:10</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../18292.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">18:53</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../18684.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">19:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../18705.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">19:52</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../19072.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">20:03</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../19393.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">20:20</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../19587.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">20:51</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../19898.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">21:01</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../20200.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">22:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../20242.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">23:29</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../20525.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">19:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/14000.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="27/index.html"><b>27th</b></a></dt>
-<dd><span class="datetime"><span class="time">00:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../20750.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">01:05</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../21089.html">(no subject)</a></h3> - 3 comments<br />
-<br />
-<span class="datetime"><span class="time">07:42</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../21348.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">11:09</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../21684.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">17:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../21845.html">(no subject)</a></h3><br />
-<br />
-<span class="datetime"><span class="time">19:49</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../22066.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/23/"><b>23rd</b></a></dt>
+<dd><span class="datetime"><span class="time">09:57</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/14154.html">(no subject)</a></h3><br />
 <br />
 </dd>
-<dt><a href="28/index.html"><b>28th</b></a></dt>
-<dd><span class="datetime"><span class="time">02:58</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../22499.html">(no subject)</a></h3><br />
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/24/"><b>24th</b></a></dt>
+<dd><span class="datetime"><span class="time">09:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/14465.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">03:38</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../22571.html">(no subject)</a></h3> - 1 comment<br />
+<span class="datetime"><span class="time">10:06</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/14798.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">05:46</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../22961.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">10:22</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/14936.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">06:31</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../23191.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">11:54</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/15163.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">09:51</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../23788.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">14:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/15383.html">(no subject)</a></h3> - 16 comments<br />
 <br />
-<span class="datetime"><span class="time">10:13</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../24058.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">18:48</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/15650.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">11:21</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../24210.html">(no subject)</a></h3><br />
+</dd>
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/25/"><b>25th</b></a></dt>
+<dd><span class="datetime"><span class="time">09:47</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/15989.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">11:36</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../24536.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">12:46</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/16215.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">16:50</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../24832.html">(no subject)</a></h3><br />
+</dd>
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/26/"><b>26th</b></a></dt>
+<dd><span class="datetime"><span class="time">09:42</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/16587.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">19:55</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../25323.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">10:07</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/16675.html">(no subject)</a></h3><br />
 <br />
-<span class="datetime"><span class="time">20:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../25354.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">10:23</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/16943.html">(no subject)</a></h3> - 1 comment<br />
 <br />
-<span class="datetime"><span class="time">20:35</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../25722.html">(no subject)</a></h3><br />
+<span class="datetime"><span class="time">10:34</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/17241.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">11:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/17608.html">(no subject)</a></h3> - 1 comment<br />
+<br />
+<span class="datetime"><span class="time">12:01</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/17732.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">14:52</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/18088.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">15:10</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/18292.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">18:53</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/18684.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">19:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/18705.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">19:52</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/19072.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">20:03</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/19393.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">20:20</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/19587.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">20:51</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/19898.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">21:01</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/20200.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">22:41</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/20242.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">23:29</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/20525.html">(no subject)</a></h3><br />
+<br />
+</dd>
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/27/"><b>27th</b></a></dt>
+<dd><span class="datetime"><span class="time">00:30</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/20750.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">01:05</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/21089.html">(no subject)</a></h3> - 3 comments<br />
+<br />
+<span class="datetime"><span class="time">07:42</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/21348.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">11:09</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/21684.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">17:59</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/21845.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">19:49</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/22066.html">(no subject)</a></h3><br />
+<br />
+</dd>
+<dt><a href="https://transitional-writes.dreamwidth.org/2026/02/28/"><b>28th</b></a></dt>
+<dd><span class="datetime"><span class="time">02:58</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/22499.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">03:38</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/22571.html">(no subject)</a></h3> - 1 comment<br />
+<br />
+<span class="datetime"><span class="time">05:46</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/22961.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">06:31</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/23191.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">09:51</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/23788.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">10:13</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/24058.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">11:21</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/24210.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">11:36</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/24536.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">16:50</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/24832.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">19:55</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/25323.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">20:19</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/25354.html">(no subject)</a></h3><br />
+<br />
+<span class="datetime"><span class="time">20:35</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/25722.html">(no subject)</a></h3><br />
 <br />
 </dd>
 
@@ -291,13 +291,13 @@
 <hr />
 <div class="row"><div class="large-12 columns">
     <div role="navigation"><p>[ <a href='https://www.dreamwidth.org/'>Home</a> | <a href='https://www.dreamwidth.org/update'>Post Entry</a> |
-    <a href='../../index.html'>Recent Entries</a> | <a href='../../read'>Reading Page</a> |
-    <a href='https://www.dreamwidth.org/logout'>Log out</a> | <span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='../../profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='../../index.html'><b>transitional_writes</b></a></span> |
+    <a href='https://transitional-writes.dreamwidth.org/'>Recent Entries</a> | <a href='https://transitional-writes.dreamwidth.org/read'>Reading Page</a> |
+    <a href='https://www.dreamwidth.org/logout'>Log out</a> | <span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='https://transitional-writes.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://transitional-writes.dreamwidth.org/'><b>transitional_writes</b></a></span> |
     <a href='https://www.dreamwidth.org/tools/search'>Search</a> | 
     <a href='https://www.dreamwidth.org/manage/settings/'>Browse Options</a> | 
     <a href='https://www.dreamwidth.org/site/'>Site Map</a> ]</p></div>
-    <script type="text/javascript" src="https://www.dreamwidth.org/js/??jquery/jquery-1.8.3.js,foundation/vendor/custom.modernizr.js,foundation/foundation/foundation.js,foundation/foundation/foundation.topbar.js,dw/dw-core.js,jquery/jquery.ui.core.js,jquery/jquery.ui.widget.js,jquery/jquery.ui.tooltip.js,jquery.ajaxtip.js,jquery/jquery.ui.position.js,jquery.hoverIntent.js,jquery.contextualhover.js?v=1783736183"></script>
-<script type="text/javascript" src="https://www.dreamwidth.org/js/??jquery/jquery.ui.button.js,jquery/jquery.ui.dialog.js?v=1783736183"></script>
+    <script type="text/javascript" src="//www.dreamwidth.org/js/??jquery/jquery-1.8.3.js,foundation/vendor/custom.modernizr.js,foundation/foundation/foundation.js,foundation/foundation/foundation.topbar.js,dw/dw-core.js,jquery/jquery.ui.core.js,jquery/jquery.ui.widget.js,jquery/jquery.ui.tooltip.js,jquery.ajaxtip.js,jquery/jquery.ui.position.js,jquery.hoverIntent.js,jquery.contextualhover.js?v=1783736183"></script>
+<script type="text/javascript" src="//www.dreamwidth.org/js/??jquery/jquery.ui.button.js,jquery/jquery.ui.dialog.js?v=1783736183"></script>
 <div id='statistics' style='text-align: left; font-size:0; line-height:0; height:0; overflow:hidden;'></div><script>$(document).foundation();</script></div></div>
 </body>
 </html>
