@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"iconprefix":"https://v2.dreamwidth.org","has_remote":1,"statprefix":"https://www.dreamwidth.org/stc","ctx_popup_icons":1,"imgprefix":"https://www.dreamwidth.org/img","inbox_update_poll":1,"siteroot":"https://www.dreamwidth.org","esn_async":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup":1,"media_embed_enabled":1,"cmax_comment":16000,"ctx_popup_userhead":1,"currentJournal":"transitional_writes","user_domain":"dreamwidth.org"});
+                Site = Object.assign(Site, {"media_embed_enabled":1,"inbox_update_poll":1,"has_remote":1,"siteroot":"https://www.dreamwidth.org","ctx_popup_icons":1,"user_domain":"dreamwidth.org","ctx_popup":1,"cmax_comment":16000,"statprefix":"https://www.dreamwidth.org/stc","currentJournal":"transitional_writes","imgprefix":"https://www.dreamwidth.org/img","iconprefix":"https://v2.dreamwidth.org","esn_async":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup_userhead":1});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery.commentmanage.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -29,16 +29,16 @@
 <meta property="article:author" content="https://transitional-writes.dreamwidth.org/profile"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="help" href="https://www.dreamwidth.org/support/faq" />
-<link rel="apple-touch-icon" href="//www.dreamwidth.org/apple-touch-icon.png" />
+<link rel="apple-touch-icon" href="https://www.dreamwidth.org/apple-touch-icon.png" />
 <meta property="og:image:width" content="363"/>
 <meta property="og:image:height" content="363"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="prev" href="https://www.dreamwidth.org/go?dir=prev&itemid=45360&journal=transitional_writes&style=light" />
 <link rel="next" href="https://www.dreamwidth.org/go?dir=next&itemid=45360&journal=transitional_writes&style=light" />
-<link rel="canonical" href="https://transitional-writes.dreamwidth.org/45360.html?thread=140592#cmt140592" />
+<link rel="canonical" href="45360.html@thread=140592#cmt140592" />
 <script>
 // don't crawl this.  read http://www.livejournal.com/developer/exporting
-var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":0,"full":1,"rc":[140848],"screened":0},"remote":"transitional_writes","141360":{"screened":0,"full":1,"rc":[141616],"deleted":0,"u":"transitional_writes","parent":141104},"form_auth":"c0:1784840400:3206:86400:rANQB4Gtcb-4255543-23:e5d6aa0e9fec2f958b1026bf37585731","141872":{"screened":0,"rc":[],"full":1,"deleted":0,"u":"transitional_writes","parent":141616},"140848":{"rc":[141104],"full":1,"screened":0,"parent":140592,"u":"transitional_writes","deleted":0},"141616":{"screened":0,"rc":[141872],"full":1,"deleted":0,"u":"transitional_writes","parent":141360},"canAdmin":1,"141104":{"screened":0,"full":1,"rc":[141360],"deleted":0,"parent":140848,"u":"transitional_writes"},"journal":"transitional_writes","canSpam":1}
+var LJ_cmtinfo = {"canAdmin":1,"141360":{"deleted":0,"screened":0,"u":"transitional_writes","full":1,"parent":141104,"rc":[141616]},"journal":"transitional_writes","141872":{"rc":[],"parent":141616,"full":1,"u":"transitional_writes","deleted":0,"screened":0},"140848":{"parent":140592,"rc":[141104],"deleted":0,"screened":0,"u":"transitional_writes","full":1},"remote":"transitional_writes","140592":{"parent":140336,"rc":[140848],"screened":0,"deleted":0,"u":"transitional_writes","full":1},"form_auth":"c0:1784894400:817:86400:ZwjNkrbviJ-4255543-23:30504f2fab110c51b1db54b573ae1d50","141616":{"deleted":0,"screened":0,"u":"transitional_writes","full":1,"rc":[141872],"parent":141360},"canSpam":1,"141104":{"parent":140848,"rc":[141360],"u":"transitional_writes","deleted":0,"screened":0,"full":1}}
 </script>
 </head>
 
@@ -60,17 +60,17 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="poster-info">
-<span class="poster entry-poster ">transitional_writes (<span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='https://transitional-writes.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://transitional-writes.dreamwidth.org/'><b>transitional_writes</b></a></span>) wrote</span><span class="datetime"><span class="date"><a href="/2026/">2026</a>-<a href="/2026/06/">06</a>-<a href="/2026/06/15/">15</a></span> <span class="time">03:29 am</span></span></div>
+<span class="poster entry-poster ">transitional_writes (<span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='index.html'><b>transitional_writes</b></a></span>) wrote</span><span class="datetime"><span class="date"><a href="2026/index.html">2026</a>-<a href="2026/06/index.html">06</a>-<a href="2026/06/15/index.html">15</a></span> <span class="time">03:29 am</span></span></div>
 </div>
 <div class="action-box">
 <div class="inner">
-<ul class="entry-management-links icon-links"><li class="link link_prev first-item"> <a href="https://www.dreamwidth.org/go?dir=prev&itemid=45360&journal=transitional_writes&style=light" ><img border='0' width="16" height="16" alt="Previous Entry" title="Previous Entry" src="//www.dreamwidth.org/img/silk/entry/previous.png"  /></a></li>
-<li class="link edit_entry"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
-<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
-<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
-<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
-<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=45360" lj_arg1="45360" js_swapname="Untrack This" lj_newentry_subid="0" lj_subid="0" lj_newentry_token="ajax:1784840400:4255543:23:/__rpc_esn_subs:addsub&1&4255543:9b1861457c9a5c78b9f7ea955b16e3a19ceda3cd" journal="transitional_writes" lj_auth_token="ajax:1784840400:4255543:23:/__rpc_esn_subs:addsub&45360&3&4255543:782bf32569745f9775eee2606d96453c3af74649" lj_journalid="4255543" lj_newentry_etypeid="1" class="TrackButton" lj_etypeid="3" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
-<li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=45360&journal=transitional_writes&style=light" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="//www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
+<ul class="entry-management-links icon-links"><li class="link link_prev first-item"> <a href="https://www.dreamwidth.org/go?dir=prev&itemid=45360&journal=transitional_writes&style=light" ><img border='0' width="16" height="16" alt="Previous Entry" title="Previous Entry" src="https://www.dreamwidth.org/img/silk/entry/previous.png"  /></a></li>
+<li class="link edit_entry"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="https://www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="https://www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="https://www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=45360" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="https://www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=45360" lj_arg1="45360" js_swapname="Untrack This" lj_etypeid="3" lj_journalid="4255543" lj_subid="0" class="TrackButton" lj_newentry_etypeid="1" lj_newentry_subid="0" lj_auth_token="ajax:1784894400:4255543:23:/__rpc_esn_subs:addsub&45360&3&4255543:e76f8a50d3fed9d264bb1fbff77e0e7973999687" journal="transitional_writes" lj_newentry_token="ajax:1784894400:4255543:23:/__rpc_esn_subs:addsub&1&4255543:a4083803d2a681049ce8db75a8b7d678122283e3" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=45360&journal=transitional_writes&style=light" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="https://www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
 </ul></div>
 </div>
 </div>
@@ -79,24 +79,24 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div>
 <div class="contents usercontent">
 <div class="inner">
-<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/45360.html">(no subject)</a></h3><div class="entry-content">Вопрос студентке филфака.<br />Поверите ли вы в то, что если есть некоторая девушка.<br /><br />1. С привлекательной внешностью.<br />Возможно, вкладывающаяся в себя.<br />Спортзал, солярий, эпиляции.<br /><br />2. То это никак не помогает ей ни в карьере ни<br />в личной жизни.<br /><br />3. Она будет сталкиваться в среднем лишь со<br />злобновато-неопределенным отношением.<br /><br />4. Чтобы получить выгоду от своей внешности и<br />своих стараний, ей надо сниматься, соглашаться,<br />предлагать самой - в эротических фотосессиях.<br />Мет-арт, ню, в купальниках. Что-то такое.<br /><br />5. Это не убавит безопасности. Причем, возможно,<br />вообще в любой стране мира. Не ухудшит среднего<br />злобновато-неопределенного отношения.<br />Но резко прибавит денег.<br /><br />6. Других способов получить положительный фидбек<br />от внешности нет.<br /><br />7. Интересный вывод из этого, возможно это<br />затруднит девушкам поверить в эти результаты,<br />что многие наконец-то начнут прощу соглашаться<br />на подобного рода вещи.<br /><br />8. Кто-то к сожалению забьет на внешность.<br />Наверное, такие тоже найдутся.<br /><br />9. Кому-то реально пофиг на выгоду,<br />реально делает для себя. Но, деньги есть<br />деньги, а затраты на внешность есть затраты<br />на внешность. Сидеть по 12 часов на работе,<br />только чтобы потом тратить чисто на<br />свою внешность? Не выгоднее ли совместить?<br /><br />Для технаря все это формальная теорема,<br />выводимая из<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br /><a href="https://transitional-writes.dreamwidth.org/44695.html?thread=136599#cmt136599">https://transitional-writes.dreamwidth.org/44695.html?thread=136599#cmt136599</a><br /><br />Для девушки с филфака можно сослаться, что<br />это и есть смысл книжки Стругацких<br />"За миллиард лет до конца света".<br /><br />Что талантливые технари при социализме,<br />по мере приближения к серьезным открытиям или<br />изобретениям получают ли злобновато-неопределенную<br />реакцию и нкиакого положительного фидбека.<br /><br />Для технаря все это формальная теорема,<br />выводимая из<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Называется "теорема Л. Мизеса о невозможности<br />экономического расчета при социализме"<br /><br />Есть еще один изоморфизм этой теоремы.<br /><br />В злобновато-неопределенном мире личную <br />безопасность может гарантировать только<br />личное оружие.<br /><br />Вторая или какая там поправка к конституции США?<br />Впрочем все конституции это тоже красивые картинки.<br />Но там хотя бы дают зацепку.<br />А у нас?</div></div>
+<h3 class="entry-title"><a title="(no subject)" href="45360.html">(no subject)</a></h3><div class="entry-content">Вопрос студентке филфака.<br />Поверите ли вы в то, что если есть некоторая девушка.<br /><br />1. С привлекательной внешностью.<br />Возможно, вкладывающаяся в себя.<br />Спортзал, солярий, эпиляции.<br /><br />2. То это никак не помогает ей ни в карьере ни<br />в личной жизни.<br /><br />3. Она будет сталкиваться в среднем лишь со<br />злобновато-неопределенным отношением.<br /><br />4. Чтобы получить выгоду от своей внешности и<br />своих стараний, ей надо сниматься, соглашаться,<br />предлагать самой - в эротических фотосессиях.<br />Мет-арт, ню, в купальниках. Что-то такое.<br /><br />5. Это не убавит безопасности. Причем, возможно,<br />вообще в любой стране мира. Не ухудшит среднего<br />злобновато-неопределенного отношения.<br />Но резко прибавит денег.<br /><br />6. Других способов получить положительный фидбек<br />от внешности нет.<br /><br />7. Интересный вывод из этого, возможно это<br />затруднит девушкам поверить в эти результаты,<br />что многие наконец-то начнут прощу соглашаться<br />на подобного рода вещи.<br /><br />8. Кто-то к сожалению забьет на внешность.<br />Наверное, такие тоже найдутся.<br /><br />9. Кому-то реально пофиг на выгоду,<br />реально делает для себя. Но, деньги есть<br />деньги, а затраты на внешность есть затраты<br />на внешность. Сидеть по 12 часов на работе,<br />только чтобы потом тратить чисто на<br />свою внешность? Не выгоднее ли совместить?<br /><br />Для технаря все это формальная теорема,<br />выводимая из<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br /><a href="44695.html@thread=136599#cmt136599">https://transitional-writes.dreamwidth.org/44695.html?thread=136599#cmt136599</a><br /><br />Для девушки с филфака можно сослаться, что<br />это и есть смысл книжки Стругацких<br />"За миллиард лет до конца света".<br /><br />Что талантливые технари при социализме,<br />по мере приближения к серьезным открытиям или<br />изобретениям получают ли злобновато-неопределенную<br />реакцию и нкиакого положительного фидбека.<br /><br />Для технаря все это формальная теорема,<br />выводимая из<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Называется "теорема Л. Мизеса о невозможности<br />экономического расчета при социализме"<br /><br />Есть еще один изоморфизм этой теоремы.<br /><br />В злобновато-неопределенном мире личную <br />безопасность может гарантировать только<br />личное оружие.<br /><br />Вторая или какая там поправка к конституции США?<br />Впрочем все конституции это тоже красивые картинки.<br />Но там хотя бы дают зацепку.<br />А у нас?</div></div>
 </div>
 </div>
 <div class="footer">
 <div class="inner">
 <hr class="above-entry-interaction-links" />
-    <div class="comment-pages-wrapper"></div><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="https://transitional-writes.dreamwidth.org/45360.html?style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">10 comments</a></li>
-<li class="entry-replylink"><a onclick='return function(that) {return quickreply("topcomment", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?mode=reply&amp;style=light' >Post a new comment</a></li>
+    <div class="comment-pages-wrapper"></div><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="45360.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">10 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("topcomment", 0, "",that)}(this)' href='45360.html@mode=reply&amp;style=light' >Post a new comment</a></li>
 </ul></div>
 </div>
 </div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
-<div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-flat"><a href="https://transitional-writes.dreamwidth.org/45360.html?style=light&view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="https://transitional-writes.dreamwidth.org/45360.html?style=light&view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
+<div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-flat"><a href="45360.html@style=light&amp;view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="45360.html@style=light&amp;view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
 
 <div id='qrdiv' style="display: none;">
-<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1784840400:3206:86400:rANQB4Gtcb-4255543-23:e5d6aa0e9fec2f958b1026bf37585731" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="45360" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/45360.html?style=light&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="140592" id="viewing_thread" /><input type='hidden' name="style" value="light" id="style" /><input type='hidden' name="chrp1" value="45360-4255543-1784840400-tIUoesbjcn74ZNE2iiTl-5f3dc7063627ebbba97566019bb47bd4" />
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1784894400:817:86400:ZwjNkrbviJ-4255543-23:30504f2fab110c51b1db54b573ae1d50" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="45360" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/45360.html?style=light&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="140592" id="viewing_thread" /><input type='hidden' name="style" value="light" id="style" /><input type='hidden' name="chrp1" value="45360-4255543-1784894400-vj3hhHeUxEgrBjj9O2Iq-03df81b75b7b59b9db2b81318ac2a931" />
 <div class='qr-meta'>
 
   <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
@@ -120,7 +120,7 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" class="text" placeholder="Subject" id="subject" value="" maxlength="100" name="subject" size="50" />
+        <input type="text" size="50" name="subject" placeholder="Subject" maxlength="100" value="" class="text" id="subject" />
 </div>
 
 
@@ -130,13 +130,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select class="select" id="prop_editor" name="prop_editor">
+        <select id="prop_editor" class="select" name="prop_editor">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
 <option value="rte0">Rich Text Editor</option>
 </select>
-    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' style="vertical-align: middle;" title="More info about formatting" /></a>
   </div>
 
   <div class="qr-markup-controls">
@@ -148,7 +148,7 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea wrap="soft" class="text" name="body" cols="80" id="body" rows="10"></textarea></div>
+        <textarea id="body" class="text" wrap="soft" rows="10" name="body" cols="80"></textarea></div>
 
 <div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" id="submitpost" class="submit" />
 
@@ -173,11 +173,11 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="comment-info">
-<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="3 hours after journal entry">2026-06-15 03:48 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140592#cmt140592">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=140592" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
-<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=140592" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
-<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=140592" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="3 hours after journal entry">2026-06-15 03:48 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="45360.html@thread=140592#cmt140592">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=140592" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=140592" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=140592" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_549' class='ljcomsel' id='ljcomsel_140592' /> <label for="ljcomsel_140592">Select</label> </span></div>
 </div>
 </div>
@@ -187,13 +187,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 </div>
 <div class="footer">
 <div class="inner">
-<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140592#cmt140592">Thread</a></li>
-<li class="link reply first-item"><a onclick='return function(that) {return quickreply("140592", 549, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?replyto=140592&amp;style=light&amp;thread=140592' >Reply to this</a></li>
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="45360.html@thread=140592#cmt140592">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("140592", 549, "",that)}(this)' href='45360.html@replyto=140592&amp;style=light&amp;thread=140592' >Reply to this</a></li>
 <li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=140592&amp;style=light">Thread from start</a></li>
-<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140336&amp;style=light#cmt140336">Parent</a></li>
-<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140592&amp;style=light#cmt140592">Thread</a></li>
-<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt140592_hide"><a href='#cmt140592' onClick="Expander.hideComments(this, '140592'); return false;">Hide 5 comments</a></li>
-<li class="link cmt_unhide" style="display: none;" id="cmt140592_unhide"><a href='https://transitional-writes.dreamwidth.org/45360.html?thread=140592&style=light#cmt140592' onClick="Expander.unhideComments(this, '140592'); return false;">Show 5 comments</a></li>
+<li class="link commentparent"><a href="45360.html@thread=140336&amp;style=light#cmt140336">Parent</a></li>
+<li class="link thread"><a href="45360.html@thread=140592&amp;style=light#cmt140592">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt140592_hide"><a href='45360.html@style=light&amp;thread=140592#cmt140592' onClick="Expander.hideComments(this, '140592'); return false;">Hide 5 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt140592_unhide"><a href='45360.html@thread=140592&amp;style=light#cmt140592' onClick="Expander.unhideComments(this, '140592'); return false;">Show 5 comments</a></li>
 </ul><div  id="ljqrt140592" data-quickreply-container="140592" style="display: none;"></div></div>
 </div>
 </div>
@@ -210,11 +210,11 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="comment-info">
-<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="4 hours after journal entry">2026-06-15 04:40 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140848#cmt140848">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=140848" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
-<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=140848" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
-<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=140848" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="4 hours after journal entry">2026-06-15 04:40 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="45360.html@thread=140848#cmt140848">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=140848" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=140848" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=140848" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_550' class='ljcomsel' id='ljcomsel_140848' /> <label for="ljcomsel_140848">Select</label> </span></div>
 </div>
 </div>
@@ -224,13 +224,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 </div>
 <div class="footer">
 <div class="inner">
-<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140848#cmt140848">Thread</a></li>
-<li class="link reply first-item"><a onclick='return function(that) {return quickreply("140848", 550, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?replyto=140848&amp;style=light&amp;thread=140592' >Reply to this</a></li>
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="45360.html@thread=140848#cmt140848">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("140848", 550, "",that)}(this)' href='45360.html@replyto=140848&amp;style=light&amp;thread=140592' >Reply to this</a></li>
 <li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=140848&amp;style=light">Thread from start</a></li>
-<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140592&amp;style=light#cmt140592">Parent</a></li>
-<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140848&amp;style=light#cmt140848">Thread</a></li>
-<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt140848_hide"><a href='#cmt140848' onClick="Expander.hideComments(this, '140848'); return false;">Hide 4 comments</a></li>
-<li class="link cmt_unhide" style="display: none;" id="cmt140848_unhide"><a href='https://transitional-writes.dreamwidth.org/45360.html?thread=140848&style=light#cmt140848' onClick="Expander.unhideComments(this, '140848'); return false;">Show 4 comments</a></li>
+<li class="link commentparent"><a href="45360.html@thread=140592&amp;style=light#cmt140592">Parent</a></li>
+<li class="link thread"><a href="45360.html@thread=140848&amp;style=light#cmt140848">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt140848_hide"><a href='45360.html@style=light&amp;thread=140592#cmt140848' onClick="Expander.hideComments(this, '140848'); return false;">Hide 4 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt140848_unhide"><a href='45360.html@thread=140848&amp;style=light#cmt140848' onClick="Expander.unhideComments(this, '140848'); return false;">Show 4 comments</a></li>
 </ul><div  id="ljqrt140848" data-quickreply-container="140848" style="display: none;"></div></div>
 </div>
 </div>
@@ -247,11 +247,11 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="comment-info">
-<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="4 hours after journal entry">2026-06-15 04:42 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141104#cmt141104">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141104" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
-<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141104" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
-<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141104" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="4 hours after journal entry">2026-06-15 04:42 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="45360.html@thread=141104#cmt141104">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141104" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141104" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141104" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_551' class='ljcomsel' id='ljcomsel_141104' /> <label for="ljcomsel_141104">Select</label> </span></div>
 </div>
 </div>
@@ -261,13 +261,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 </div>
 <div class="footer">
 <div class="inner">
-<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141104#cmt141104">Thread</a></li>
-<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141104", 551, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?replyto=141104&amp;style=light&amp;thread=140592' >Reply to this</a></li>
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="45360.html@thread=141104#cmt141104">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141104", 551, "",that)}(this)' href='45360.html@replyto=141104&amp;style=light&amp;thread=140592' >Reply to this</a></li>
 <li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=141104&amp;style=light">Thread from start</a></li>
-<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=140848&amp;style=light#cmt140848">Parent</a></li>
-<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141104&amp;style=light#cmt141104">Thread</a></li>
-<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt141104_hide"><a href='#cmt141104' onClick="Expander.hideComments(this, '141104'); return false;">Hide 3 comments</a></li>
-<li class="link cmt_unhide" style="display: none;" id="cmt141104_unhide"><a href='https://transitional-writes.dreamwidth.org/45360.html?thread=141104&style=light#cmt141104' onClick="Expander.unhideComments(this, '141104'); return false;">Show 3 comments</a></li>
+<li class="link commentparent"><a href="45360.html@thread=140848&amp;style=light#cmt140848">Parent</a></li>
+<li class="link thread"><a href="45360.html@thread=141104&amp;style=light#cmt141104">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt141104_hide"><a href='45360.html@style=light&amp;thread=140592#cmt141104' onClick="Expander.hideComments(this, '141104'); return false;">Hide 3 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt141104_unhide"><a href='45360.html@thread=141104&amp;style=light#cmt141104' onClick="Expander.unhideComments(this, '141104'); return false;">Show 3 comments</a></li>
 </ul><div  id="ljqrt141104" data-quickreply-container="141104" style="display: none;"></div></div>
 </div>
 </div>
@@ -284,11 +284,11 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="comment-info">
-<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="4 hours after journal entry">2026-06-15 04:44 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141360#cmt141360">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141360" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
-<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141360" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
-<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141360" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="4 hours after journal entry">2026-06-15 04:44 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="45360.html@thread=141360#cmt141360">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141360" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141360" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141360" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_552' class='ljcomsel' id='ljcomsel_141360' /> <label for="ljcomsel_141360">Select</label> </span></div>
 </div>
 </div>
@@ -298,13 +298,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 </div>
 <div class="footer">
 <div class="inner">
-<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141360#cmt141360">Thread</a></li>
-<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141360", 552, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?replyto=141360&amp;style=light&amp;thread=140592' >Reply to this</a></li>
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="45360.html@thread=141360#cmt141360">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141360", 552, "",that)}(this)' href='45360.html@replyto=141360&amp;style=light&amp;thread=140592' >Reply to this</a></li>
 <li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=141360&amp;style=light">Thread from start</a></li>
-<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141104&amp;style=light#cmt141104">Parent</a></li>
-<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141360&amp;style=light#cmt141360">Thread</a></li>
-<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt141360_hide"><a href='#cmt141360' onClick="Expander.hideComments(this, '141360'); return false;">Hide 2 comments</a></li>
-<li class="link cmt_unhide" style="display: none;" id="cmt141360_unhide"><a href='https://transitional-writes.dreamwidth.org/45360.html?thread=141360&style=light#cmt141360' onClick="Expander.unhideComments(this, '141360'); return false;">Show 2 comments</a></li>
+<li class="link commentparent"><a href="45360.html@thread=141104&amp;style=light#cmt141104">Parent</a></li>
+<li class="link thread"><a href="45360.html@thread=141360&amp;style=light#cmt141360">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt141360_hide"><a href='45360.html@style=light&amp;thread=140592#cmt141360' onClick="Expander.hideComments(this, '141360'); return false;">Hide 2 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt141360_unhide"><a href='45360.html@thread=141360&amp;style=light#cmt141360' onClick="Expander.unhideComments(this, '141360'); return false;">Show 2 comments</a></li>
 </ul><div  id="ljqrt141360" data-quickreply-container="141360" style="display: none;"></div></div>
 </div>
 </div>
@@ -321,11 +321,11 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="comment-info">
-<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="8 hours after journal entry">2026-06-15 09:02 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141616#cmt141616">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141616" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
-<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141616" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
-<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141616" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="8 hours after journal entry">2026-06-15 09:02 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="45360.html@thread=141616#cmt141616">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141616" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141616" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141616" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_553' class='ljcomsel' id='ljcomsel_141616' /> <label for="ljcomsel_141616">Select</label> </span></div>
 </div>
 </div>
@@ -335,13 +335,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 </div>
 <div class="footer">
 <div class="inner">
-<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141616#cmt141616">Thread</a></li>
-<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141616", 553, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?replyto=141616&amp;style=light&amp;thread=140592' >Reply to this</a></li>
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="45360.html@thread=141616#cmt141616">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141616", 553, "",that)}(this)' href='45360.html@replyto=141616&amp;style=light&amp;thread=140592' >Reply to this</a></li>
 <li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=141616&amp;style=light">Thread from start</a></li>
-<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141360&amp;style=light#cmt141360">Parent</a></li>
-<li class="link thread"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141616&amp;style=light#cmt141616">Thread</a></li>
-<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt141616_hide"><a href='#cmt141616' onClick="Expander.hideComments(this, '141616'); return false;">Hide 1 comment</a></li>
-<li class="link cmt_unhide" style="display: none;" id="cmt141616_unhide"><a href='https://transitional-writes.dreamwidth.org/45360.html?thread=141616&style=light#cmt141616' onClick="Expander.unhideComments(this, '141616'); return false;">Show 1 comment</a></li>
+<li class="link commentparent"><a href="45360.html@thread=141360&amp;style=light#cmt141360">Parent</a></li>
+<li class="link thread"><a href="45360.html@thread=141616&amp;style=light#cmt141616">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt141616_hide"><a href='45360.html@style=light&amp;thread=140592#cmt141616' onClick="Expander.hideComments(this, '141616'); return false;">Hide 1 comment</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt141616_unhide"><a href='45360.html@thread=141616&amp;style=light#cmt141616' onClick="Expander.unhideComments(this, '141616'); return false;">Show 1 comment</a></li>
 </ul><div  id="ljqrt141616" data-quickreply-container="141616" style="display: none;"></div></div>
 </div>
 </div>
@@ -358,12 +358,12 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <div class="inner">
 <div class="userpic"></div>
 <div class="comment-info">
-<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="https://transitional-writes.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://transitional-writes.dreamwidth.org/"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="8 hours after journal entry">2026-06-15 09:06 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141872#cmt141872">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="https://transitional-writes.dreamwidth.org/45360.html?edit=141872&style=light&thread=140592" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="//www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
-<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141872" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="//www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
-<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141872" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="//www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
-<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141872" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="//www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="8 hours after journal entry">2026-06-15 09:06 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (80.234.78.73)</span><span class="commentpermalink">(<a href="45360.html@thread=141872#cmt141872">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="45360.html@edit=141872&amp;style=light&amp;thread=140592" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=141872" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=141872" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=141872" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_554' class='ljcomsel' id='ljcomsel_141872' /> <label for="ljcomsel_141872">Select</label> </span></div>
 </div>
 </div>
@@ -373,19 +373,19 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 </div>
 <div class="footer">
 <div class="inner">
-<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141872#cmt141872">Thread</a></li>
-<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141872", 554, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?replyto=141872&amp;style=light&amp;thread=140592' >Reply to this</a></li>
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="45360.html@thread=141872#cmt141872">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("141872", 554, "",that)}(this)' href='45360.html@replyto=141872&amp;style=light&amp;thread=140592' >Reply to this</a></li>
 <li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=141872&amp;style=light">Thread from start</a></li>
-<li class="link commentparent"><a href="https://transitional-writes.dreamwidth.org/45360.html?thread=141616&amp;style=light#cmt141616">Parent</a></li>
+<li class="link commentparent"><a href="45360.html@thread=141616&amp;style=light#cmt141616">Parent</a></li>
 </ul><div  id="ljqrt141872" data-quickreply-container="141872" style="display: none;"></div></div>
 </div>
 </div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
-</div></div><div class='bottomcomment'><hr class="below-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="https://transitional-writes.dreamwidth.org/45360.html?style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">10 comments</a></li>
-<li class="entry-replylink"><a onclick='return function(that) {return quickreply("bottomcomment", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45360.html?mode=reply&amp;style=light' >Post a new comment</a></li>
-</ul></div><div class='comment-pages bottompages'><span class="view-flat"><a href="https://transitional-writes.dreamwidth.org/45360.html?style=light&view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="https://transitional-writes.dreamwidth.org/45360.html?style=light&view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrtbottomcomment" data-quickreply-container="bottomcomment" style="display: none;"></div>
+</div></div><div class='bottomcomment'><hr class="below-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="45360.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">10 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("bottomcomment", 0, "",that)}(this)' href='45360.html@mode=reply&amp;style=light' >Post a new comment</a></li>
+</ul></div><div class='comment-pages bottompages'><span class="view-flat"><a href="45360.html@style=light&amp;view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="45360.html@style=light&amp;view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrtbottomcomment" data-quickreply-container="bottomcomment" style="display: none;"></div>
         <label for="multiform_mode" >
             Mass action on selected comments:
         </label>
@@ -403,13 +403,13 @@ var LJ_cmtinfo = {"140592":{"u":"transitional_writes","parent":140336,"deleted":
 <hr />
 <div class="row"><div class="large-12 columns">
     <div role="navigation"><p>[ <a href='https://www.dreamwidth.org/'>Home</a> | <a href='https://www.dreamwidth.org/update'>Post Entry</a> |
-    <a href='https://transitional-writes.dreamwidth.org/'>Recent Entries</a> | <a href='https://transitional-writes.dreamwidth.org/read'>Reading Page</a> |
-    <a href='https://www.dreamwidth.org/logout'>Log out</a> | <span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='https://transitional-writes.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://transitional-writes.dreamwidth.org/'><b>transitional_writes</b></a></span> |
+    <a href='index.html'>Recent Entries</a> | <a href='read'>Reading Page</a> |
+    <a href='https://www.dreamwidth.org/logout'>Log out</a> | <span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='index.html'><b>transitional_writes</b></a></span> |
     <a href='https://www.dreamwidth.org/tools/search'>Search</a> | 
     <a href='https://www.dreamwidth.org/manage/settings/'>Browse Options</a> | 
     <a href='https://www.dreamwidth.org/site/'>Site Map</a> ]</p></div>
-    <script type="text/javascript" src="//www.dreamwidth.org/js/??jquery/jquery-1.8.3.js,foundation/vendor/custom.modernizr.js,foundation/foundation/foundation.js,foundation/foundation/foundation.topbar.js,dw/dw-core.js,jquery/jquery.ui.core.js,jquery/jquery.ui.widget.js,jquery/jquery.ui.tooltip.js,jquery.ajaxtip.js,jquery/jquery.ui.position.js,jquery.hoverIntent.js,jquery.contextualhover.js?v=1783736183"></script>
-<script type="text/javascript" src="//www.dreamwidth.org/js/??jquery.replyforms.js,jquery.poll.js,journals/jquery.tag-nav.js,jquery.mediaplaceholder.js,jquery.imageshrink.js,components/jquery.icon-select.js,jquery.quickreply.js,jquery.threadexpander.js,jquery/jquery.ui.button.js,jquery/jquery.ui.dialog.js,jquery.commentmanage.js,jquery.esn.js?v=1783736183"></script>
+    <script type="text/javascript" src="https://www.dreamwidth.org/js/??jquery/jquery-1.8.3.js,foundation/vendor/custom.modernizr.js,foundation/foundation/foundation.js,foundation/foundation/foundation.topbar.js,dw/dw-core.js,jquery/jquery.ui.core.js,jquery/jquery.ui.widget.js,jquery/jquery.ui.tooltip.js,jquery.ajaxtip.js,jquery/jquery.ui.position.js,jquery.hoverIntent.js,jquery.contextualhover.js?v=1783736183"></script>
+<script type="text/javascript" src="https://www.dreamwidth.org/js/??jquery.replyforms.js,jquery.poll.js,journals/jquery.tag-nav.js,jquery.mediaplaceholder.js,jquery.imageshrink.js,components/jquery.icon-select.js,jquery.quickreply.js,jquery.threadexpander.js,jquery/jquery.ui.button.js,jquery/jquery.ui.dialog.js,jquery.commentmanage.js,jquery.esn.js?v=1783736183"></script>
 <div id='statistics' style='text-align: left; font-size:0; line-height:0; height:0; overflow:hidden;'></div><script>$(document).foundation();</script></div></div>
 </body>
 </html>
