@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"ctx_popup_userhead":1,"esn_async":1,"cmax_comment":16000,"siteroot":"https://www.dreamwidth.org","ctx_popup":1,"media_embed_enabled":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","inbox_update_poll":1,"currentJournal":"transitional_writes","has_remote":1,"iconprefix":"https://v2.dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","imgprefix":"https://www.dreamwidth.org/img","ctx_popup_icons":1,"user_domain":"dreamwidth.org"});
+                Site = Object.assign(Site, {"inbox_update_poll":1,"statprefix":"https://www.dreamwidth.org/stc","currentJournalBase":"https://transitional-writes.dreamwidth.org","iconprefix":"https://v2.dreamwidth.org","siteroot":"https://www.dreamwidth.org","user_domain":"dreamwidth.org","ctx_popup_userhead":1,"ctx_popup":1,"imgprefix":"https://www.dreamwidth.org/img","esn_async":1,"ctx_popup_icons":1,"has_remote":1,"cmax_comment":16000,"media_embed_enabled":1,"currentJournal":"transitional_writes"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,css/components/talkform.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -55,7 +55,7 @@
 <div>
 <div class="contents usercontent">
 <div class="inner">
-<h4 class="comment-title"><a title="no subject" href="52782.html@thread=354094&amp;style=light#cmt354094" class=" invisible" >no subject</a></h4><div class="comment-content">кстати, априорное распределение Соломонова дает исчерпывающий ответ о<br />жизни после смерти.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />это пари Паскаля, только по честному.<br /><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F">https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F</a><br /><br />после смерти тебя ждет априорное распределение Соломонова.<br />самый простой вариант тоже возможен - ты просто умрешь,<br />проустив все земные радости.<br />но все остальные варианты также возможны, только менее вероятны каждый.<br />там тебя может ждать любой строгий бог, с абсолютно любыми заповедями.<br />которрый покарает тебя вечными муками за малейшее нарушение лишь одной из них.<br />а значит там тебя ждут вечные муки и ничего кроме.<br /><br />вот что тебя ждет после смерти.<br />кара от любого бога за малейшее нарушение любого из правил, о<br />которых ты даже никогда и не слышал и не задумывался.<br /><br />этот вопрос поднимал Паскаль, но некорректно его решил.<br />естественно-научная методология позволяет строго решить вопрос о посмертии.<br />- ты либо просто сдохнешь.<br />- либо не угадаешь с богом, а они все не дают тебе подсказки и карают<br />вечными муками за неверность.<br />- либо, но это практически невероятно, тебе дадут пофоткать каких-то девушек.<br />но это невероятно. да и какие это будут девушки?</div></div>
+<h4 class="comment-title"><a title="no subject" href="52782.html@thread=354094&amp;style=light#cmt354094" class=" invisible" >no subject</a></h4><div class="comment-content">кстати, априорное распределение Соломонова дает исчерпывающий ответ о<br />жизни после смерти.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />это пари Паскаля, только по честному.<br /><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F">https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F</a><br /><br />после смерти тебя ждет априорное распределение Соломонова.<br />самый простой вариант тоже возможен - ты просто умрешь,<br />проустив все земные радости.<br />но все остальные варианты также возможны, только менее вероятны каждый.<br />там тебя может ждать любой строгий бог, с абсолютно любыми заповедями.<br />которрый покарает тебя вечными муками за малейшее нарушение лишь одной из них.<br />а значит там тебя ждут вечные муки и ничего кроме.<br /><br />вот что тебя ждет после смерти.<br />кара от любого бога за малейшее нарушение любого из правил, о<br />которых ты даже никогда и не слышал и не задумывался.<br /><br />этот вопрос поднимал Паскаль, но некорректно его решил.<br />естественно-научная методология позволяет строго решить вопрос о посмертии.<br />- ты либо просто сдохнешь.<br />- либо не угадаешь с богом, а они все не дают тебе подсказки и карают<br />вечными муками за неверность.<br />- либо, но это практически невероятно, тебе дадут пофоткать каких-то девушек.<br />но это невероятно. да и какие это будут девушки?<br />приведи пример их фоток.</div></div>
 </div>
 </div>
 <div class="footer">
@@ -69,12 +69,12 @@
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
-<hr style="margin: 1em 0;"><div class="readlink"> (<a href="52782.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">6 comments</a>) </div>
+<hr style="margin: 1em 0;"><div class="readlink"> (<a href="52782.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">18 comments</a>) </div>
 <h1>Post a comment in response:</h1>
 
 <div id='qrdiv'><div id='qrformdiv'>
 
-<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1784970000:1714:86400:FLRZXkoJxa-4255543-23:5f7d99d87d3bcc08d00bd3489f23db5d" /><input type='hidden' name="replyto" value="1383" /><input type='hidden' name="parenttalkid" value="1383" /><input type='hidden' name="itemid" value="52782" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="0" /><input type='hidden' name="viewing_thread" value="0" /><input type='hidden' name="chrp1" value="52782-4255543-1784970000-nUndtyzTcUtKodwScSZa-6ee67e6a92f89f8397c60b657a641087" /><input type='hidden' name="style" value="light" />
+<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785182400:1474:86400:N5cNkilqLk-4255543-24:a784eaa5eab97d50e08b7be2d0180b37" /><input type='hidden' name="replyto" value="1383" /><input type='hidden' name="parenttalkid" value="1383" /><input type='hidden' name="itemid" value="52782" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="0" /><input type='hidden' name="viewing_thread" value="0" /><input type='hidden' name="chrp1" value="52782-4255543-1785182400-tnvhdNNsfbb6OBzKAcXd-9962768090d0f58bfcea597f0049fd0d" /><input type='hidden' name="style" value="light" />
 
 
 <div id="talkform-from">
@@ -101,9 +101,9 @@
         <label for="oidurl" >
             Identity URL:
         </label>
-        <input type="text" name="oidurl" value="" size="53" maxlength="60" id="oidurl" class="text" />      </div>
+        <input type="text" name="oidurl" id="oidurl" value="" class="text" size="53" maxlength="60" />      </div>
 
-      <div><input type='checkbox' class="checkbox" id="oidlogincheck" name="oiddo_login" />
+      <div><input type='checkbox' id="oidlogincheck" name="oiddo_login" class="checkbox" />
         <label for="oidlogincheck" class="checkboxlabel">
             Log in?
         </label>
@@ -137,15 +137,15 @@
         <label for="username" >
             Account name
         </label>
-        <input type="text" maxlength="25" size="13" value="" style="background: url(https://transitional-writes.dreamwidth.org/&) no-repeat; background-color: #fff; background-position: 0px 50%; padding-left: 18px; color: #00C; font-weight: bold;" name="userpost" class="text" id="username" />      </div>
+        <input type="text" maxlength="25" size="13" class="text" style="background: url(https://transitional-writes.dreamwidth.org/&) no-repeat; background-color: #fff; background-position: 0px 50%; padding-left: 18px; color: #00C; font-weight: bold;" value="" id="username" name="userpost" />      </div>
 
       <div>
         <label for="password" >
             Password
         </label>
-        <input type="password" class="text" id="password" name="password" maxlength="72" size="18" value="" />      </div>
+        <input type="password" class="text" value="" maxlength="72" size="18" id="password" name="password" />      </div>
 
-      <div><input type='checkbox' class="checkbox" id="logincheck" name="do_login" />
+      <div><input type='checkbox' name="do_login" id="logincheck" class="checkbox" />
         <label for="logincheck" class="checkboxlabel">
             Log in?
         </label>
@@ -173,7 +173,7 @@
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" name="subject" value="" size="50" maxlength="100" id="subject" placeholder="Subject" class="text" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
+        <input type="text" size="50" maxlength="100" class="text" value="" placeholder="Subject" id="subject" name="subject" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
   <img src="https://www.dreamwidth.org/img/talk/none.gif" border="0" width="15" height="15" alt="No Subject Icon Selected" valign="middle" id='subjectIconImage' role='button' class='js-only' style='display: none;' title='Click to change the subject icon' /></div>
 
 <div style="display: none;" id="subjectIconList">
@@ -189,7 +189,7 @@
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select name="prop_editor" class="select" id="prop_editor">
+        <select id="prop_editor" name="prop_editor" class="select">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
@@ -211,7 +211,7 @@
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea class="text" wrap="soft" rows="10" id="body" cols="80" name="body"></textarea></div>
+        <textarea rows="10" name="body" wrap="soft" id="body" cols="80" class="text"></textarea></div>
 
 
 
@@ -221,7 +221,7 @@
 
 
 <div class="qr-footer">
-<input type='submit' name="submitpost" value="Post Comment" class="submit" id="submitpost" />  &nbsp;<input type='submit' name="submitpreview" value="Preview" class="submit" id="submitpview" /><input type='hidden' name="previewplaceholder" value="1" id="previewplaceholder" />    <div class='de'>        <strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.    </div>
+<input type='submit' name="submitpost" value="Post Comment" id="submitpost" class="submit" />  &nbsp;<input type='submit' name="submitpreview" value="Preview" class="submit" id="submitpview" /><input type='hidden' name="previewplaceholder" value="1" id="previewplaceholder" />    <div class='de'>        <strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.    </div>
 
 </div>
 

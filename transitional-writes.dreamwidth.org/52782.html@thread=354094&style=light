@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"ctx_popup_icons":1,"has_remote":1,"siteroot":"https://www.dreamwidth.org","user_domain":"dreamwidth.org","currentJournal":"transitional_writes","iconprefix":"https://v2.dreamwidth.org","imgprefix":"https://www.dreamwidth.org/img","statprefix":"https://www.dreamwidth.org/stc","cmax_comment":16000,"media_embed_enabled":1,"esn_async":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup":1,"inbox_update_poll":1,"ctx_popup_userhead":1});
+                Site = Object.assign(Site, {"has_remote":1,"cmax_comment":16000,"inbox_update_poll":1,"ctx_popup_icons":1,"media_embed_enabled":1,"iconprefix":"https://v2.dreamwidth.org","currentJournalBase":"https://transitional-writes.dreamwidth.org","user_domain":"dreamwidth.org","imgprefix":"https://www.dreamwidth.org/img","ctx_popup":1,"esn_async":1,"currentJournal":"transitional_writes","statprefix":"https://www.dreamwidth.org/stc","siteroot":"https://www.dreamwidth.org","ctx_popup_userhead":1});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery.commentmanage.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -38,7 +38,7 @@
 <link rel="canonical" href="52782.html@thread=354094#cmt354094" />
 <script>
 // don't crawl this.  read http://www.livejournal.com/developer/exporting
-var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-4255543-23:8cd8d3e75ea5dc89d41871cc81fc9057","canSpam":1,"journal":"transitional_writes","remote":"transitional_writes","354094":{"screened":0,"rc":[],"deleted":0,"full":1,"u":"transitional_writes","parent":null}}
+var LJ_cmtinfo = {"canAdmin":1,"canSpam":1,"journal":"transitional_writes","359726":{"rc":[359982],"parent":359470,"deleted":0,"full":1,"u":"transitional_writes","screened":0},"361518":{"parent":360238,"rc":[],"deleted":0,"full":1,"u":"","screened":0},"remote":"transitional_writes","form_auth":"c0:1785182400:1476:86400:LZ9wSb7nXf-4255543-24:5d30ffa160c4a5ecf2a3ef563a9d9ed9","360238":{"screened":0,"deleted":0,"u":"transitional_writes","full":1,"rc":[361518],"parent":359982},"354094":{"screened":0,"u":"transitional_writes","full":1,"deleted":0,"rc":[359470],"parent":null},"359982":{"rc":[360238],"parent":359726,"screened":0,"deleted":0,"full":1,"u":"beloyar"},"359470":{"parent":354094,"rc":[359726],"full":1,"u":"beloyar","deleted":0,"screened":0}}
 </script>
 </head>
 
@@ -69,7 +69,7 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
 <li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=52782" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="https://www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
 <li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=52782" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="https://www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
 <li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=52782" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="https://www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
-<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=52782" lj_journalid="4255543" lj_newentry_subid="0" class="TrackButton" js_swapname="Untrack This" lj_etypeid="3" lj_subid="0" lj_arg1="52782" lj_auth_token="ajax:1784984400:4255543:23:/__rpc_esn_subs:addsub&52782&3&4255543:11f30935c55aca7889a8f6957086d4b78e5918e1" journal="transitional_writes" lj_newentry_token="ajax:1784984400:4255543:23:/__rpc_esn_subs:addsub&1&4255543:db70609eb78f61353a4ed520bec97304544c4bda" lj_newentry_etypeid="1" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=52782" js_swapname="Untrack This" lj_newentry_subid="0" lj_subid="0" lj_auth_token="ajax:1785182400:4255543:24:/__rpc_esn_subs:addsub&52782&3&4255543:39dd50b33630e329a8c258a36e81ef328568dee2" lj_arg1="52782" lj_journalid="4255543" lj_newentry_token="ajax:1785182400:4255543:24:/__rpc_esn_subs:addsub&1&4255543:da3cf5a6117b1df4fa5994e65df747775e971508" lj_newentry_etypeid="1" class="TrackButton" lj_etypeid="3" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
 <li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=52782&journal=transitional_writes&style=light" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="https://www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
 </ul></div>
 </div>
@@ -85,7 +85,7 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
 <div class="footer">
 <div class="inner">
 <hr class="above-entry-interaction-links" />
-    <div class="comment-pages-wrapper"></div><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="52782.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">8 comments</a></li>
+    <div class="comment-pages-wrapper"></div><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="52782.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">18 comments</a></li>
 <li class="entry-replylink"><a onclick='return function(that) {return quickreply("topcomment", 0, "",that)}(this)' href='52782.html@mode=reply&amp;style=light' >Post a new comment</a></li>
 </ul></div>
 </div>
@@ -96,7 +96,7 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
 <div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-flat"><a href="52782.html@style=light&amp;view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="52782.html@style=light&amp;view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
 
 <div id='qrdiv' style="display: none;">
-<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1784984400:2210:86400:nzeIpx8DqE-4255543-23:8cd8d3e75ea5dc89d41871cc81fc9057" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="52782" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/52782.html?style=light&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="354094" id="viewing_thread" /><input type='hidden' name="style" value="light" id="style" /><input type='hidden' name="chrp1" value="52782-4255543-1784984400-ABe66mDL1uMqwrsw1pMq-f3a61eb095fd38159a30f5158c873dd4" />
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785182400:1476:86400:LZ9wSb7nXf-4255543-24:5d30ffa160c4a5ecf2a3ef563a9d9ed9" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="52782" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/52782.html?style=light&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="354094" id="viewing_thread" /><input type='hidden' name="style" value="light" id="style" /><input type='hidden' name="chrp1" value="52782-4255543-1785182400-vCYVNsQT2HN4aO893cYs-bec0dbc53b6c63d52f9e354d6eba393e" />
 <div class='qr-meta'>
 
   <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
@@ -120,7 +120,7 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" id="subject" maxlength="100" class="text" name="subject" placeholder="Subject" value="" size="50" />
+        <input type="text" class="text" maxlength="100" name="subject" value="" id="subject" placeholder="Subject" size="50" />
 </div>
 
 
@@ -130,13 +130,13 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select id="prop_editor" name="prop_editor" class="select">
+        <select class="select" name="prop_editor" id="prop_editor">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
 <option value="rte0">Rich Text Editor</option>
 </select>
-    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' style="vertical-align: middle;" title="More info about formatting" /></a>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
   </div>
 
   <div class="qr-markup-controls">
@@ -148,11 +148,11 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea name="body" class="text" rows="10" cols="80" id="body" wrap="soft"></textarea></div>
+        <textarea id="body" rows="10" class="text" cols="80" name="body" wrap="soft"></textarea></div>
 
 <div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" class="submit" id="submitpost" />
 
-  <input type='submit' name="submitpview" value="Preview" class="submit" id="submitpview" /><input type='hidden' name="submitpreview" value="0" />
+  <input type='submit' name="submitpview" value="Preview" id="submitpview" class="submit" /><input type='hidden' name="submitpreview" value="0" />
 
   
     <div class='de'><strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.</div>
@@ -174,9 +174,8 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
 <div class="userpic"></div>
 <div class="comment-info">
 <h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
-<span class="datetime"><span class="comment-date-text"> </span> <span title="15 minutes after journal entry">2026-07-25 06:09 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="52782.html@thread=354094#cmt354094">link</a>)</span>
-<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="52782.html@edit=354094&amp;style=light&amp;thread=354094" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
-<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=354094" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="15 minutes after journal entry">2026-07-25 06:09 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (94.77.23.215 (originally 51.178.141.131))</span><span class="commentpermalink">(<a href="52782.html@thread=354094#cmt354094">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=354094" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
 <li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=354094" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
 <li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=354094" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
 </ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1383' class='ljcomsel' id='ljcomsel_354094' /> <label for="ljcomsel_354094">Select</label> </span></div>
@@ -184,26 +183,211 @@ var LJ_cmtinfo = {"canAdmin":1,"form_auth":"c0:1784984400:2210:86400:nzeIpx8DqE-
 </div>
 <div class="contents usercontent">
 <div class="inner">
-<div class="comment-content">кстати, априорное распределение Соломонова дает исчерпывающий ответ о<br />жизни после смерти.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />это пари Паскаля, только по честному.<br /><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F">https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F</a><br /><br />после смерти тебя ждет априорное распределение Соломонова.<br />самый простой вариант тоже возможен - ты просто умрешь,<br />проустив все земные радости.<br />но все остальные варианты также возможны, только менее вероятны каждый.<br />там тебя может ждать любой строгий бог, с абсолютно любыми заповедями.<br />которрый покарает тебя вечными муками за малейшее нарушение лишь одной из них.<br />а значит там тебя ждут вечные муки и ничего кроме.<br /><br />вот что тебя ждет после смерти.<br />кара от любого бога за малейшее нарушение любого из правил, о<br />которых ты даже никогда и не слышал и не задумывался.<br /><br />этот вопрос поднимал Паскаль, но некорректно его решил.<br />естественно-научная методология позволяет строго решить вопрос о посмертии.<br />- ты либо просто сдохнешь.<br />- либо не угадаешь с богом, а они все не дают тебе подсказки и карают<br />вечными муками за неверность.<br />- либо, но это практически невероятно, тебе дадут пофоткать каких-то девушек.<br />но это невероятно. да и какие это будут девушки?</div></div>
+<div class="comment-content">кстати, априорное распределение Соломонова дает исчерпывающий ответ о<br />жизни после смерти.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />это пари Паскаля, только по честному.<br /><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F">https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B8_%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8F</a><br /><br />после смерти тебя ждет априорное распределение Соломонова.<br />самый простой вариант тоже возможен - ты просто умрешь,<br />проустив все земные радости.<br />но все остальные варианты также возможны, только менее вероятны каждый.<br />там тебя может ждать любой строгий бог, с абсолютно любыми заповедями.<br />которрый покарает тебя вечными муками за малейшее нарушение лишь одной из них.<br />а значит там тебя ждут вечные муки и ничего кроме.<br /><br />вот что тебя ждет после смерти.<br />кара от любого бога за малейшее нарушение любого из правил, о<br />которых ты даже никогда и не слышал и не задумывался.<br /><br />этот вопрос поднимал Паскаль, но некорректно его решил.<br />естественно-научная методология позволяет строго решить вопрос о посмертии.<br />- ты либо просто сдохнешь.<br />- либо не угадаешь с богом, а они все не дают тебе подсказки и карают<br />вечными муками за неверность.<br />- либо, но это практически невероятно, тебе дадут пофоткать каких-то девушек.<br />но это невероятно. да и какие это будут девушки?<br />приведи пример их фоток.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-25 14:13 (UTC)</span></span></em></div></div></div>
 </div>
 <div class="footer">
 <div class="inner">
 <ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="52782.html@thread=354094#cmt354094">Thread</a></li>
 <li class="link reply first-item"><a onclick='return function(that) {return quickreply("354094", 1383, "",that)}(this)' href='52782.html@replyto=354094&amp;style=light&amp;thread=354094' >Reply to this</a></li>
+<li class="link thread"><a href="52782.html@thread=354094&amp;style=light#cmt354094">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt354094_hide"><a href='52782.html@thread=354094&amp;style=light#cmt354094' onClick="Expander.hideComments(this, '354094'); return false;">Hide 5 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt354094_unhide"><a href='52782.html@thread=354094&amp;style=light#cmt354094' onClick="Expander.unhideComments(this, '354094'); return false;">Show 5 comments</a></li>
 </ul><div  id="ljqrt354094" data-quickreply-container="354094" style="display: none;"></div></div>
 </div>
 </div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
-</div></div><div class='bottomcomment'><hr class="below-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="52782.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">8 comments</a></li>
+</div></div><div class='comment-thread comment-depth-even comment-depth-2'>
+<div id='cmt359470' class='dwexpcomment' style='margin-left: 25px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-beloyar  full has-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt359470">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"><a href="https://beloyar.dreamwidth.org/icons"><img src="https://v2.dreamwidth.org/18239806/3622766" title="beloyar: (Default)" alt="beloyar: (Default)"  height="84" width="100" /></a></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="beloyar" style="white-space: nowrap;" class="ljuser"><a href="https://beloyar.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://beloyar.dreamwidth.org/"><b>beloyar</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="21 hours after journal entry, 06:24 am (beloyar&#39;s time)">2026-07-26 03:24 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (217.159.144.139)</span><span class="commentpermalink">(<a href="52782.html@thread=359470#cmt359470">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=359470" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=359470" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=359470" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1404' class='ljcomsel' id='ljcomsel_359470' /> <label for="ljcomsel_359470">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">То есть никакой полной определённости? Существует красивая версия, что демитилтриптамин, который в норме существует в центральной нервной системе, выделяется в момент смерти, а там уж как у человека с психоделическим опытом, Существует здравая идея, что умереть действительно можно даже не осознав этого факта, можно попробовать прийти в изменённое состояние сознания, при некотором опыте можно добиться чувства замедления времени, в общем, иллюзии вечности. Не могу сказать, что у меня получалось, но я и не тренировался, кстати, и вещества тут не особо нужны, иногда просто достаточно не поспать ночь на дежурстве(первая бессонная ночь вызывают антидепрессивный эффект, существует даже такое метод лечения комбинированный с усиленным освещением, которая должно "наладить" биоритмы. Протокол лечения существует, эффективность доказана. Но не будем уклоняться от смерти. Мне доводилось работать с пациентами которые потом умирали, отделение такое было, гериатрия, критерии поступления возраст старше 60, у многих в истории болезни стоит надпись "не реанимировать".<br />CPR, стандартная кардио-пульмонарная реанимация, искусственное дыхание непрямой массаж сердца, по некоторым данным приводит к восстановлению жизненных функций в 30% случаев. Норёбра человеку можно сломать, тем более, пожилому у которого хрупкие кости, остеопороз. Если помучается человек и всё равно умрёт, то просто негуманно его "заводить". Согласие на такую запись даёт пациент.<br /><br /><br /><br /> В больнице умирать-есть плюсы и минусы. Больно не будет, например, правда,есть нюансы И хотя существует негласное правило к умирающим коллегам относиться с особым вниманием, меня это не особо воодушевляет. К теме смерти я как-нибудь ещё вернусь, кстати, после работы в гериатрии у меня появился некоторый оптимизм (пофигизм?) хотя работа была психологически сложна-да не то слово. Допустим, человек говорит: "а я хочу умереть я ничего не буду делать и вставать не буду". Твоя задача его "мотивировать". Просто написать "пациент от физиотерапии отказался" неэтично.<br /> И как хорошо в таком месте встретить человека позитивного, который встречает тебя с улыбкой и надеждой, а когда ты это надежду можешь оправдать-это чувство прекрасное. Таких бывает процентов пять. </div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="52782.html@thread=359470#cmt359470">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("359470", 1404, "",that)}(this)' href='52782.html@replyto=359470&amp;style=light&amp;thread=354094' >Reply to this</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=359470&amp;style=light">Thread from start</a></li>
+<li class="link commentparent"><a href="52782.html@thread=354094&amp;style=light#cmt354094">Parent</a></li>
+<li class="link thread"><a href="52782.html@thread=359470&amp;style=light#cmt359470">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt359470_hide"><a href='52782.html@thread=354094&amp;style=light#cmt359470' onClick="Expander.hideComments(this, '359470'); return false;">Hide 4 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt359470_unhide"><a href='52782.html@thread=359470&amp;style=light#cmt359470' onClick="Expander.unhideComments(this, '359470'); return false;">Show 4 comments</a></li>
+</ul><div  id="ljqrt359470" data-quickreply-container="359470" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-3'>
+<div id='cmt359726' class='dwexpcomment' style='margin-left: 50px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt359726">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="21 hours after journal entry">2026-07-26 03:34 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="52782.html@thread=359726#cmt359726">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=359726" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=359726" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=359726" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1405' class='ljcomsel' id='ljcomsel_359726' /> <label for="ljcomsel_359726">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">&gt; То есть никакой полной определённости?<br /><br />строго говоря нет. но практически наверняка ты просто сдохнешь и все.<br />с очень мизерной вероятностью тебя будет пытать чужой бог низачто.<br />с нулевой вероятностью тебе дадут пофоткать девушек.<br />но даже тут есть подвох. каких из 4 000 000 000 девушек тебе дадут пофоткать?<br />у тебя же есть предпочтения.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="52782.html@thread=359726#cmt359726">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("359726", 1405, "",that)}(this)' href='52782.html@replyto=359726&amp;style=light&amp;thread=354094' >Reply to this</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=359726&amp;style=light">Thread from start</a></li>
+<li class="link commentparent"><a href="52782.html@thread=359470&amp;style=light#cmt359470">Parent</a></li>
+<li class="link thread"><a href="52782.html@thread=359726&amp;style=light#cmt359726">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt359726_hide"><a href='52782.html@thread=354094&amp;style=light#cmt359726' onClick="Expander.hideComments(this, '359726'); return false;">Hide 3 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt359726_unhide"><a href='52782.html@thread=359726&amp;style=light#cmt359726' onClick="Expander.unhideComments(this, '359726'); return false;">Show 3 comments</a></li>
+</ul><div  id="ljqrt359726" data-quickreply-container="359726" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-even comment-depth-4'>
+<div id='cmt359982' class='dwexpcomment' style='margin-left: 75px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-beloyar  full has-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt359982">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"><a href="https://beloyar.dreamwidth.org/icons"><img src="https://v2.dreamwidth.org/18239806/3622766" title="beloyar: (Default)" alt="beloyar: (Default)"  height="84" width="100" /></a></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="beloyar" style="white-space: nowrap;" class="ljuser"><a href="https://beloyar.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://beloyar.dreamwidth.org/"><b>beloyar</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="22 hours after journal entry, 07:19 am (beloyar&#39;s time)">2026-07-26 04:19 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (217.159.144.139)</span><span class="commentpermalink">(<a href="52782.html@thread=359982#cmt359982">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=359982" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=359982" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=359982" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1406' class='ljcomsel' id='ljcomsel_359982' /> <label for="ljcomsel_359982">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content"><i>будет пытать чужой бог низачто</i><br />Бог, всеведущий, всемогущий и всеблагой(just kidding)?<br />Если же без шуток, то самые страшные пытки человек придумывает себе сам. Конечно, божественные атрибуты позволяют тоже узнать об этом, но человек и сам справляется без сверхъестественных способностей. <br /><br /><br />Меня не индоктринировали, религия заинтересовала меня как культурный феномен, к тому же, заинтересовал мёртвый язык, церковнославянский. И было уже поздно, в 13 лет человеку трудно обрести веру. И я хорошо знаю церковную жизнь изнутри,а мой атеизм - что же, есть люди с гораздо худшими недостатками, которые несмотря на это работают в церкви и даже верят в бога, возможно. Тем более, что работать мне приходилось не только в православных церквях, но ещё и в одной секте, где мне пророчили должность ответственного за этику. Заманчивая перспектива, но у меня уже была профессия, вполне востребованная. Когнитивных диссонансов я не испытывал, просто относился ко всему, как к театру. Надо сказать, люди мне попадались везде в основном хорошие, можно сказать, душевные. <br /><br />Если же подходить к посмертному существованию с оптимистической точки зрения, то могу вспомнить, что среди христианских теологов<br />существует учение об апокатастасисе, "всеобщим спасении", то есть объединении всех душ с богом с большой буквы.<br />Это, скажем так, частное мнение. Возможно, его раньше бы назвали ересью, но сейчас терпят. <br /><br /> Но термин "душа"  я не могу принять, потому что алогичен он. <br />Слишком много примеров я видел, которые противоречат идее души.<br />Например, психиатрической больнице проработал 2,5 года тяжёлый, но уникальный опыт. Наблюдение патологий а не только нормы "душевной" слишком расходится с любыми попытками вставить в человека душу.<br /><br />Вот как можно соотнести понятие души и понятия душевных заболеваний? Та же самая болезнь Альцгеймера, ведь видно же её признаки в нервных клетках, и я знаю, что это сейчас необратимая проблема обмена веществ в нейронах, причём, есть же разные типы деменции, альцгеймерская всего лишь самая известная. Что происходит с душой в это время? <br /><br /><br /> Много таких несообразностей. <div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="07:26 (beloyar&#39;s time)">2026-07-26 04:26 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="52782.html@thread=359982#cmt359982">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("359982", 1406, "",that)}(this)' href='52782.html@replyto=359982&amp;style=light&amp;thread=354094' >Reply to this</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=359982&amp;style=light">Thread from start</a></li>
+<li class="link commentparent"><a href="52782.html@thread=359726&amp;style=light#cmt359726">Parent</a></li>
+<li class="link thread"><a href="52782.html@thread=359982&amp;style=light#cmt359982">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt359982_hide"><a href='52782.html@thread=354094&amp;style=light#cmt359982' onClick="Expander.hideComments(this, '359982'); return false;">Hide 2 comments</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt359982_unhide"><a href='52782.html@thread=359982&amp;style=light#cmt359982' onClick="Expander.unhideComments(this, '359982'); return false;">Show 2 comments</a></li>
+</ul><div  id="ljqrt359982" data-quickreply-container="359982" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-5'>
+<div id='cmt360238' class='dwexpcomment' style='margin-left: 100px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt360238">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="22 hours after journal entry">2026-07-26 04:43 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="52782.html@thread=360238#cmt360238">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=360238" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=360238" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=360238" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1407' class='ljcomsel' id='ljcomsel_360238' /> <label for="ljcomsel_360238">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">Спасибо за Ваш комментарий.<br />А заинтересует иное его прочтение?<br />Точнее не прочтение, а применение.<br />Ведь это же просто априорное распределение в<br />условиях полной неизвестности. Подставь вместо посмертия любую<br />неопределенность - и используй.<br /><br />Строго говоря, Государство тоже ненаблюдаемо.<br />И точно такое же распределение государств поджидает тебя во вполне земной жизни.<br /><br />На это обычно возражают - ну раз ты или люди вокруг как-то живы, значит<br />все не так плохо, вот - апостериорно - кто-то же выжил.<br /><br />Но более менее известны из истории, великие депрессии, крахи государств,<br />катастрофы бронзового века. Кто в них побеждает? Люди с оружием?<br />А те кто его сдает полиции - исчезают.<br /><br />Вы какой-то хоспис описываете все время, комфортная, дорогая,<br />красивая смерть.<br />Которую зачем-то кто-то обеспечивает.<br /><br />Для меня интереснее девушки и их безопасность. Как они без оружия?<br />Тем более тут всегда возможна катастрофа бронзового века.<br /><br />Почему все прутся в психиатрические клиники, но никто не хочет идти работать<br />физруком в педагогический? И раздавать материалы, что без оружия ты<br />будешь скакать на козле и работать по 12 часов.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-26 04:44 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="52782.html@thread=360238#cmt360238">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("360238", 1407, "",that)}(this)' href='52782.html@replyto=360238&amp;style=light&amp;thread=354094' >Reply to this</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=360238&amp;style=light">Thread from start</a></li>
+<li class="link commentparent"><a href="52782.html@thread=359982&amp;style=light#cmt359982">Parent</a></li>
+<li class="link thread"><a href="52782.html@thread=360238&amp;style=light#cmt360238">Thread</a></li>
+<li class="link cmt_hide cmt_show_hide_default" style="display:none;" id="cmt360238_hide"><a href='52782.html@thread=354094&amp;style=light#cmt360238' onClick="Expander.hideComments(this, '360238'); return false;">Hide 1 comment</a></li>
+<li class="link cmt_unhide" style="display: none;" id="cmt360238_unhide"><a href='52782.html@thread=360238&amp;style=light#cmt360238' onClick="Expander.unhideComments(this, '360238'); return false;">Show 1 comment</a></li>
+</ul><div  id="ljqrt360238" data-quickreply-container="360238" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-even comment-depth-6'>
+<div id='cmt361518' class='dwexpcomment' style='margin-left: 125px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-anonymous  full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt361518">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span class="anonymous">(Anonymous)</span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-26 12:19 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (217.159.144.139)</span><span class="commentpermalink">(<a href="52782.html@thread=361518#cmt361518">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link delete_comment first-item"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=361518" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=361518" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=361518" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1412' class='ljcomsel' id='ljcomsel_361518' /> <label for="ljcomsel_361518">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">На здоровье!) обычно считается, что проще найти работу в тюремных больницах и психиатрических заведениях. Там и текучка кадров больше, и удовольствие ниже среднего. А вот работу преподавателя физкультуры или даже инструктора "по фитнесу"  так просто не найти. К тому же, насколько я помню, у мужской группы студентов или школьников обычно ведёт занятия мужчина, у женщин - женщина. </div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="52782.html@thread=361518#cmt361518">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("361518", 1412, "",that)}(this)' href='52782.html@replyto=361518&amp;style=light&amp;thread=354094' >Reply to this</a></li>
+<li class="link threadroot"><a href="https://www.dreamwidth.org/go?redir_type=threadroot&amp;journal=transitional_writes&amp;talkid=361518&amp;style=light">Thread from start</a></li>
+<li class="link commentparent"><a href="52782.html@thread=360238&amp;style=light#cmt360238">Parent</a></li>
+</ul><div  id="ljqrt361518" data-quickreply-container="361518" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='bottomcomment'><hr class="below-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="52782.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">18 comments</a></li>
 <li class="entry-replylink"><a onclick='return function(that) {return quickreply("bottomcomment", 0, "",that)}(this)' href='52782.html@mode=reply&amp;style=light' >Post a new comment</a></li>
 </ul></div><div class='comment-pages bottompages'><span class="view-flat"><a href="52782.html@style=light&amp;view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="52782.html@style=light&amp;view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrtbottomcomment" data-quickreply-container="bottomcomment" style="display: none;"></div>
         <label for="multiform_mode" >
             Mass action on selected comments:
         </label>
         
-<select id="multiform_mode" name="mode">
+<select name="mode" id="multiform_mode">
 <option value=""></option>
 <option value="unscreen">Unscreen</option>
 <option value="screen">Screen</option>

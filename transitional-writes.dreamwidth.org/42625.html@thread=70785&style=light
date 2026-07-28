@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"has_remote":1,"ctx_popup_userhead":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","ctx_popup_icons":1,"iconprefix":"https://v2.dreamwidth.org","esn_async":1,"currentJournal":"transitional_writes","media_embed_enabled":1,"inbox_update_poll":1,"siteroot":"https://www.dreamwidth.org","cmax_comment":16000,"imgprefix":"https://www.dreamwidth.org/img","user_domain":"dreamwidth.org","ctx_popup":1});
+                Site = Object.assign(Site, {"has_remote":1,"siteroot":"https://www.dreamwidth.org","ctx_popup_icons":1,"currentJournal":"transitional_writes","statprefix":"https://www.dreamwidth.org/stc","esn_async":1,"inbox_update_poll":1,"cmax_comment":16000,"ctx_popup_userhead":1,"media_embed_enabled":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","user_domain":"dreamwidth.org","ctx_popup":1,"iconprefix":"https://v2.dreamwidth.org","imgprefix":"https://www.dreamwidth.org/img"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery.commentmanage.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -38,7 +38,7 @@
 <link rel="canonical" href="42625.html@thread=70785#cmt70785" />
 <script>
 // don't crawl this.  read http://www.livejournal.com/developer/exporting
-var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"u":"transitional_writes","full":1,"screened":0},"remote":"transitional_writes","canAdmin":1,"72577":{"full":1,"screened":0,"u":"transitional_writes","rc":[72833],"deleted":0,"parent":72321},"72065":{"u":"transitional_writes","screened":0,"full":1,"parent":71809,"deleted":0,"rc":[72321]},"70785":{"screened":0,"full":1,"u":"transitional_writes","parent":70529,"deleted":0,"rc":[71041]},"72321":{"full":1,"screened":0,"u":"transitional_writes","deleted":0,"rc":[72577],"parent":72065},"71297":{"parent":71041,"deleted":0,"rc":[71553],"screened":0,"full":1,"u":"transitional_writes"},"71809":{"screened":0,"full":1,"u":"transitional_writes","parent":71553,"rc":[72065],"deleted":0},"72833":{"rc":[73089],"deleted":0,"parent":72577,"u":"transitional_writes","full":1,"screened":0},"journal":"transitional_writes","71553":{"u":"transitional_writes","screened":0,"full":1,"parent":71297,"rc":[71809],"deleted":0},"73089":{"rc":[73345],"deleted":0,"parent":72833,"u":"transitional_writes","full":1,"screened":0},"form_auth":"c0:1785034800:1350:86400:GzAU3kDbch-4255543-23:747b5a190362be708a6f5400c7540917","73345":{"parent":73089,"rc":[],"deleted":0,"u":"transitional_writes","screened":0,"full":1}}
+var LJ_cmtinfo = {"73089":{"screened":0,"u":"transitional_writes","rc":[73345],"deleted":0,"parent":72833,"full":1},"canSpam":1,"71041":{"u":"transitional_writes","screened":0,"deleted":0,"parent":70785,"full":1,"rc":[71297]},"71553":{"rc":[71809],"deleted":0,"parent":71297,"full":1,"screened":0,"u":"transitional_writes"},"72577":{"deleted":0,"full":1,"parent":72321,"rc":[72833],"u":"transitional_writes","screened":0},"72065":{"screened":0,"u":"transitional_writes","rc":[72321],"deleted":0,"parent":71809,"full":1},"72321":{"u":"transitional_writes","screened":0,"deleted":0,"full":1,"parent":72065,"rc":[72577]},"73345":{"rc":[],"deleted":0,"parent":73089,"full":1,"screened":0,"u":"transitional_writes"},"70785":{"full":1,"deleted":0,"parent":70529,"rc":[71041],"u":"transitional_writes","screened":0},"71297":{"screened":0,"u":"transitional_writes","rc":[71553],"full":1,"deleted":0,"parent":71041},"journal":"transitional_writes","72833":{"rc":[73089],"parent":72577,"deleted":0,"full":1,"screened":0,"u":"transitional_writes"},"canAdmin":1,"form_auth":"c0:1785218400:3073:86400:68EOa6wTVZ-4255543-24:4a4b729eb8689ba6f386e3426aa8c064","71809":{"u":"transitional_writes","screened":0,"parent":71553,"deleted":0,"full":1,"rc":[72065]},"remote":"transitional_writes"}
 </script>
 </head>
 
@@ -69,7 +69,7 @@ var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"
 <li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=42625" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="https://www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
 <li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=42625" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="https://www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
 <li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=42625" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="https://www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
-<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=42625" lj_journalid="4255543" lj_auth_token="ajax:1785034800:4255543:23:/__rpc_esn_subs:addsub&42625&3&4255543:d2b740e7faedd1c3d1f03364196a2a95fed8416b" lj_newentry_token="ajax:1785034800:4255543:23:/__rpc_esn_subs:addsub&1&4255543:292896197683bd25cccb6b0a1cf0f2206f82b5bd" lj_arg1="42625" journal="transitional_writes" lj_newentry_subid="0" lj_subid="0" js_swapname="Untrack This" class="TrackButton" lj_etypeid="3" lj_newentry_etypeid="1" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=42625" lj_subid="0" lj_etypeid="3" lj_arg1="42625" lj_newentry_etypeid="1" lj_newentry_token="ajax:1785218400:4255543:24:/__rpc_esn_subs:addsub&1&4255543:e0e58a9ae2284316d132c10cc328c3aa14a0cc0d" js_swapname="Untrack This" lj_newentry_subid="0" journal="transitional_writes" lj_journalid="4255543" lj_auth_token="ajax:1785218400:4255543:24:/__rpc_esn_subs:addsub&42625&3&4255543:9644a9b4834b0116bf2506ced664e93768944ab0" class="TrackButton" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
 <li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=42625&journal=transitional_writes&style=light" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="https://www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
 </ul></div>
 </div>
@@ -96,7 +96,7 @@ var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"
 <div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-flat"><a href="42625.html@style=light&amp;view=flat#comments">Flat</a></span> | <span class="view-top-only"><a href="42625.html@style=light&amp;view=top-only#comments">Top-Level Comments Only</a></span></div><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
 
 <div id='qrdiv' style="display: none;">
-<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785034800:1350:86400:GzAU3kDbch-4255543-23:747b5a190362be708a6f5400c7540917" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="42625" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/42625.html?style=light&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="70785" id="viewing_thread" /><input type='hidden' name="style" value="light" id="style" /><input type='hidden' name="chrp1" value="42625-4255543-1785034800-VV5E8bxHV8j9Zn9qXyJv-aec5fc512d9a4ec33ead37e6cc4b7402" />
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785218400:3073:86400:68EOa6wTVZ-4255543-24:4a4b729eb8689ba6f386e3426aa8c064" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="42625" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/42625.html?style=light&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="70785" id="viewing_thread" /><input type='hidden' name="style" value="light" id="style" /><input type='hidden' name="chrp1" value="42625-4255543-1785218400-A1Ovg3fVawZAPm5u3d3T-8e93003b1605287853649f75bb10489b" />
 <div class='qr-meta'>
 
   <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
@@ -120,7 +120,7 @@ var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" name="subject" value="" size="50" placeholder="Subject" maxlength="100" class="text" id="subject" />
+        <input type="text" id="subject" class="text" value="" placeholder="Subject" maxlength="100" size="50" name="subject" />
 </div>
 
 
@@ -130,13 +130,13 @@ var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select name="prop_editor" class="select" id="prop_editor">
+        <select name="prop_editor" id="prop_editor" class="select">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
 <option value="rte0">Rich Text Editor</option>
 </select>
-    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' style="vertical-align: middle;" title="More info about formatting" /></a>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
   </div>
 
   <div class="qr-markup-controls">
@@ -148,11 +148,11 @@ var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea cols="80" name="body" wrap="soft" rows="10" id="body" class="text"></textarea></div>
+        <textarea cols="80" rows="10" class="text" id="body" wrap="soft" name="body"></textarea></div>
 
-<div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" id="submitpost" class="submit" />
+<div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" class="submit" id="submitpost" />
 
-  <input type='submit' name="submitpview" value="Preview" class="submit" id="submitpview" /><input type='hidden' name="submitpreview" value="0" />
+  <input type='submit' name="submitpview" value="Preview" id="submitpview" class="submit" /><input type='hidden' name="submitpreview" value="0" />
 
   
     <div class='de'><strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.</div>
@@ -575,14 +575,14 @@ var LJ_cmtinfo = {"canSpam":1,"71041":{"rc":[71297],"deleted":0,"parent":70785,"
             Mass action on selected comments:
         </label>
         
-<select name="mode" id="multiform_mode">
+<select id="multiform_mode" name="mode">
 <option value=""></option>
 <option value="unscreen">Unscreen</option>
 <option value="screen">Screen</option>
 <option value="delete">Delete</option>
 <option value="deletespam">Delete as Spam</option>
 </select>
-<input type='submit' value="Perform Action" id="multiform_submit" onclick="return ((document.multiform.mode.value != &quot;delete&quot; &amp;&amp; document.multiform.mode.value != &quot;deletespam&quot;)) || confirm(&quot;Delete selected comments?&quot;);" /></form><div class="commment-pages-wrapper"></div></div></div>    </div></div>
+<input type='submit' value="Perform Action" onclick="return ((document.multiform.mode.value != &quot;delete&quot; &amp;&amp; document.multiform.mode.value != &quot;deletespam&quot;)) || confirm(&quot;Delete selected comments?&quot;);" id="multiform_submit" /></form><div class="commment-pages-wrapper"></div></div></div>    </div></div>
 </div>
 
 <hr />
