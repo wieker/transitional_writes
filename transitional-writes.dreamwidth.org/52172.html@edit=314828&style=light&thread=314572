@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"ctx_popup_icons":1,"siteroot":"https://www.dreamwidth.org","ctx_popup":1,"currentJournal":"transitional_writes","media_embed_enabled":1,"has_remote":1,"imgprefix":"https://www.dreamwidth.org/img","cmax_comment":16000,"user_domain":"dreamwidth.org","esn_async":1,"statprefix":"https://www.dreamwidth.org/stc","inbox_update_poll":1,"iconprefix":"https://v2.dreamwidth.org","ctx_popup_userhead":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org"});
+                Site = Object.assign(Site, {"statprefix":"https://www.dreamwidth.org/stc","has_remote":1,"media_embed_enabled":1,"ctx_popup_icons":1,"inbox_update_poll":1,"imgprefix":"https://www.dreamwidth.org/img","iconprefix":"https://v2.dreamwidth.org","currentJournal":"transitional_writes","siteroot":"https://www.dreamwidth.org","user_domain":"dreamwidth.org","cmax_comment":16000,"ctx_popup_userhead":1,"esn_async":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup":1});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,css/components/talkform.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -74,7 +74,7 @@
 
 <div id='qrdiv'><div id='qrformdiv'>
 
-<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785333600:288:86400:Xm74CvmQy9-4255543-24:f3321badcd88bb4792c291002df928a8" /><input type='hidden' name="replyto" value="1228" /><input type='hidden' name="parenttalkid" value="1228" /><input type='hidden' name="itemid" value="52172" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="314828" /><input type='hidden' name="viewing_thread" value="314572" /><input type='hidden' name="chrp1" value="52172-4255543-1785333600-Z1q1GzEp8DYTNxjKRET5-76dcb223184d0cb7744703c119709b08" /><input type='hidden' name="style" value="light" />
+<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785456000:2085:86400:eadnYJlXnP-4255543-24:99dbd2f9a957a132574623f4e9cb6e94" /><input type='hidden' name="replyto" value="1228" /><input type='hidden' name="parenttalkid" value="1228" /><input type='hidden' name="itemid" value="52172" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="314828" /><input type='hidden' name="viewing_thread" value="314572" /><input type='hidden' name="chrp1" value="52172-4255543-1785456000-GUbpRq6Y4AuyEhc5Oee6-6d1a18730cd673656621f3dcf8bbf70b" /><input type='hidden' name="style" value="light" />
 
 
 <div id="talkform-from">
@@ -103,7 +103,7 @@
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" size="50" name="subject" class="text" maxlength="100" placeholder="Subject" value="" id="subject" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
+        <input type="text" class="text" name="subject" maxlength="100" value="" placeholder="Subject" id="subject" size="50" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
   <img src="https://www.dreamwidth.org/img/talk/none.gif" border="0" width="15" height="15" alt="No Subject Icon Selected" valign="middle" id='subjectIconImage' role='button' class='js-only' style='display: none;' title='Click to change the subject icon' /></div>
 
 <div style="display: none;" id="subjectIconList">
@@ -141,7 +141,7 @@
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea class="text" id="body" cols="80" rows="10" name="body" wrap="soft">как это понимать?</textarea></div>
+        <textarea id="body" name="body" wrap="soft" class="text" cols="80" rows="10">как это понимать?</textarea></div>
 
 
 
@@ -150,7 +150,7 @@
         <label for="editreason" >
             Reason:
         </label>
-        <input type="text" size="75" name="editreason" maxlength="255" class="text" value="" id="editreason" />    <div id='nohtmledit' class='ljdeem no-js'><span style='font-size: 8pt; font-style: italic;'>No HTML allowed in reason for edit</span></div></div>
+        <input type="text" id="editreason" value="" name="editreason" maxlength="255" class="text" size="75" />    <div id='nohtmledit' class='ljdeem no-js'><span style='font-size: 8pt; font-style: italic;'>No HTML allowed in reason for edit</span></div></div>
 
 
 

@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"imgprefix":"https://www.dreamwidth.org/img","ctx_popup":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","iconprefix":"https://v2.dreamwidth.org","currentJournal":"transitional_writes","has_remote":1,"ctx_popup_icons":1,"cmax_comment":16000,"esn_async":1,"user_domain":"dreamwidth.org","ctx_popup_userhead":1,"media_embed_enabled":1,"inbox_update_poll":1,"statprefix":"https://www.dreamwidth.org/stc","siteroot":"https://www.dreamwidth.org"});
+                Site = Object.assign(Site, {"ctx_popup_userhead":1,"currentJournal":"transitional_writes","iconprefix":"https://v2.dreamwidth.org","imgprefix":"https://www.dreamwidth.org/img","cmax_comment":16000,"has_remote":1,"inbox_update_poll":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","siteroot":"https://www.dreamwidth.org","ctx_popup":1,"statprefix":"https://www.dreamwidth.org/stc","user_domain":"dreamwidth.org","ctx_popup_icons":1,"esn_async":1,"media_embed_enabled":1});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783736173" />
@@ -97,11 +97,15 @@
 <br />
 </dd>
 <dt><a href="27/index.html"><b>27th</b></a></dt>
-<dd><span class="datetime"><span class="time">12:57</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../53154.html">(no subject)</a></h3> - 27 comments<br />
+<dd><span class="datetime"><span class="time">12:57</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../53154.html">(no subject)</a></h3> - 28 comments<br />
 <br />
 </dd>
 <dt><a href="29/index.html"><b>29th</b></a></dt>
-<dd><span class="datetime"><span class="time">07:50</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../53503.html">(no subject)</a></h3> - 1 comment<br />
+<dd><span class="datetime"><span class="time">07:50</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../53503.html">(no subject)</a></h3> - 17 comments<br />
+<br />
+</dd>
+<dt><a href="30/index.html"><b>30th</b></a></dt>
+<dd><span class="datetime"><span class="time">15:29</span></span><span class="poster entry-poster empty"></span><h3 class="entry-title"><a title="(no subject)" href="../../53665.html">(no subject)</a></h3><br />
 <br />
 </dd>
 

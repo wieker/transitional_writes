@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"inbox_update_poll":1,"ctx_popup_icons":1,"user_domain":"dreamwidth.org","media_embed_enabled":1,"iconprefix":"https://v2.dreamwidth.org","cmax_comment":16000,"siteroot":"https://www.dreamwidth.org","imgprefix":"https://www.dreamwidth.org/img","esn_async":1,"statprefix":"https://www.dreamwidth.org/stc","currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup":1,"has_remote":1,"ctx_popup_userhead":1,"currentJournal":"transitional_writes"});
+                Site = Object.assign(Site, {"iconprefix":"https://v2.dreamwidth.org","currentJournal":"transitional_writes","esn_async":1,"siteroot":"https://www.dreamwidth.org","has_remote":1,"media_embed_enabled":1,"ctx_popup":1,"user_domain":"dreamwidth.org","ctx_popup_icons":1,"inbox_update_poll":1,"cmax_comment":16000,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup_userhead":1,"statprefix":"https://www.dreamwidth.org/stc","imgprefix":"https://www.dreamwidth.org/img"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,css/components/talkform.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -69,12 +69,12 @@
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
-<hr style="margin: 1em 0;"><div class="readlink"> (<a href="53154.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">27 comments</a>) </div>
+<hr style="margin: 1em 0;"><div class="readlink"> (<a href="53154.html@style=light#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">30 comments</a>) </div>
 <h1>Post a comment in response:</h1>
 
 <div id='qrdiv'><div id='qrformdiv'>
 
-<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785322800:811:86400:QjdyzQA0ba-4255543-24:1f4e3be1f40bff7a85fe3381690f30a1" /><input type='hidden' name="replyto" value="1423" /><input type='hidden' name="parenttalkid" value="1423" /><input type='hidden' name="itemid" value="53154" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="364706" /><input type='hidden' name="viewing_thread" value="364706" /><input type='hidden' name="chrp1" value="53154-4255543-1785322800-brkhbYgbAd6d1vMWw5xW-f18104a14fd3eaa946a4112ba13a4988" /><input type='hidden' name="style" value="light" />
+<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785445200:2931:86400:pbfGxKvzqK-4255543-24:f4a9c9e397a123f1c4e04154471744a7" /><input type='hidden' name="replyto" value="1423" /><input type='hidden' name="parenttalkid" value="1423" /><input type='hidden' name="itemid" value="53154" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="364706" /><input type='hidden' name="viewing_thread" value="364706" /><input type='hidden' name="chrp1" value="53154-4255543-1785445200-vz4CEg5vnSIu5WaeJcFo-ad2d9011f5a4eee3ec8d082195208ebf" /><input type='hidden' name="style" value="light" />
 
 
 <div id="talkform-from">
@@ -103,7 +103,7 @@
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" name="subject" size="50" class="text" placeholder="Subject" maxlength="100" value="" id="subject" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
+        <input type="text" class="text" size="50" placeholder="Subject" id="subject" maxlength="100" value="" name="subject" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
   <img src="https://www.dreamwidth.org/img/talk/none.gif" border="0" width="15" height="15" alt="No Subject Icon Selected" valign="middle" id='subjectIconImage' role='button' class='js-only' style='display: none;' title='Click to change the subject icon' /></div>
 
 <div style="display: none;" id="subjectIconList">
@@ -119,13 +119,13 @@
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select class="select" name="prop_editor" id="prop_editor">
+        <select name="prop_editor" id="prop_editor" class="select">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
 <option value="rte0">Rich Text Editor</option>
 </select>
-    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' style="vertical-align: middle;" title="More info about formatting" /></a>
   </div>
 
   <div class="qr-markup-controls">
@@ -141,7 +141,7 @@
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea class="text" rows="10" name="body" wrap="soft" cols="80" id="body">то есть тут у Генерала ФСБ есть дача.
+        <textarea class="text" rows="10" name="body" cols="80" id="body" wrap="soft">то есть тут у Генерала ФСБ есть дача.
 он вооружен.
 его строже защищает УК РФ.
 априорно рядовой оперативник должен относиться к нему с доверием,
@@ -165,7 +165,7 @@
         <label for="editreason" >
             Reason:
         </label>
-        <input type="text" name="editreason" class="text" size="75" maxlength="255" id="editreason" value="" />    <div id='nohtmledit' class='ljdeem no-js'><span style='font-size: 8pt; font-style: italic;'>No HTML allowed in reason for edit</span></div></div>
+        <input type="text" id="editreason" maxlength="255" value="" name="editreason" size="75" class="text" />    <div id='nohtmledit' class='ljdeem no-js'><span style='font-size: 8pt; font-style: italic;'>No HTML allowed in reason for edit</span></div></div>
 
 
 

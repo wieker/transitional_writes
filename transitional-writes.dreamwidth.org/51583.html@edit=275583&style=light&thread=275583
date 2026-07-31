@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"imgprefix":"https://www.dreamwidth.org/img","ctx_popup_icons":1,"media_embed_enabled":1,"siteroot":"https://www.dreamwidth.org","has_remote":1,"esn_async":1,"ctx_popup":1,"cmax_comment":16000,"inbox_update_poll":1,"ctx_popup_userhead":1,"statprefix":"https://www.dreamwidth.org/stc","currentJournalBase":"https://transitional-writes.dreamwidth.org","user_domain":"dreamwidth.org","iconprefix":"https://v2.dreamwidth.org","currentJournal":"transitional_writes"});
+                Site = Object.assign(Site, {"inbox_update_poll":1,"cmax_comment":16000,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup_userhead":1,"imgprefix":"https://www.dreamwidth.org/img","statprefix":"https://www.dreamwidth.org/stc","iconprefix":"https://v2.dreamwidth.org","currentJournal":"transitional_writes","esn_async":1,"siteroot":"https://www.dreamwidth.org","has_remote":1,"media_embed_enabled":1,"ctx_popup":1,"user_domain":"dreamwidth.org","ctx_popup_icons":1});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,css/components/talkform.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783757040" />
@@ -75,7 +75,7 @@
 
 <div id='qrdiv'><div id='qrformdiv'>
 
-<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785315600:827:86400:V8q9xOgczl-4255543-24:375de24cbd78b3dc803e4ed7ab72b93e" /><input type='hidden' name="replyto" value="1075" /><input type='hidden' name="parenttalkid" value="1075" /><input type='hidden' name="itemid" value="51583" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="275583" /><input type='hidden' name="viewing_thread" value="275583" /><input type='hidden' name="chrp1" value="51583-4255543-1785315600-KeQc5SKhFH9M66s4oJM9-4308b955ae8318f5940281863367cfb0" /><input type='hidden' name="style" value="light" />
+<form id="postform" name="postform" method="POST" action="https://www.dreamwidth.org/talkpost_do"><input type='hidden' name="lj_form_auth" value="c0:1785438000:2862:86400:rNxsweup43-4255543-24:0cbc95955d513cf4a10b0bdc32ac2500" /><input type='hidden' name="replyto" value="1075" /><input type='hidden' name="parenttalkid" value="1075" /><input type='hidden' name="itemid" value="51583" /><input type='hidden' name="journal" value="transitional_writes" /><input type='hidden' name="editid" value="275583" /><input type='hidden' name="viewing_thread" value="275583" /><input type='hidden' name="chrp1" value="51583-4255543-1785438000-KTrRZAMeBjaYLcVnI3Kh-c797f9ebbbe9abf71d60c959bf205746" /><input type='hidden' name="style" value="light" />
 
 
 <div id="talkform-from">
@@ -104,7 +104,7 @@
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" name="subject" size="50" value="" class="text" id="subject" maxlength="100" placeholder="Subject" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
+        <input type="text" class="text" size="50" maxlength="100" name="subject" value="" placeholder="Subject" id="subject" /><input type='hidden' name="subjecticon" value="none" id="subjectIconField" />
   <img src="https://www.dreamwidth.org/img/talk/none.gif" border="0" width="15" height="15" alt="No Subject Icon Selected" valign="middle" id='subjectIconImage' role='button' class='js-only' style='display: none;' title='Click to change the subject icon' /></div>
 
 <div style="display: none;" id="subjectIconList">
@@ -142,7 +142,7 @@
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea id="body" rows="10" wrap="soft" cols="80" name="body" class="text">&gt; 3. программируемая логика + Verilog??? &lt;= OK??
+        <textarea wrap="soft" cols="80" name="body" id="body" class="text" rows="10">&gt; 3. программируемая логика + Verilog??? &lt;= OK??
 
 просто можно смешать с дискретной логикой или разнести по разным микросхемам.
 если априорно неизвестен дизайн и какая микросхема будет где,
@@ -156,7 +156,7 @@
         <label for="editreason" >
             Reason:
         </label>
-        <input type="text" name="editreason" size="75" class="text" value="" id="editreason" maxlength="255" />    <div id='nohtmledit' class='ljdeem no-js'><span style='font-size: 8pt; font-style: italic;'>No HTML allowed in reason for edit</span></div></div>
+        <input type="text" id="editreason" name="editreason" value="" maxlength="255" class="text" size="75" />    <div id='nohtmledit' class='ljdeem no-js'><span style='font-size: 8pt; font-style: italic;'>No HTML allowed in reason for edit</span></div></div>
 
 
 

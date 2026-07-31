@@ -13,7 +13,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"esn_async":1,"currentJournal":"transitional_writes","user_domain":"dreamwidth.org","iconprefix":"https://v2.dreamwidth.org","currentJournalBase":"https://transitional-writes.dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","ctx_popup_userhead":1,"inbox_update_poll":1,"cmax_comment":16000,"ctx_popup":1,"ctx_popup_icons":1,"imgprefix":"https://www.dreamwidth.org/img","has_remote":1,"siteroot":"https://www.dreamwidth.org","media_embed_enabled":1});
+                Site = Object.assign(Site, {"imgprefix":"https://www.dreamwidth.org/img","inbox_update_poll":1,"siteroot":"https://www.dreamwidth.org","iconprefix":"https://v2.dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","ctx_popup_userhead":1,"ctx_popup":1,"esn_async":1,"ctx_popup_icons":1,"media_embed_enabled":1,"cmax_comment":16000,"currentJournal":"transitional_writes","currentJournalBase":"https://transitional-writes.dreamwidth.org","has_remote":1,"user_domain":"dreamwidth.org"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/tropo/tropo-red.css?v=1783757042" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery.commentmanage.css,jquery/jquery.ui.theme.smoothness.css,canary.css,css/components/foundation-icons.css?v=1783757040" />
@@ -36,7 +36,7 @@
 <link rel="canonical" href="47614.html" />
 <script>
 // don't crawl this.  read http://www.livejournal.com/developer/exporting
-var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"parent":191486,"u":"transitional_writes"},"190718":{"full":0,"screened":0,"rc":[190974],"deleted":0,"u":"transitional_writes","parent":190462},"form_auth":"c0:1785326400:3576:86400:MqU8Z0zJHR-4255543-24:b5098ace82d2f99cd5d633993f85a876","189182":{"parent":188926,"u":"transitional_writes","deleted":0,"rc":[189438,189694],"screened":0,"full":0},"189694":{"full":0,"screened":0,"rc":[189950,190462],"deleted":0,"parent":189182,"u":"transitional_writes"},"192510":{"full":0,"screened":0,"deleted":0,"rc":[192766],"parent":192254,"u":"transitional_writes"},"195838":{"full":0,"screened":0,"rc":[196094],"deleted":0,"parent":195582,"u":"transitional_writes"},"193534":{"rc":[193790],"deleted":0,"parent":193278,"u":"transitional_writes","full":0,"screened":0},"188670":{"full":0,"screened":0,"deleted":0,"rc":[188926],"parent":188414,"u":"transitional_writes"},"190462":{"deleted":0,"rc":[190718],"parent":189694,"u":"transitional_writes","full":0,"screened":0},"194558":{"rc":[194814],"deleted":0,"u":"transitional_writes","parent":194302,"full":0,"screened":0},"187646":{"screened":0,"full":0,"parent":187390,"u":"transitional_writes","rc":[187902],"deleted":0},"canAdmin":1,"journal":"transitional_writes","canSpam":1,"remote":"transitional_writes","196350":{"full":0,"screened":0,"deleted":0,"rc":[],"parent":196094,"u":"transitional_writes"},"195582":{"screened":0,"full":0,"parent":195326,"u":"transitional_writes","deleted":0,"rc":[195838]},"189950":{"full":0,"screened":0,"rc":[190206],"deleted":0,"parent":189694,"u":"transitional_writes"},"191998":{"parent":191742,"u":"transitional_writes","rc":[192254],"deleted":0,"screened":0,"full":0},"187902":{"parent":187646,"u":"transitional_writes","rc":[188158],"deleted":0,"screened":0,"full":0},"193278":{"u":"transitional_writes","parent":193022,"deleted":0,"rc":[193534],"screened":0,"full":0},"194302":{"full":1,"screened":0,"deleted":0,"rc":[194558],"parent":null,"u":"transitional_writes"},"190974":{"rc":[191230],"deleted":0,"parent":190718,"u":"transitional_writes","full":0,"screened":0},"188414":{"screened":0,"full":0,"parent":188158,"u":"transitional_writes","deleted":0,"rc":[188670]},"192254":{"rc":[192510],"deleted":0,"parent":191998,"u":"transitional_writes","full":0,"screened":0},"190206":{"parent":189950,"u":"transitional_writes","deleted":0,"rc":[],"screened":0,"full":0},"191230":{"u":"transitional_writes","parent":190974,"rc":[191486],"deleted":0,"screened":0,"full":0},"194046":{"screened":0,"full":0,"parent":193790,"u":"transitional_writes","deleted":0,"rc":[]},"187134":{"screened":0,"full":1,"u":"transitional_writes","parent":null,"rc":[187390],"deleted":0},"187390":{"u":"transitional_writes","parent":187134,"deleted":0,"rc":[187646],"screened":0,"full":0},"192766":{"full":0,"screened":0,"deleted":0,"rc":[193022],"parent":192510,"u":"transitional_writes"},"188926":{"screened":0,"full":0,"parent":188670,"u":"transitional_writes","rc":[189182],"deleted":0},"188158":{"rc":[188414],"deleted":0,"parent":187902,"u":"transitional_writes","full":0,"screened":0},"191486":{"screened":0,"full":0,"u":"transitional_writes","parent":191230,"deleted":0,"rc":[191742]},"189438":{"u":"transitional_writes","parent":189182,"rc":[],"deleted":0,"screened":0,"full":0},"195326":{"parent":195070,"u":"transitional_writes","rc":[195582],"deleted":0,"screened":0,"full":0},"194814":{"full":0,"screened":0,"rc":[195070],"deleted":0,"u":"transitional_writes","parent":194558},"193790":{"screened":0,"full":0,"parent":193534,"u":"transitional_writes","deleted":0,"rc":[194046]},"195070":{"deleted":0,"rc":[195326],"u":"transitional_writes","parent":194814,"full":0,"screened":0},"193022":{"full":0,"screened":0,"deleted":0,"rc":[193278],"u":"transitional_writes","parent":192766},"196094":{"deleted":0,"rc":[196350],"parent":195838,"u":"transitional_writes","full":0,"screened":0}}
+var LJ_cmtinfo = {"191486":{"full":0,"deleted":0,"screened":0,"rc":[191742],"parent":191230,"u":"transitional_writes"},"192766":{"u":"transitional_writes","parent":192510,"full":0,"rc":[193022],"screened":0,"deleted":0},"187390":{"u":"transitional_writes","parent":187134,"rc":[187646],"deleted":0,"screened":0,"full":0},"189950":{"parent":189694,"u":"transitional_writes","full":0,"deleted":0,"screened":0,"rc":[190206]},"195582":{"parent":195326,"u":"transitional_writes","full":0,"screened":0,"deleted":0,"rc":[195838]},"194814":{"full":0,"rc":[195070],"deleted":0,"screened":0,"u":"transitional_writes","parent":194558},"193278":{"u":"transitional_writes","parent":193022,"rc":[193534],"deleted":0,"screened":0,"full":0},"canAdmin":1,"187134":{"rc":[187390],"deleted":0,"screened":0,"full":1,"u":"transitional_writes","parent":null},"193534":{"full":0,"deleted":0,"screened":0,"rc":[193790],"parent":193278,"u":"transitional_writes"},"canSpam":1,"194046":{"screened":0,"deleted":0,"rc":[],"full":0,"parent":193790,"u":"transitional_writes"},"190974":{"parent":190718,"u":"transitional_writes","full":0,"screened":0,"deleted":0,"rc":[191230]},"195326":{"full":0,"screened":0,"deleted":0,"rc":[195582],"parent":195070,"u":"transitional_writes"},"190462":{"full":0,"deleted":0,"screened":0,"rc":[190718],"parent":189694,"u":"transitional_writes"},"189182":{"parent":188926,"u":"transitional_writes","screened":0,"deleted":0,"rc":[189438,189694],"full":0},"189438":{"u":"transitional_writes","parent":189182,"rc":[],"deleted":0,"screened":0,"full":0},"193022":{"full":0,"rc":[193278],"screened":0,"deleted":0,"u":"transitional_writes","parent":192766},"187646":{"full":0,"deleted":0,"screened":0,"rc":[187902],"parent":187390,"u":"transitional_writes"},"form_auth":"c0:1785452400:1775:86400:TbUk23OkvD-4255543-24:7ad26cc39ff4c9ba5878593a65cd34ee","188670":{"screened":0,"deleted":0,"rc":[188926],"full":0,"parent":188414,"u":"transitional_writes"},"191998":{"full":0,"deleted":0,"screened":0,"rc":[192254],"parent":191742,"u":"transitional_writes"},"193790":{"parent":193534,"u":"transitional_writes","full":0,"deleted":0,"screened":0,"rc":[194046]},"195838":{"parent":195582,"u":"transitional_writes","full":0,"deleted":0,"screened":0,"rc":[196094]},"194302":{"full":1,"rc":[194558],"deleted":0,"screened":0,"u":"transitional_writes","parent":null},"190718":{"rc":[190974],"screened":0,"deleted":0,"full":0,"u":"transitional_writes","parent":190462},"189694":{"full":0,"deleted":0,"screened":0,"rc":[189950,190462],"parent":189182,"u":"transitional_writes"},"187902":{"full":0,"rc":[188158],"screened":0,"deleted":0,"u":"transitional_writes","parent":187646},"188158":{"u":"transitional_writes","parent":187902,"rc":[188414],"screened":0,"deleted":0,"full":0},"remote":"transitional_writes","196094":{"screened":0,"deleted":0,"rc":[196350],"full":0,"parent":195838,"u":"transitional_writes"},"190206":{"parent":189950,"u":"transitional_writes","deleted":0,"screened":0,"rc":[],"full":0},"191742":{"full":0,"deleted":0,"screened":0,"rc":[191998],"parent":191486,"u":"transitional_writes"},"192254":{"full":0,"rc":[192510],"screened":0,"deleted":0,"u":"transitional_writes","parent":191998},"196350":{"parent":196094,"u":"transitional_writes","full":0,"deleted":0,"screened":0,"rc":[]},"195070":{"parent":194814,"u":"transitional_writes","screened":0,"deleted":0,"rc":[195326],"full":0},"194558":{"u":"transitional_writes","parent":194302,"full":0,"rc":[194814],"screened":0,"deleted":0},"188926":{"parent":188670,"u":"transitional_writes","full":0,"screened":0,"deleted":0,"rc":[189182]},"188414":{"u":"transitional_writes","parent":188158,"rc":[188670],"screened":0,"deleted":0,"full":0},"191230":{"parent":190974,"u":"transitional_writes","full":0,"screened":0,"deleted":0,"rc":[191486]},"journal":"transitional_writes","192510":{"u":"transitional_writes","parent":192254,"full":0,"rc":[192766],"screened":0,"deleted":0}}
 </script>
     
     <!--[if lte IE 8]>
@@ -85,7 +85,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="https://www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
 <li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="https://www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
 <li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="https://www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
-<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=47614" lj_newentry_etypeid="1" lj_journalid="4255543" class="TrackButton" lj_arg1="47614" lj_subid="0" lj_etypeid="3" lj_newentry_subid="0" lj_newentry_token="ajax:1785326400:4255543:24:/__rpc_esn_subs:addsub&1&4255543:783008c8bd1f0e51fd9b2a605addb56f48fd7d2c" js_swapname="Untrack This" lj_auth_token="ajax:1785326400:4255543:24:/__rpc_esn_subs:addsub&47614&3&4255543:2024ec43791ccddff2222135b61fc5791993d296" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=47614" journal="transitional_writes" lj_arg1="47614" class="TrackButton" lj_journalid="4255543" lj_newentry_subid="0" lj_auth_token="ajax:1785452400:4255543:24:/__rpc_esn_subs:addsub&47614&3&4255543:efa4c166d5612b60bd921c3c1b6b11c7d8723105" lj_etypeid="3" lj_newentry_token="ajax:1785452400:4255543:24:/__rpc_esn_subs:addsub&1&4255543:d7c0e3c4c146a76a9b23c5633b9a7634376ae198" js_swapname="Untrack This" lj_newentry_etypeid="1" lj_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
 <li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=47614&journal=transitional_writes&style=site" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="https://www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
 </ul></div>
 </div>
@@ -112,7 +112,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-threaded"><a href="47614.html@style=site#comments">Threaded</a></span> | <span class="view-flat"><a href="47614.html@style=site&amp;view=flat#comments">Flat</a></span></div><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
 
 <div id='qrdiv' style="display: none;">
-<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785326400:3576:86400:MqU8Z0zJHR-4255543-24:b5098ace82d2f99cd5d633993f85a876" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="47614" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/47614.html?style=site&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="0" id="viewing_thread" /><input type='hidden' name="style" value="site" id="style" /><input type='hidden' name="chrp1" value="47614-4255543-1785326400-ahuaXIjO0UOLkcwxIpOo-3ad9445745e48592f264459082e89856" />
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785452400:1775:86400:TbUk23OkvD-4255543-24:7ad26cc39ff4c9ba5878593a65cd34ee" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="47614" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/47614.html?style=site&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="0" id="viewing_thread" /><input type='hidden' name="style" value="site" id="style" /><input type='hidden' name="chrp1" value="47614-4255543-1785452400-By82DKsE3hlzweEUvECA-c683d2cf7083d08bdf300447044961a0" />
 <div class='qr-meta'>
 
   <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
@@ -136,7 +136,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" name="subject" size="50" class="text" value="" placeholder="Subject" maxlength="100" id="subject" />
+        <input type="text" value="" size="50" id="subject" maxlength="100" name="subject" placeholder="Subject" class="text" />
 </div>
 
 
@@ -146,13 +146,13 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select name="prop_editor" id="prop_editor" class="select">
+        <select name="prop_editor" class="select" id="prop_editor">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
 <option value="rte0">Rich Text Editor</option>
 </select>
-    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' style="vertical-align: middle;" title="More info about formatting" /></a>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
   </div>
 
   <div class="qr-markup-controls">
@@ -164,7 +164,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea name="body" cols="80" class="text" wrap="soft" id="body" rows="10"></textarea></div>
+        <textarea cols="80" id="body" wrap="soft" class="text" name="body" rows="10"></textarea></div>
 
 <div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" class="submit" id="submitpost" />
 
@@ -310,7 +310,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <div class="comment" id="comment-cmt189438">
 <div class="inner">
 <h4 class="comment-title"><a title="(no subject)" href="47614.html@thread=189438#cmt189438">(no subject)</a></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
- - <span class="datetime"><span class="comment-date-text"> </span> <span title="46 minutes after journal entry">2026-06-22 11:24 (UTC)</span></span> - <a href='https://transitional-writes.dreamwidth.org/47614.html?thread=189438&style=site#cmt189438' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=189438&destination_thread=0&style=site#cmt189438','189438'); return false;">Expand</a></div>
+ - <span class="datetime"><span class="comment-date-text"> </span> <span title="46 minutes after journal entry">2026-06-22 11:24 (UTC)</span></span> - <a href='47614.html@thread=189438&amp;style=site#cmt189438' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=189438&destination_thread=0&style=site#cmt189438','189438'); return false;">Expand</a></div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
@@ -343,7 +343,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <div class="comment" id="comment-cmt190206">
 <div class="inner">
 <h4 class="comment-title"><a title="(no subject)" href="47614.html@thread=190206#cmt190206">(no subject)</a></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
- - <span class="datetime"><span class="comment-date-text"> </span> <span title="48 minutes after journal entry">2026-06-22 11:26 (UTC)</span></span> - <a href='https://transitional-writes.dreamwidth.org/47614.html?thread=190206&style=site#cmt190206' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=190206&destination_thread=0&style=site#cmt190206','190206'); return false;">Expand</a></div>
+ - <span class="datetime"><span class="comment-date-text"> </span> <span title="48 minutes after journal entry">2026-06-22 11:26 (UTC)</span></span> - <a href='47614.html@thread=190206&amp;style=site#cmt190206' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=190206&destination_thread=0&style=site#cmt190206','190206'); return false;">Expand</a></div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
@@ -508,7 +508,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <div class="comment" id="comment-cmt194046">
 <div class="inner">
 <h4 class="comment-title"><a title="(no subject)" href="47614.html@thread=194046#cmt194046">(no subject)</a></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
- - <span class="datetime"><span class="comment-date-text"> </span> <span title="1 hour after journal entry">2026-06-22 12:04 (UTC)</span></span> - <a href='https://transitional-writes.dreamwidth.org/47614.html?thread=194046&style=site#cmt194046' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=194046&destination_thread=0&style=site#cmt194046','194046'); return false;">Expand</a></div>
+ - <span class="datetime"><span class="comment-date-text"> </span> <span title="1 hour after journal entry">2026-06-22 12:04 (UTC)</span></span> - <a href='47614.html@thread=194046&amp;style=site#cmt194046' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=194046&destination_thread=0&style=site#cmt194046','194046'); return false;">Expand</a></div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
@@ -632,7 +632,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <div class="comment" id="comment-cmt196350">
 <div class="inner">
 <h4 class="comment-title"><a title="(no subject)" href="47614.html@thread=196350#cmt196350">(no subject)</a></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
- - <span class="datetime"><span class="comment-date-text"> </span> <span title="2 hours after journal entry">2026-06-22 13:01 (UTC)</span></span> - <a href='https://transitional-writes.dreamwidth.org/47614.html?thread=196350&style=site#cmt196350' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=196350&destination_thread=0&style=site#cmt196350','196350'); return false;">Expand</a></div>
+ - <span class="datetime"><span class="comment-date-text"> </span> <span title="2 hours after journal entry">2026-06-22 13:01 (UTC)</span></span> - <a href='47614.html@thread=196350&amp;style=site#cmt196350' onClick="Expander.make(this,'https://transitional-writes.dreamwidth.org/47614.html?thread=196350&destination_thread=0&style=site#cmt196350','196350'); return false;">Expand</a></div>
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
@@ -643,7 +643,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
             Mass action on selected comments:
         </label>
         
-<select id="multiform_mode" name="mode">
+<select name="mode" id="multiform_mode">
 <option value=""></option>
 <option value="unscreen">Unscreen</option>
 <option value="screen">Screen</option>
@@ -660,14 +660,14 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
 <div class="columns large-12 small-12"><div id='account-links-userpic'><a href='https://www.dreamwidth.org/manage/icons'><img src="https://www.dreamwidth.org/img/nouserpic.png" width="80" height="80" alt="Manage Icons" title="Manage Icons" border='0' /></a></div>
 <div id='account-links-text' role="navigation" aria-label="Account Links" data-reveal>
 <div class='row'><div class='columns'>    <span class='account-links-active'><span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='index.html'><b>transitional_writes</b></a></span>    </span>
-    <form class='account-links-logout' action='https://www.dreamwidth.org/logout' method='post'><input type='hidden' name="lj_form_auth" value="c0:1785326400:3576:86400:MqU8Z0zJHR-4255543-24:b5098ace82d2f99cd5d633993f85a876" />        <input type="hidden" name="returnto" value="https://transitional-writes.dreamwidth.org/47614.html?style=site&amp;view=top-only" />
+    <form class='account-links-logout' action='https://www.dreamwidth.org/logout' method='post'><input type='hidden' name="lj_form_auth" value="c0:1785452400:1775:86400:TbUk23OkvD-4255543-24:7ad26cc39ff4c9ba5878593a65cd34ee" />        <input type="hidden" name="returnto" value="https://transitional-writes.dreamwidth.org/47614.html?style=site&amp;view=top-only" />
         <input type="hidden" name="ret" value="1" />
         <input class="logout button secondary" type="submit" name="logout_one" value="Log out" />
     </form>
 </div></div>
 <div class='row'><div class='small-12 large-12 columns'>
 <ul><li><a href='https://www.dreamwidth.org/update'>Post</a></li><li><a href='read'>Reading Page</a></li>
-<li class="before-break"><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count'>(198)</span></a></li>
+<li class="before-break"><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count'>(209)</span></a></li>
 <li class="after-break"><a href='https://www.dreamwidth.org/manage/settings/'>Account Settings</a></li><li><a href='https://www.dreamwidth.org/support/'>Help/Support</a></li>
 </ul>
 </div></div>
@@ -723,7 +723,7 @@ var LJ_cmtinfo = {"191742":{"full":0,"screened":0,"deleted":0,"rc":[191998],"par
                 <li class='subnav'><a href='https://transitional-writes.dreamwidth.org/tag'>Tags</a></li>
                 <li class='subnav'><a href='archive'>Archive</a></li>
                 <li class='subnav'><a href='https://www.dreamwidth.org/comments/recent'>Recent Comments</a></li>
-                <li class='subnav'><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count_Menu'> (198)</span></a></li>
+                <li class='subnav'><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count_Menu'> (209)</span></a></li>
 </ul>
 </li><li id='explore_topnav' class='topnav has-dropdown'><a href='https://www.dreamwidth.org/nav/explore'>Explore</a>
 <ul id='explore_subnav' class='subnav_container dropdown'>
