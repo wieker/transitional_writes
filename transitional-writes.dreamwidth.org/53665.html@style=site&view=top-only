@@ -13,7 +13,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"user_domain":"dreamwidth.org","cmax_comment":16000,"siteroot":"https://www.dreamwidth.org","has_remote":1,"statprefix":"https://www.dreamwidth.org/stc","currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup_userhead":1,"currentJournal":"transitional_writes","imgprefix":"https://www.dreamwidth.org/img","iconprefix":"https://v2.dreamwidth.org","ctx_popup_icons":1,"ctx_popup":1,"media_embed_enabled":1,"esn_async":1,"inbox_update_poll":1});
+                Site = Object.assign(Site, {"ctx_popup_userhead":1,"currentJournal":"transitional_writes","ctx_popup_icons":1,"user_domain":"dreamwidth.org","ctx_popup":1,"inbox_update_poll":1,"cmax_comment":16000,"currentJournalBase":"https://transitional-writes.dreamwidth.org","media_embed_enabled":1,"has_remote":1,"imgprefix":"https://www.dreamwidth.org/img","esn_async":1,"iconprefix":"https://v2.dreamwidth.org","statprefix":"https://www.dreamwidth.org/stc","siteroot":"https://www.dreamwidth.org"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/tropo/tropo-red.css?v=1783757042" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery.commentmanage.css,jquery/jquery.ui.theme.smoothness.css,canary.css,css/components/foundation-icons.css?v=1783757040" />
@@ -36,7 +36,7 @@
 <link rel="canonical" href="53665.html" />
 <script>
 // don't crawl this.  read http://www.livejournal.com/developer/exporting
-var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[],"full":1,"u":"transitional_writes","deleted":0,"screened":0},"form_auth":"c0:1785495600:2237:86400:wBzhDXrow8-4255543-24:0af10bbd7921bd8722c1b105b371220a","canAdmin":1,"378529":{"deleted":0,"u":"transitional_writes","screened":0,"parent":null,"full":1,"rc":[]},"375713":{"deleted":0,"u":"transitional_writes","screened":0,"parent":null,"full":1,"rc":[]},"377249":{"parent":null,"full":1,"rc":[],"deleted":0,"u":"transitional_writes","screened":0},"376737":{"deleted":0,"u":"transitional_writes","screened":0,"parent":null,"full":1,"rc":[]},"377761":{"parent":null,"rc":[],"full":1,"u":"transitional_writes","deleted":0,"screened":0},"canSpam":1,"journal":"transitional_writes","378273":{"screened":0,"u":"transitional_writes","deleted":0,"rc":[],"full":1,"parent":null},"378017":{"screened":0,"deleted":0,"u":"transitional_writes","full":1,"rc":[],"parent":null},"377505":{"parent":null,"rc":[],"full":1,"u":"transitional_writes","deleted":0,"screened":0}}
+var LJ_cmtinfo = {"384417":{"screened":0,"parent":null,"rc":[],"u":"transitional_writes","full":1,"deleted":0},"378529":{"deleted":0,"full":1,"rc":[],"u":"transitional_writes","screened":0,"parent":null},"378785":{"screened":0,"parent":null,"full":1,"deleted":0,"rc":[],"u":"transitional_writes"},"383137":{"parent":null,"screened":0,"full":1,"deleted":0,"u":"transitional_writes","rc":[]},"383649":{"parent":null,"screened":0,"deleted":0,"full":1,"u":"transitional_writes","rc":[]},"380321":{"deleted":0,"full":1,"rc":[],"u":"transitional_writes","screened":0,"parent":null},"379041":{"full":1,"deleted":0,"u":"transitional_writes","rc":[],"parent":null,"screened":0},"379553":{"parent":null,"screened":0,"full":1,"deleted":0,"u":"transitional_writes","rc":[]},"382113":{"parent":null,"screened":0,"deleted":0,"full":1,"u":"transitional_writes","rc":[]},"379809":{"parent":null,"screened":0,"u":"transitional_writes","rc":[],"deleted":0,"full":1},"382625":{"deleted":0,"full":1,"u":"transitional_writes","rc":[],"parent":null,"screened":0},"381857":{"screened":0,"parent":null,"full":1,"deleted":0,"rc":[],"u":"transitional_writes"},"377761":{"u":"transitional_writes","rc":[],"deleted":0,"full":1,"parent":null,"screened":0},"383393":{"parent":null,"screened":0,"deleted":0,"full":1,"u":"transitional_writes","rc":[]},"380577":{"screened":0,"parent":null,"rc":[],"u":"transitional_writes","deleted":0,"full":1},"canAdmin":1,"381601":{"screened":0,"parent":null,"rc":[],"u":"transitional_writes","deleted":0,"full":1},"379297":{"screened":0,"parent":null,"rc":[],"u":"transitional_writes","full":1,"deleted":0},"377505":{"parent":null,"screened":0,"full":1,"deleted":0,"u":"transitional_writes","rc":[]},"remote":"transitional_writes","journal":"transitional_writes","382369":{"rc":[],"u":"transitional_writes","full":1,"deleted":0,"screened":0,"parent":null},"form_auth":"c0:1785758400:380:86400:5xNTLIwHZ9-4255543-24:cec24de118d69d0d47b03402f7d45dbd","384161":{"screened":0,"parent":null,"deleted":0,"full":1,"rc":[],"u":"transitional_writes"},"375713":{"full":1,"deleted":0,"u":"transitional_writes","rc":[],"parent":null,"screened":0},"382881":{"rc":[],"u":"transitional_writes","deleted":0,"full":1,"screened":0,"parent":null},"376737":{"rc":[],"u":"transitional_writes","full":1,"deleted":0,"screened":0,"parent":null},"378017":{"screened":0,"parent":null,"full":1,"deleted":0,"rc":[],"u":"transitional_writes"},"381345":{"u":"transitional_writes","rc":[],"deleted":0,"full":1,"parent":null,"screened":0},"383905":{"screened":0,"parent":null,"rc":[],"u":"transitional_writes","full":1,"deleted":0},"378273":{"parent":null,"screened":0,"u":"transitional_writes","rc":[],"deleted":0,"full":1},"canSpam":1,"381089":{"parent":null,"screened":0,"deleted":0,"full":1,"u":"transitional_writes","rc":[]},"380833":{"deleted":0,"full":1,"u":"transitional_writes","rc":[],"parent":null,"screened":0},"376993":{"u":"transitional_writes","rc":[],"full":1,"deleted":0,"parent":null,"screened":0},"380065":{"full":1,"deleted":0,"u":"transitional_writes","rc":[],"parent":null,"screened":0},"377249":{"parent":null,"screened":0,"full":1,"deleted":0,"u":"transitional_writes","rc":[]}}
 </script>
     
     <!--[if lte IE 8]>
@@ -85,7 +85,7 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
 <li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=53665" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="https://www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
 <li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=53665" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="https://www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
 <li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=53665" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="https://www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
-<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=53665" class="TrackButton" journal="transitional_writes" js_swapname="Untrack This" lj_journalid="4255543" lj_subid="0" lj_newentry_subid="0" lj_etypeid="3" lj_arg1="53665" lj_newentry_etypeid="1" lj_auth_token="ajax:1785495600:4255543:24:/__rpc_esn_subs:addsub&53665&3&4255543:88180a51544fdf114bb9a9ee948d390f958ece65" lj_newentry_token="ajax:1785495600:4255543:24:/__rpc_esn_subs:addsub&1&4255543:e52023ef8992095f57f7f1188d26c7428e13b0a0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=53665" lj_newentry_token="ajax:1785758400:4255543:24:/__rpc_esn_subs:addsub&1&4255543:7084db6138f92273866b620040b5ec6e639a1089" class="TrackButton" lj_etypeid="3" lj_arg1="53665" js_swapname="Untrack This" lj_auth_token="ajax:1785758400:4255543:24:/__rpc_esn_subs:addsub&53665&3&4255543:f1d60bcc6fe0b2f2d57c846825bfede635da00df" lj_newentry_subid="0" lj_subid="0" lj_journalid="4255543" lj_newentry_etypeid="1" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="https://www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
 <li class="link link_next"> <a href="https://www.dreamwidth.org/go?dir=next&itemid=53665&journal=transitional_writes&style=site" ><img border='0' width="16" height="16" alt="Next Entry" title="Next Entry" src="https://www.dreamwidth.org/img/silk/entry/next.png"  /></a></li>
 </ul></div>
 </div>
@@ -101,7 +101,7 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
 <div class="footer">
 <div class="inner">
 <hr class="above-entry-interaction-links" />
-    <div class="comment-pages-wrapper"></div><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="53665.html@style=site#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">9 comments</a></li>
+    <div class="comment-pages-wrapper"></div><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="53665.html@style=site#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">32 comments</a></li>
 <li class="entry-replylink"><a onclick='return function(that) {return quickreply("topcomment", 0, "",that)}(this)' href='53665.html@mode=reply&amp;style=site' >Post a new comment</a></li>
 </ul></div>
 </div>
@@ -112,7 +112,7 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
 <div id='comments'><div class='inner'><div class='comment-pages toppages'><span class="view-threaded"><a href="53665.html@style=site#comments">Threaded</a></span> | <span class="view-flat"><a href="53665.html@style=site&amp;view=flat#comments">Flat</a></span></div><div  id="ljqrttopcomment" data-quickreply-container="topcomment" style="display: none;"></div>
 
 <div id='qrdiv' style="display: none;">
-<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785495600:2237:86400:wBzhDXrow8-4255543-24:0af10bbd7921bd8722c1b105b371220a" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="53665" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/53665.html?style=site&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="0" id="viewing_thread" /><input type='hidden' name="style" value="site" id="style" /><input type='hidden' name="chrp1" value="53665-4255543-1785495600-O3e1fvnYeyJWTMMPsdj1-241ee73d735396a6938bf4e8bce91eb6" />
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1785758400:380:86400:5xNTLIwHZ9-4255543-24:cec24de118d69d0d47b03402f7d45dbd" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="53665" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/53665.html?style=site&amp;" id="basepath" /><input type='hidden' name="viewing_thread" value="0" id="viewing_thread" /><input type='hidden' name="style" value="site" id="style" /><input type='hidden' name="chrp1" value="53665-4255543-1785758400-HNEbhs78bZO14GVrjH2G-8d6f6fdbf8709fcc84b214fcd8c2645c" />
 <div class='qr-meta'>
 
   <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
@@ -136,7 +136,7 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
         <label for="subject" class="invisible">
             Subject
         </label>
-        <input type="text" placeholder="Subject" id="subject" size="50" class="text" value="" name="subject" maxlength="100" />
+        <input type="text" maxlength="100" class="text" id="subject" name="subject" size="50" placeholder="Subject" value="" />
 </div>
 
 
@@ -146,13 +146,13 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
         <label for="prop_editor" class="invisible">
             Formatting type
         </label>
-        <select id="prop_editor" class="select" name="prop_editor">
+        <select class="select" id="prop_editor" name="prop_editor">
 <option value="html_casual1" selected='selected'>Casual HTML</option>
 <option value="markdown0">Markdown</option>
 <option value="html_raw0">Raw HTML</option>
 <option value="rte0">Rich Text Editor</option>
 </select>
-    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' style="vertical-align: middle;" title="More info about formatting" /></a>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
   </div>
 
   <div class="qr-markup-controls">
@@ -164,11 +164,11 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
         <label for="body" class="invisible">
             Message
         </label>
-        <textarea id="body" wrap="soft" class="text" rows="10" name="body" cols="80"></textarea></div>
+        <textarea wrap="soft" rows="10" cols="80" name="body" id="body" class="text"></textarea></div>
 
 <div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" id="submitpost" class="submit" />
 
-  <input type='submit' name="submitpview" value="Preview" class="submit" id="submitpview" /><input type='hidden' name="submitpreview" value="0" />
+  <input type='submit' name="submitpview" value="Preview" id="submitpview" class="submit" /><input type='hidden' name="submitpreview" value="0" />
 
   
     <div class='de'><strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.</div>
@@ -464,7 +464,7 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
 </div>
 <div class="contents usercontent">
 <div class="inner">
-<div class="comment-content">в конечном счете это какой-то ключ к обезьяней голове.<br /><br />если человек или отрицает или не понимает написанное то.<br /><br />1. он тупой. вообще не способен прочитать написанное.<br /><br />2. поведет себя как животное.<br />хм, но что это точно?<br /><br />3. поведет себя как криминалитет. но тут особо не за что убивать,<br />например. можно предупредить или рассказать, почему так делать не надо.<br />это, обычно, не любят. но могут и рассказть, вместо того, чтобы<br />морду бить.<br /><br />4. у него есть какая-то идеология.<br />но это прямые рассуждения. на них можно и нужно ответить.<br /><br />5. у него есть, хм, действующий backstage. организация.<br />но и в таком случае, что мешает ответить.<br />тут ничего не ясно.<br /><br />===========<br /><br />какие тут вообще самые страшные вещи?<br /><br />1. полицейские расследования подвержены проблеме неполноты индукции.<br />на практике это может значить, что ловят случайных людей.<br />даже в ситуациях близких к очевидным.<br /><br />2. девушка без оружия уязвима в темном лесу.<br />для животных и людей.<br />с ней можно отснять метарт, взть подписку о неразглашении и<br />заставить раздавать эти материалы.<br />чтобы это не происходило нужно раздавать девушкам оружие.<br />продавать на каждом шагу. обучать в школах самодеьному оружию.<br /><br />3. русские метарт модели с торрентов тоже хотят денег.<br />но у них нет контактов, чтобы любой желающий мог их пофотографировать.<br />почему так?<br /><br />4. детонация - это горение в результате гидроудара.<br /><br />5. fashion модели тоже хотят денег, наверняка.<br />но даже их фотосетов нет в качестве как у метарт.<br />лишь можно заметить, что многие модели есть и в сетах с метартом.<br /><br />6. в Америку уехало много жалующихся на то, что их игнорируют русские<br />девушки инженеров, которые теперь работают в компаниях типа,<br />Juniper, MediaTek, AMD, которые обрабатывают весь объем военной,<br />технической, финансовой информации, которая проходит в этом мире.<br /><br />в том числе всю переписку metart и fashion моделей.<br /><br />нельзя ли им написать предложение пофоткать?<br /><br />==================<br /><br />в конечном счете тут многое сводится к этому.<br />ну пускай я расскажу это соседу.<br />он скажет.<br />- ну проблема Генерала ФСБ<br />- разработчиков из Juniper Networks и ВТБ<br />- РВСН<br />- людей из цифровых интеллектуальных security systems<br /><br />в итоге пусть и сводится к проблеме безопасности<br />девушек и ключников.<br />но меня не волнует.<br /><br />но меня волнует вопрос безопасности девушек и ключников.<br />поэтому... что?<br />тут реально на этом месте опасаешься пера между ребер.<br />НО.<br />если человек знает тему, почему нельзя мне знать эту тему?<br />и кому об этом можно говорить?<br />кому об этом можно знать, а кому нет?<br /><br />это как?<br />в итоге к этому все сводится.<br />а остаьльное по space ladder.<br />тот кто обеспечивает безопасность барышень в лесопраке<br />может делать с генералами ФСБ что угодно.<br /><br />=====================<br /><br />это даже не space ladder, это вопрос элементарного<br />образования в стиле Пойа-Бастиа.<br /><br />к криминалисту тоже можно подъехать.<br />да и криминалистов интересно послушать.<br />они могут и согласиться с проблемами неполноты индукции,<br />что не хватает доказательств для серьезных стандартов.<br /><br />===============<br /><br />в конечном счете security through obscurity сводится к<br />проблеме персонажа из За миллиард лет до конца света.<br />который работал на оборонку, твердотопливные ракеты.<br />жил один. ни с кем не говорил, спал со светом.<br />и в день получения очередного звания - подполковника -<br />застрелился из наградного пистолета.<br /><br />это тоже момент.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 11:35 (UTC)</span></span></em></div></div></div>
+<div class="comment-content">в конечном счете это какой-то ключ к обезьяней голове.<br /><br />если человек или отрицает или не понимает написанное то.<br /><br />1. он тупой. вообще не способен прочитать написанное.<br /><br />2. поведет себя как животное.<br />хм, но что это точно?<br /><br />3. поведет себя как криминалитет. но тут особо не за что убивать,<br />например. можно предупредить или рассказать, почему так делать не надо.<br />это, обычно, не любят. но могут и рассказть, вместо того, чтобы<br />морду бить.<br /><br />4. у него есть какая-то идеология.<br />но это прямые рассуждения. на них можно и нужно ответить.<br /><br />5. у него есть, хм, действующий backstage. организация.<br />но и в таком случае, что мешает ответить.<br />тут ничего не ясно.<br /><br />===========<br /><br />какие тут вообще самые страшные вещи?<br /><br />1. полицейские расследования подвержены проблеме неполноты индукции.<br />на практике это может значить, что ловят случайных людей.<br />даже в ситуациях близких к очевидным.<br /><br />2. девушка без оружия уязвима в темном лесу.<br />для животных и людей.<br />с ней можно отснять метарт, взть подписку о неразглашении и<br />заставить раздавать эти материалы.<br />чтобы это не происходило нужно раздавать девушкам оружие.<br />продавать на каждом шагу. обучать в школах самодеьному оружию.<br /><br />3. русские метарт модели с торрентов тоже хотят денег.<br />но у них нет контактов, чтобы любой желающий мог их пофотографировать.<br />почему так?<br /><br />4. детонация - это горение в результате гидроудара.<br /><br />5. fashion модели тоже хотят денег, наверняка.<br />но даже их фотосетов нет в качестве как у метарт.<br />лишь можно заметить, что многие модели есть и в сетах с метартом.<br /><br />6. в Америку уехало много жалующихся на то, что их игнорируют русские<br />девушки инженеров, которые теперь работают в компаниях типа,<br />Juniper, MediaTek, AMD, которые обрабатывают весь объем военной,<br />технической, финансовой информации, которая проходит в этом мире.<br /><br />в том числе всю переписку metart и fashion моделей.<br /><br />нельзя ли им написать предложение пофоткать?<br /><br />==================<br /><br />в конечном счете тут многое сводится к этому.<br />ну пускай я расскажу это соседу.<br />он скажет.<br />- ну проблема Генерала ФСБ<br />- разработчиков из Juniper Networks и ВТБ<br />- РВСН<br />- людей из цифровых интеллектуальных security systems<br /><br />в итоге пусть и сводится к проблеме безопасности<br />девушек и ключников.<br />но меня не волнует.<br /><br />но меня волнует вопрос безопасности девушек и ключников.<br />поэтому... что?<br />тут реально на этом месте опасаешься пера между ребер.<br />НО.<br />если человек знает тему, почему нельзя мне знать эту тему?<br />и кому об этом можно говорить?<br />кому об этом можно знать, а кому нет?<br /><br />это как?<br />в итоге к этому все сводится.<br />а остаьльное по space ladder.<br />тот кто обеспечивает безопасность барышень в лесопраке<br />может делать с генералами ФСБ что угодно.<br /><br />=====================<br /><br />это даже не space ladder, это вопрос элементарного<br />образования в стиле Пойа-Бастиа.<br /><br />к криминалисту тоже можно подъехать.<br />да и криминалистов интересно послушать.<br />они могут и согласиться с проблемами неполноты индукции,<br />что не хватает доказательств для серьезных стандартов.<br /><br />===============<br /><br />в конечном счете security through obscurity сводится к<br />проблеме персонажа из За миллиард лет до конца света.<br />который работал на оборонку, твердотопливные ракеты.<br />жил один. ни с кем не говорил, спал со светом.<br />и в день получения очередного звания - подполковника -<br />застрелился из наградного пистолета.<br /><br />это тоже момент.<br /><br />==============<br /><br />просто как бы да.<br />если здесь безопасно.<br />то дешевый и доступный для продажи пистолет-пулемет<br />не представляет никакой ценности.<br />можно с ним бегать.<br /><br />если же здесь все на взводе и если<br />раздать пулеметы то тут начнется,<br />так значит и так начнется.<br />но только девушек выживет меньше.<br />на всех этих шлюпках всегда перевес в сторону<br />мужиков. девушек почти не остается.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 11:39 (UTC)</span></span></em></div></div></div>
 </div>
 <div class="footer">
 <div class="inner">
@@ -476,7 +476,766 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
 </div>
 <div class="separator separator-after"><div class="inner"></div></div>
 </div>
-</div></div><div class='bottomcomment'><hr class="below-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="53665.html@style=site#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">9 comments</a></li>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt378785' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt378785">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 12:12 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=378785#cmt378785">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=378785&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=378785" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=378785" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=378785" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1479' class='ljcomsel' id='ljcomsel_378785' /> <label for="ljcomsel_378785">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">В конечном счете, все реально сводится к материалу в стиле Пойа-Бастиа.<br />начиная с простейших частных случаев и далее по усложнению.<br />Со ссылками на формальную индукцию<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br />или более базовые учебники логики типа<br /><a href="https://sotsium.ru/vneserijnye/vvedenie-v-logiku-i-nauchnyj-metod.html">https://sotsium.ru/vneserijnye/vvedenie-v-logiku-i-nauchnyj-metod.html</a><br /><br />М. Коэн, Э. Нагель<br />Введение в логику и научный метод<br />(An Introduction to Logic and Scientific Method [1934])<br /><br />что тут обеспечивает безопасность одинокой девушки в лесу,<br />если она безоружна<br />и полиция ограничена неполнотой индукции.<br /><br />и с какой теоремы тут у девушек начнут отбирать оружие.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=378785#cmt378785">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("378785", 1479, "",that)}(this)' href='53665.html@replyto=378785&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt378785" data-quickreply-container="378785" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt379041' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt379041">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 12:35 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=379041#cmt379041">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=379041&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=379041" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=379041" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=379041" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1480' class='ljcomsel' id='ljcomsel_379041' /> <label for="ljcomsel_379041">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">Ну, наиболее близкое, это все-таки эволюционная теория игр.<br />Но там нет следователей.<br /><br /><a href="https://www.keldysh.ru/pages/mrbur-web/">https://www.keldysh.ru/pages/mrbur-web/</a><br /><br />а так на эту тему огромный объем литературы.<br />для замыкания не хватает только рассмотреть работу агентов-полицейских с<br />точки зрения индуктивной логики.<br />получают ли те, кто пользуется индуктивной логикой преимущества.<br /><br /><a href="https://www.keldysh.ru/pages/mrbur-web/publ/burtsev.turchin.(2007).nat_rus.pdf">https://www.keldysh.ru/pages/mrbur-web/publ/burtsev.turchin.(2007).nat_rus.pdf</a><br />1. Hamilton, W. D. The genetical evolution of social behaviour. I and II. J. Theor. Biol. 7,<br />1–52 (1964).<br />2. Maynard Smith, J. Kin selection and group selection. Nature 201, 1145–1147 (1964).<br />3. Michod, R. E. & Abugov, R. Adaptive topography in family-structured models of kin<br />selection. Science 210, 667–669 (1980).<br />4. Lacy, R. C. & Sherman, P. W. Kin recognition by phenotype matching. Am. Nat. 121,<br />489–512 (1983).<br />5. Queller D. C. A general model for kin selection. Evolution 46, 376–380 (1992).<br />6. Riolo, R. L., Cohen, M. D. & Axelrod, R. Evolution of cooperation without reciprocity.<br />Nature 414, 441–443 (2001).<br />7. Axelrod, R., Hammond, R. A. & Grafen, A. Altruism via kin-selection strategies that<br />rely on arbitrary tags with which they coevolve. Evolution 58, 1833–1838 (2004).<br />8. Trivers, R. The evolution of reciprocal altruism. Q. Rev. Biol. 46, 35–57 (1971).<br />9. Nowak, M. A. & Sigmund, K. Evolution of indirect reciprocity by image scoring.<br />Nature 393, 573–577 (1998).<br /><br />ну и конкретное моделирвание столкновений вооруженной и невооруженной девушки со зверьем,<br />вооруженным и невооруженным. Но это еще типичнее.<br /><br />Выживаемость девушек и следователей, которые используют индуктивную логику.<br /><br />Собственно, введение индукции Соломонова в теорию игр - это и есть поиск всех<br />решений абсолютно. А не в условном приближении.<br /><br />Нэш на этом месте, по странному стечению обстоятельств, и сошел с ума.<br /><br />Вместо индукции Соломонова или рассмотрения игрушечных решений в стиле вот<br />John Maynard Smith<br />лучше рассмотреть все в стиле Пойа-Бастиа.<br /><br />Часто говорят, что<br />1. Априорного зла нет, так как человек не животное.<br />Странный аргумент. Априорное зло есть, так как все сценарии<br />можно напечатать. А самый простой сценарий - это подражать<br />животным.<br />2. Априорного зла нет, так как есть УК РФ.<br />Но в УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br /><br /><br />###############################<br /><br />1. безопаcность своей барышни, а тем более соседки, студентки,<br />землячки ты обеспечиваешь только когда ее видишь. ты совершенно<br />не представляешь, что делают с твоей барышней или соседкой за<br />твоей спиной.<br /><br />2. безопасность ты можешь ее обеспечить только с оружием в руках.<br /><br />3. но с оружием и твоя барышня может обеспечить свою безопасность.<br /><br />4. ты никогда не знаешь backstage своей барышни и не работат ли она<br />на кого-то. не входит ли в какую-то met-art network.<br />где ее фоткают. и она тебе не скажет, так как подписала документ о<br />неразглашении<br /><br />####################################<br /><br />&gt; Оружие не обеспечивает безопасность, а провоцирует дополнительные риски.<br /><br />в России вообще есть девушки, к которым бы не подъезжала пожилая тетенька,<br />не показывала бы пистолет и удостоверение СВР или любой другой международной<br />метарт нетворкс из кучи дружественных и недружественных стран,<br />не брала бы строгую подписку о неразглашении и не снимала бы метарт, входящий в УК РФ и<br />не давала бы затем всю жизнь простые команды?<br /><br />как Тане? она же работала на СВР? или на какую-то иную met-art networks?<br />или они сразу на несколько работают все? бесплатно.<br /><br />вот о рисках, которые провоцирует оружие. и люди с оружием.<br />и об их воплощении, если у студенток нет оружия.<br /><br /><br />########################<br /><br />простые, жесткие наиболее априорно вероятные сценарии.<br /><br />поведение животных<br /><br />к любой безоружной студентке могут подъехать люди<br />- показать корочки какой угодно СВР или метарт нетворкс. принтер у всех сейчас есть.<br />иначе это не разведка и не криминалитет. и даже не любитель.<br />- показать пистолет и гранату, от самодельного до любой марки и степени секретности.<br />даже любитель может все делать в гараже. в огромных масштабах.<br />- подписать соглашение о неразглашении. и девушка молчит и ничего не говорит.<br />как Таня. ничего о backstage. только извращенный секс.<br />- отснять метарт, что нужные люди включили в УК РФ.<br />тысячи моделей только в паблике 20 лет валяются и статья 20 лет висит<br />и никого не трогает, что делают эти опубликованные и неопубликованные<br />студентки.<br />- и студентка бесплатно выполняет простые приказы<br />есть тут студентки, которые не выполняют простые приказы хоть<br />одной мет арт нетворкс? это же фрактально. скорее всего большинство выполняют<br />сразу нескольких.<br /><br />в полиции не помогут. там те же простые жесткие, наиболее априорно вероятные<br />сценарии. полиция вообще не нужна. студентке туда ходить опасно.<br />помогает только оружие. лучше профессиональное.<br />гранаты, пистолеты, автоматы, квадрокоптеры, растяжки.<br />которые ты не сдаешь в камеру хранения и на кладешь в сейф.<br />а распоряжаешься по своему усмотрению.<br /><br />но самодельное оружие тоже нужно вносить в школьную программу.<br />потому что зависимость от профессионального оружия - это тоже<br />зависимость, которая может сыграть с тобой как и любая зависимость<br />злую шутку.<br /><br />================<br /><br />так же как экономика начинается с Робинзона Крузо,<br />так же и безопасность начинается с безопасности одинокой девушки в лесу.<br /><br />начнем с простых частных случаев.<br />на нее напали бешеные животные.<br />реальные животные. но это может быть и, хм, не метафора.<br />человек, ведущий себя по простому жескому сценарию - по поведению животных.<br />вообще, для тех кто понял и не поясничается, это единственное тонкое место во<br />всей конструкции - если априорные сценарии поведения животных так просты - все же таки<br />апостериорно, человек не животное и этот анализ быть может полезен, но не слишком применим.<br />или все реально плохо?<br /><br />что может сделать специалист по безопасности в этом случае с девушкой?<br />чему ее обучить?<br /><br />оружию. научить делать и обращаться с оружием.<br />предположим есть две девушки.<br />одна нашла вторую разорванной.<br /><br />что может посоветовать специалист по безопасности выжившей девушке?<br />собрать следы, найти по следам логово наиболее правдоподобного виновника,<br />и кинуть туда гранаты<br /><br />быть может следы размоет и, кружа по лесу, будут найдены несколько логовищ диких дивотных.<br />в каждое кидай гранату.<br /><br />где в этой структуре от простого к сложному начнут для безопасности<br />девушек отбирать у нее пистолеты и гранаты?<br /><br />каковы следующие шаги?<br /><br />==================<br /><br />К 100-летию со дня рождения Соломонова<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Формальная теория индуктивного вывода.<br />База науки и жесткого мышления. Нет других вариантов.<br />Все формально априорно расписано. Вы назовите только номер или код сценария,<br />который хороший. А не занимайтесь отрицанием.<br /><br />Так, ну хорошо. Можно точно сказать, что<br />вот допустим студентку задушили в лесопарке.<br /><br />Что может делать полиция?<br />1. Провести индуктивное расследование и выйти на наиболее вероятного подозреваемого.<br />2. Применить или угрожать применением оружия и отправить подозреваемого на зону.<br /><br />В чем отличие от студентки?<br />1. Студентка очевидица, ей не нужно проводить расследование.<br />2. В этом месте мне заявили, что студентка неподготовлена и любительница.<br />Она не справится с пистолетом.<br /><br />Но Таня мне рассказывала, что ее как студентку пединститута заставляли на<br />занятиях по физре заниматься гимнастикой и скакать на козле. Занятие<br />опасное и требующее хорошей физподготовки. Так может это время потратить на<br />занятия с оружием огнестрельным? И тогда у студенток не останется слабых<br />мест перед полицией.<br /><br />######################################<br /><br />Но Таня мне рассказывала, что ее как студентку пединститута заставляли на<br />занятиях по физре заниматься гимнастикой и скакать на козле. Занятие<br />опасное и требующее хорошей физподготовки. Так может это время потратить на<br />занятия с оружием огнестрельным? И тогда у студенток не останется слабых<br />мест перед полицией.<br /><br />Ну то есть да, ты говорила, что занималась большим количеством таких тренировок.<br />Может лучше было со стволом заниматься?<br />На полигоне с автоматом бегать.<br /><br />###################################<br /><br />Еще мне заявляли, что если у подготовленных за 5 лет студенток будет оружие,<br />то набежит криминалитет и отберет оружие. И будет оружие только у криминалитета и<br />насильников.<br />В чем отличие от полиции, почему к ней не бежит криминалитет и насильники, мне пока<br />не ответили.<br /><br />#################################<br /><br />ну то есть да, студентка пединститута занимается и сдает зачеты по<br />опасным для здоровья видам спорта.<br />Вместо того, чтобы тренироваться с оружием. В полезных для<br />безопасности ситуациях.<br /><br />Как очевидица, ей даже не надо расследовать и применять сложную индуктивную<br />логиу.<br /><br />Но в аргумент против нее скажут - у такой студентки, кто подготовлен, с оружием, и<br />знает индуктивную логику. Оружие отнимет криминалитет и маньяки. И останутся с оружием<br />только ОПГ и маньяки.<br /><br />Вот вопрос, если заменить студентку пединститута на полицейского.<br />То что изменится и у кого сейчас оружие?<br /><br />#################<br /><br />априорное распределение одинаково для всех народов и всех времен.<br />что-то хорошее на эту тему есть у Мельникова-Печерского.<br /><br />там барышень пускают по кругу.<br />а барышни пустили в круг какого-то странного мальчика-юродивого.<br /><br />а есть еще какие-то априорные сценарии?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=379041#cmt379041">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("379041", 1480, "",that)}(this)' href='53665.html@replyto=379041&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt379041" data-quickreply-container="379041" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt379297' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt379297">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 01:05 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=379297#cmt379297">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=379297&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=379297" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=379297" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=379297" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1481' class='ljcomsel' id='ljcomsel_379297' /> <label for="ljcomsel_379297">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">ну то есть они считают, что все сводится либо<br /><br />1. к вере. В бога<br /><br />2. к вере. в государство.<br /><br />3. к поведению животных.<br />обезьяны в целом злобноваты, но не настолько.<br />им скорее покуражиться интересно.<br />и типа даже особо не ревнивы быть может.<br />и даже жратвой в случае избытка свободно делятся.<br />то есть типа такие злобноватые игры им свойственны.<br />типа если условная омежка трахает самочек, то это даже<br />любопытно. типа порнографии карлик + красотка.<br />что, все на эту тему дрочат?<br />как тут все в карликов не превратились.<br /><br />4. к тысячи глаз. ну то есть та же полиция.<br />но в условиях, что все знают, что расследовать тут сложно.<br />но если все вооружены и кто-то застукает, то будет атата.<br />но здесь условие - что все вооружены.<br />и вооружены без разрешения.<br />иначе это будет работать в обратную сторону - показывать,<br />кто здесь власть.<br /><br />5. к личной физической силе.<br />ну или к оружию, само собой.<br /><br />6. хм. а как точно решается игра в темном лесу в условиях неопределенности?<br />вот увидел охотник в тайге другого охотника в оптический прицел.<br />стрелять или нет?<br /><br />по идее<br />- звук выстрела может привлечь внимание.<br />- можно промахнуться.<br />- в конечном счете в условиях неопределеннсти чел может что-то<br />хотеть продать или купить.<br />- да и вообще пес его знает, что ему тут нужно.<br />ну типа обезьяна животное сложное, он и сам по симметрии может<br />не стрелять, если увидит.<br />- в конечном счете, оружие или жратву можно оставлять в избушке лесника.<br />а что еще особо то тут делить?<br /><br />в общем лучше в избушке лесника оставлять патроны и тушенку.<br />мало ли кто смотрит на тебя в оптический прицел.<br /><br />в конечном счете, обезьяны сталкиваясь с вопросом начинают думать,<br />а как вести себя правильно.<br />это индуктивная логика.<br />можно считать это багом.<br />но это баг всех обезьян.<br /><br />с одной стороны стрелять выгодно.<br />с другой абсолютно бесполезно.<br />можно спокойно выйти и поболтать.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 13:20 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=379297#cmt379297">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("379297", 1481, "",that)}(this)' href='53665.html@replyto=379297&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt379297" data-quickreply-container="379297" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt379553' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt379553">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 01:28 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=379553#cmt379553">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=379553&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=379553" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=379553" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=379553" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1482' class='ljcomsel' id='ljcomsel_379553' /> <label for="ljcomsel_379553">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">в конечном счете все выглядит так,<br />что полиция действует формально.<br />и эти вопросы вполне законны или даже благоприятны для полиции.<br />вооруженное население может защищать полицию.<br /><br />но будто бы есть люди в теме, которые смотрят за этим.<br />откуда этот жаргон?<br />впрочем, этот жаргон всегда меняется и если ты читаешь его,<br />значит люди в теме уже давно говорят иначе.<br /><br />ну типа большевики же много времени проводили на зоне<br />потом ЧК - КГБ - ФСБ.<br />Но ВСБ сейчас тоже стало типа полиции.<br />Тут теперь неформальный криминалитет все контролирует?<br />Или реално никто не следил, вот это все.<br />Вообще никто не думал об этом?<br /><br />И никогда не думал?<br /><br />===========<br /><br />брррр.<br />но все это число зверя, это же про это.<br />то есть кто-то думал.<br /><br />да и писал уверенно.<br />в общем тут такой кураж бомбей.<br /><br />но почему об этом не говорить студенткам?<br />это надо исправить.<br /><br />==================<br /><br />в общем это опять уход в болтологию.<br />вместо рассмотрения реальной проблемы.<br />в целом выглядит вероятно, что чуть ли не любой обезьяне<br />может быть скучно убивать девушек.<br /><br />а тому, кто взялся это делать неизбежно не<br />повезет и его поймают.<br /><br />но.... каковы точно шансы это все делать?<br /><br />и почему у девушек нет оружия?<br /><br />если доводить до края,<br />это прямо чел, которому вместо детей интересно<br />подрывать на растяжках других девушек.<br /><br />но против этого может и не быть приема. ок.<br />но все-равно, почему у девушек нет оружия?<br /><br />маньяк может сделать растяжку и шеддитную гранату,<br />а девушки безоружны?<br /><br />маньяк может иметь мотив - делать детей,<br />даже если отбросить проблемы с девушками,<br />при внимательном рассмотрении это может оказаться<br />отсутствующей проблемой. куча РСПх, которые быть может<br />даже захотят делать детей.<br /><br />но это сложно.<br />а вот ставить растяжки или камеры с системой распознавания образов и <br />крепить к ним гранату?<br /><br />нет, я реально не понимаю этих людей.<br />это все что?<br /><br />=====<br /><br />тут у каждого японского императора за спиной стоит сегун.<br /><br />но девушки беззащитны и безоружны.<br />это как?<br /><br />надо все это реально распространять.<br /><br /><br />================<br /><br />кстати, почему я этим не занимаюсь.<br /><br />маньяк может сделать растяжку и шеддитную гранату,<br />а девушки безоружны<br /><br />1. ну во-первых это все-таки не хорошо.<br /><br />2. а каких точно девушек выбивать?<br />двоешниц? но среди могут быть красоточки.<br />отличниц? но среди них могут быть красоточки.<br />к тому же не понятно, кто тут на самом деле кто.<br /><br />3. это гораздо интереснее эту тему рассказывать девушкам.<br />пусть вооружаются. не факт, что поможет от растяжки или<br />от системы распознавания образов на ice40<br /><a href="https://www.latticesemi.com/en/Products/DesignSoftwareAndIP/IntellectualProperty/ReferenceDesigns/ReferenceDesign04/MachineLearningOndeviceArtificialIntelligence">https://www.latticesemi.com/en/Products/DesignSoftwareAndIP/IntellectualProperty/ReferenceDesigns/ReferenceDesign04/MachineLearningOndeviceArtificialIntelligence</a><br /> 	iCE40 UltraPlus Face Detect Reference Design User Guide <br />можно и к квадрику ИИ по охоте за девушками присобачить.<br />и гранату прицепить.<br /><br />ну или простенькую растяжку, электродетонатор на 10 ампер,<br />безопасный с шеддитом,<br />MOSFET, lipo аккум на 10 ампер, медный провод с разъемом.<br />предохранительный выключатель от БП.<br /><br />но это как-то нехорошо что-ли. чему студентки<br />пединститута будут учить своих котят и лисят?<br /><br />4. вообще метарт пофоткать тоже интересно.<br />и в темном лесу можно совместить.<br />не вопрос.<br />но формально на этой теме сидит криминалитет.<br />и девушки не получают деньги.<br />и мне проще и безопаснее все снимать в темном<br />лесу, а не при 1000 глаз.<br /><br />об этих сценариях кто-то думает?<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 13:54 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=379553#cmt379553">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("379553", 1482, "",that)}(this)' href='53665.html@replyto=379553&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt379553" data-quickreply-container="379553" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt379809' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt379809">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 02:12 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=379809#cmt379809">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=379809&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=379809" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=379809" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=379809" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1483' class='ljcomsel' id='ljcomsel_379809' /> <label for="ljcomsel_379809">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">по большому счету, если не отвлекаться<br />на вопрос об экономическом расчете при социализме,<br />которым я и заинтересовался с целью понять, есть в темном лесу что-то <br />еще. или тут уже пусто?<br /><br />сценарий выглядит крайне просто.<br /><br />1. додуматься, что чем гемороиться с детьми.<br />можно, хм, пугать девушек от тебя далеких,<br />кто тебя не понимает.<br /><br />2. догадаться сделать безопасный и надежный<br />7-10 ампер самопал или электродетонатор и шеддитную<br />гранату. не тротил, но палит осколками в разные стороны<br /><a href="5576.html">https://transitional-writes.dreamwidth.org/5576.html</a><br />ну или простенькую растяжку, электродетонатор на 10 ампер,<br />безопасный с шеддитом,<br />MOSFET, lipo аккум на 10 ампер, медный провод с разъемом.<br />предохранительный выключатель от БП.<br /><br />ну или иметь источник профессиональных таких вещей.<br /><br />3. Догадаться, что из-за inductive bottleneck тут<br />расследования затруднены. ну или иметь связи или<br />быть самим в полиции. что типа не поймают.<br /><br />4. знать что девушки безоружны.<br />ну, от растяжки тут нужен миноискатель скорее,<br />но конкретные сценарии такие.<br /><br />5. не нашел чем заняться. все скучно,<br />нужна развлекуха.<br />ну или неудачи в карьере или личной жизни.<br /><br />===============<br /><br />конечно, это некоторый отход от темы оружия девушкам.<br />но одновременно точка, которая, думается гораздо<br />лучше все объясняет. вот о чем нужно думать,<br />барышни. о диком лесе и о том, как тут делать<br />оружие. о растяжках и гранатах неучтенных.<br /><br />на оружие не спрашивают разрешение.<br />это не конура.<br />оружие делают и объясняют это котятам и лисятам.<br /><br />вот что такое поведение человека.<br />и сравните, шлюхи, это со своим поведением.<br /><br />==============<br /><br />оружие не хранят в сейфе.<br />все самопалы и гранаты подключены к системам распознавания образов и<br />растяжкам и валяются на территории.<br /><br />быть может в РВСН что-то знают, как обеспечивается безопасность шахт.<br />вот их безопасность можно не обеспечивать.<br />надо учить девушек обеспечивать свою безопасность.<br /><br />по стандартам РВСН.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 14:15 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=379809#cmt379809">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("379809", 1483, "",that)}(this)' href='53665.html@replyto=379809&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt379809" data-quickreply-container="379809" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt380065' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt380065">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 02:57 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=380065#cmt380065">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=380065&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=380065" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=380065" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=380065" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1484' class='ljcomsel' id='ljcomsel_380065' /> <label for="ljcomsel_380065">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">в конечном счете на любого разработчика систем,<br />ворочающих триллионами или hardware security могут надавить очень просто.<br /><br />привести езнакомую девушку,<br />приставят нож к горлу и скажут - добавляй закладку.<br /><br />и что делать разработчику?<br />тем более если девушку начали резать.<br />или привезлу двух.<br /><br />одну зарезали - про вторую сам думай.<br />и как это все понимать?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=380065#cmt380065">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("380065", 1484, "",that)}(this)' href='53665.html@replyto=380065&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt380065" data-quickreply-container="380065" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt380321' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt380321">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 02:59 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=380321#cmt380321">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=380321&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=380321" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=380321" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=380321" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1485' class='ljcomsel' id='ljcomsel_380321' /> <label for="ljcomsel_380321">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">вот разговор о важном.<br /><br />безопасность девушек с простейших частных случаев.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=380321#cmt380321">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("380321", 1485, "",that)}(this)' href='53665.html@replyto=380321&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt380321" data-quickreply-container="380321" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt380577' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt380577">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 06:21 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=380577#cmt380577">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=380577&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=380577" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=380577" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=380577" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1486' class='ljcomsel' id='ljcomsel_380577' /> <label for="ljcomsel_380577">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">насчет криминалистики. чистая логика.<br /><br />===================<br /><br />1. любой оперативник, следователь опирается на криминалистов.<br />это чуть ли не прославленная в фильмах криминалистическая революция.<br />до этого ничего невозможно было отыскать.<br /><br />2. но как и любая домохозяйка, готовящая борщ по рецепту, она может столкнуться с<br />тем, что борщ не получился. что это? проблема рецепта или рецепт не был правильно понят?<br />криминалист в этом случае не может проверить, есть ли проблема в методике или<br />методика не была верно понята - он выдает случайного человека.<br /><br />3. контрольное и обучающее множества для криминалиста может обеспечить оперативник.<br />как его, по сути, начальник.<br />но тут возникает логическое противоречие.<br />если улики были подброшены,<br />- то в идеале криминалист должен сказать - убийца оперативник.хехехе<br />но в таком случае не проверить на реальном множестве, работает ли криминалист или<br />оперативник тупой, лажает.<br />- если криминалист укажет на верного "убийцу", то значит криминалист хоть и прав,<br />но не нашел подлог. что тоже неверно.<br />- если криминалист ошибся - значит ошибся.<br />как тогда формировать обучающие и контрольные множества для криминалиста?<br /><br />это звучит как невозмжная задача.<br />либо улики подброшены. либо реальный убийца неизвестен.<br />значит невозможно готовить криминалистов.<br />и значит все расследования выдают рандом.<br /><br />======================================<br /><br />голодные обезьяны смертельно опасны.<br />но сытые, видимо, предпочитают развлечения.<br />даже ревность к самкам вторична. видимо, обезьянам пофиг кто трахает их самок.<br />любопытно, пофиг ли самкам?<br />в целом на этом и держится здесь безопасность.<br />ну в той степени, в какой она есть.<br /><br />быть может все совсем не пофиг.<br />интересно выяснить.<br /><br />=====================<br /><br />обучающее множество для криминалиста может обеспечить только,<br />если оперативник заказал реальное преступление.<br />но даже в этом случае будет неестественность.<br /><br />=========================<br /><br />возможно, обезьяны злобноваты и их развлечения могут привести к реальному убийству,<br />но возможно это и крайняя редкость и несмотря на серьезность игры они<br />скорее предпочитают бесконечную игру в кошки мышки.<br />в догонялки. в прятки.<br /><br />как все точно устроено?<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 18:32 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=380577#cmt380577">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("380577", 1486, "",that)}(this)' href='53665.html@replyto=380577&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt380577" data-quickreply-container="380577" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt380833' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt380833">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 06:58 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=380833#cmt380833">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=380833&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=380833" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=380833" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=380833" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1487' class='ljcomsel' id='ljcomsel_380833' /> <label for="ljcomsel_380833">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">1. априорное распределение Соломонова содержит все сценарии<br /><br />2. социальные и гуманитарные науки могут дополнить известные сценарии,<br />по сути можно говорить о двух множествах.<br />конечное - актуально напечатанные сценарии. Actual<br />и бесконечное - все возможные сценарии. Possible<br /><br />в социальных и гуманитарных науках, а также художественной литературе<br />не может быть сценариев, которые отсутствуют в Possible.<br />но социальные и гуманитарные науки, а также худлит могут быть полезны<br />для пополнения Actual.<br />в то же время в социальных и гуманитарных науках могут отсутствовать<br />многеи сценарии из Possible.<br /><br />это связь универсального распределения с социальными и гуманитарными науками.<br /><br />3. с точными науками распределение связано в первую очередь общим принципом -<br />чем проще сценарий, тем он вероятнее. Бритва Оккама.<br />Во вторую очередь - попыткой точно формализовать бритву Оккама через теорию<br />алгоритмов, то есть использовать индукцию Соломонова<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />========<br /><br />по идее, в той мере в которой этология базируется на наблюдениях и общенаучной<br />индукции, все также применимо и к поведению животных.<br />возможны априорные сценарии. возможны наблюдения.<br />момент заключается в том, что сколько бы животных не наблюдал исследователь,<br />он изучает лишь ограниченную выборку.<br />если в поведении животных возможно очень много сценариев и есть редкие, но<br />крайне важные сценарии - то выводы из наблюдений просто не могут<br />серьезно сдвинуть апостериорное распределение зоолога в сторону реальности.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=380833#cmt380833">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("380833", 1487, "",that)}(this)' href='53665.html@replyto=380833&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt380833" data-quickreply-container="380833" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt381089' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt381089">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 07:23 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=381089#cmt381089">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=381089&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=381089" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=381089" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=381089" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1488' class='ljcomsel' id='ljcomsel_381089' /> <label for="ljcomsel_381089">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">1. априорное распределение Соломонова содержит все сценарии<br /><br />2. социальные и гуманитарные науки могут дополнить известные сценарии,<br />по сути можно говорить о двух множествах.<br />конечное - актуально напечатанные сценарии. Actual<br />и бесконечное - все возможные сценарии. Possible<br /><br />в социальных и гуманитарных науках, а также художественной литературе<br />не может быть сценариев, которые отсутствуют в Possible.<br />но социальные и гуманитарные науки, а также худлит могут быть полезны<br />для пополнения Actual.<br />в то же время в социальных и гуманитарных науках могут отсутствовать<br />многеи сценарии из Possible.<br /><br />это связь универсального распределения с социальными и гуманитарными науками.<br /><br />3. с точными науками распределение связано в первую очередь общим принципом -<br />чем проще сценарий, тем он вероятнее. Бритва Оккама.<br />Во вторую очередь - попыткой точно формализовать бритву Оккама через теорию<br />алгоритмов, то есть использовать индукцию Соломонова<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />========<br /><br />по идее, в той мере в которой этология базируется на наблюдениях и общенаучной<br />индукции, все также применимо и к поведению животных.<br />возможны априорные сценарии. возможны наблюдения.<br />момент заключается в том, что сколько бы животных не наблюдал исследователь,<br />он изучает лишь ограниченную выборку.<br />если в поведении животных возможно очень много сценариев и есть редкие, но<br />крайне важные сценарии - то выводы из наблюдений просто не могут<br />серьезно сдвинуть апостериорное распределение зоолога в сторону реальности.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=381089#cmt381089">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("381089", 1488, "",that)}(this)' href='53665.html@replyto=381089&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt381089" data-quickreply-container="381089" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt381345' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt381345">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-07-31 07:27 pm (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=381345#cmt381345">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=381345&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=381345" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=381345" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=381345" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1489' class='ljcomsel' id='ljcomsel_381345' /> <label for="ljcomsel_381345">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">если связывать это снова с формальными государствами современности.<br />то из простого частного случая безопасности девушки в стиле Пойа-Бастиа выходит неколько стволов<br />- криминалитет. возможно, здесь тоже несколько видов<br />хулиганка, организованный, международный<br />- полиция. ловит криминал<br />- военные. но там свои деления<br />- разведка<br />- контрразведка.<br /><br />по идее, разведке в условиях конфликта может быть по ряду соображений<br />выгодно убивать безоружных девушек.<br />конечно, какие-то слухи могут начать циркулировать.<br />но сколько точно девушек должно пропасть, прежде чем кто-то что-то заметит?<br /><br />и какое против этого может быть средство, кроме раздачи оружия девушкам?<br />нет, потив снайперки опять же, не поможет.<br />но что мешает раздавать оружие девушкам?<br /><br />=============<br /><br />ну так то это идея подкладывать цианид в презервативы.<br />типа того. гениальное прозрение.<br />но что если раздавать этот материал на микроуровне?<br /><br />что произойдет?<br />неужели есть верование, что тут только security through obscurity<br />от всего спасает и если отдать этот материал обезьяне она<br />бросится убивать девушек?<br /><br />с другой стороны, если обезьяна, получив этот материал не бросилась<br />убивать девушек, то тут реально серьезно исчезает нужда в<br />полиции, ФСБ, СВР и даже армии.<br /><br />по идее им следует либо сапораспускаться, либо быть может по честному уходить<br />в полную тень, не обманывать народ и считать себя криминалом.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-07-31 19:30 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=381345#cmt381345">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("381345", 1489, "",that)}(this)' href='53665.html@replyto=381345&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt381345" data-quickreply-container="381345" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt381601' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt381601">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 03:42 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=381601#cmt381601">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=381601&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=381601" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=381601" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=381601" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1490' class='ljcomsel' id='ljcomsel_381601' /> <label for="ljcomsel_381601">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">Что может сдерживать людей?<br />осознание прилетит ли ответка конкретно по ним.<br />но она может не прилететь, если за человеком не следят.<br /><br />либо если расследование по следам заведет в тупик из-за<br />размытых следов.<br /><br />а как узнать, что за человеком не следят?<br /><br />=============<br /><br />за кем из вашего окружения следят?<br />и зачем?<br /><br />будут ли свидетели в случае нападения на вас?<br />и будут ли они просто смотреть?<br />что мешает напасть на них?<br /><br />физическая сила не поможет.<br />нападающие могут быть вооружены.<br /><br />и что сделают следящие за вами?<br />примутся издавать неприятные звуки?<br />или среди них все-таки есть люди с оружием?<br /><br />но почему тогда нет оружия у вас?<br />нет, скрытое эффективнее.<br />но скрывать эффективнее среди открытого.<br /><br />а открытого я не вижу.<br /><br />здесь ни за кем не следят?<br /><br />===============<br /><br />а за девушками в лесопарках слежу только я?<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-08-01 04:05 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=381601#cmt381601">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("381601", 1490, "",that)}(this)' href='53665.html@replyto=381601&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt381601" data-quickreply-container="381601" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt381857' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt381857">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 04:25 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=381857#cmt381857">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=381857&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=381857" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=381857" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=381857" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1491' class='ljcomsel' id='ljcomsel_381857' /> <label for="ljcomsel_381857">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">ну типа да, если к этому все сводится.<br /><br />вместо того, чтобы корячиться и растить 2 своих детей.<br /><br />выгоднее убить 2 несвоих девушек.<br /><br />ну, тут в зависимости от значения слова свой-чужой.<br />но в противном случае ты просто за свой счет увеличиваешь<br />поголовье людей, если тебе не важно свои это дети или чужие.<br /><br />ну как бы как вот эта структура работает?<br /><br />мало ли кто кого считает своим?<br />особенно всерьез?<br /><br />если я свой - почему у меня нет ствола.<br />если вокруг свои - почему у них нет оружия?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=381857#cmt381857">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("381857", 1491, "",that)}(this)' href='53665.html@replyto=381857&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt381857" data-quickreply-container="381857" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt382113' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt382113">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 04:34 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=382113#cmt382113">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=382113&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=382113" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=382113" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=382113" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1492' class='ljcomsel' id='ljcomsel_382113' /> <label for="ljcomsel_382113">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">что, кстати, с радиоуправлением, надо бы его как-то запеленговать.<br /><br />оно же обеспечивает встречи людей.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-08-01 04:35 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=382113#cmt382113">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("382113", 1492, "",that)}(this)' href='53665.html@replyto=382113&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt382113" data-quickreply-container="382113" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt382369' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt382369">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 04:40 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=382369#cmt382369">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=382369&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=382369" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=382369" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=382369" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1493' class='ljcomsel' id='ljcomsel_382369' /> <label for="ljcomsel_382369">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">любопытно, сколько людей в полиции подпишутся под тем,<br />что пошли в полицию, чтобы у них было оружие.<br /><br />и только за этим.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=382369#cmt382369">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("382369", 1493, "",that)}(this)' href='53665.html@replyto=382369&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt382369" data-quickreply-container="382369" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt382625' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt382625">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 05:09 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=382625#cmt382625">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=382625&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=382625" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=382625" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=382625" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1494' class='ljcomsel' id='ljcomsel_382625' /> <label for="ljcomsel_382625">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">все шухерятся.<br />но кого спасают.<br />только свою шкуру?<br /><br />====================<br /><br />ну пес его знает.<br /><br />тут просто есть инцелы, которые недоумевают, почему им не дают девушки.<br /><br />1. из-за внешнего вида?<br />но тут типа все серьезно, не игрушки.<br /><br />2. значит из-за безопасности.<br /><br />===================<br /><br />но что точно может предоставить девушке, что парень, что полиция?<br /><br />структура одна.<br /><br />1. все на виду. напали на девушку при парне.<br />по сути - это можно рассматривать как прямое нападение на парня.<br />все понятно.<br /><br />2. девушка сказала парню, что на нее напали.<br />но как и полиция, парень должен провести индуктивное расследование.<br />а индуктивное расследование затруднено сбором улик.<br />и выдвижением гипотез.<br />то есть парень такие сообщения будет вынужден либо<br />расследовать. но это затруднено. либо выполнять<br />команды девушки.<br />но в таком случае это заказ.<br />избить человека на заказ.<br />убить на заказ.<br />либо просто окажется в затруднительном положении.<br /><br />не хочет ли девушка просто покуражиться над незнакомым человеком.<br /><br />то есть девушки тут хотят куражиться над людьми.<br />и используют для этого парней.<br /><br />есть девушки, которые этим могут злоупотреблять,<br />есть те, кто не будет.<br /><br />но как к подобным заявлением относится полиция?<br />она начинает проверку. а вообще - все это берет неохотно.<br />как будто это заказ бесплатно.<br /><br />девушки делают заказ за секс что-ли?<br />типа такая структура?<br /><br />====================<br /><br />но если двигаться дальше, то кроме куража можно чем-то поживиться.<br />бандит и наводчица?<br /><br />=====================<br /><br />в конечном счете если мы рассмотрели варианты<br />- девушка хочет оргазма и/или секса. это не одно и то же.<br />по этому принципу и выбирает парней.<br />- хз, вжен ли оргазм для девушек, но к 20-25 годочкам они независимо от этого<br />начинают думать, лучше не кончать, но пускай кто-то исполняет мои заказы.<br />тут все всерьез.<br /><br />то мы приходим к структуре.<br />заказ за секс - выглядит как что-то,чем можно торгануть.<br />брать дороже. делать поменьше.<br />в результате брать плату за заказ, но ничего не делать взамен.<br />кстати, можно разделить плату и с виновником заказа.<br />чем больше обижают девушку. тем больше ее парню с этого секса.<br /><br />=========<br /><br />&gt; 1. все на виду. напали на девушку при парне.<br /><br />но почти всегда ты не видишь backstage девушки.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-08-01 05:45 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=382625#cmt382625">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("382625", 1494, "",that)}(this)' href='53665.html@replyto=382625&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt382625" data-quickreply-container="382625" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt382881' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt382881">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 05:52 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=382881#cmt382881">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=382881&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=382881" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=382881" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=382881" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1495' class='ljcomsel' id='ljcomsel_382881' /> <label for="ljcomsel_382881">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">за 20 лет серьезно изменился фенотип и количество девушек со съемками метарта в России<br /><br />красоточки стали меньше сниматься или здесь реально изменился фенотип?<br /><br />но как это могло произойти?<br /><br />задушены в лесопарке?<br /><br />=====<br /><br />девушки не понимают, что парень это или<br /><br />1. фалоимитатор. сделать секс послаще.<br />2. исполнитель заказов. не для безопасности.<br />но никто не будет исполнять заказы за секс.<br />точнее - сделает так, чтобы заказов и секса стало очень много.<br />3. деньги девушке или ее детям.<br />но без безопасности здесь не всем хочется иметь детей.<br />да и денег много не надо.<br />4. воспитания ее детям.<br />но без безопасности это тоже тут не очень ценится.<br /><br />безопасность девушки лежит только на девушке.<br /><br />девушкам нужны автоматы и гранаты.<br />без этого тут будет непрерывно меняться фенотип.<br />в фантастическом направлении.<br /><br />&gt; 2. исполнитель заказов. не для безопасности.<br />&gt; точнее - сделает так, чтобы заказов и секса стало очень много.<br /><br />ну как. девушки с этим борятся.<br />выбирают тупых и сильных. которые будут кидаться по их<br />прямой наводке.<br />но нужен ли нам такой отбор?<br /><br />ну типа да. анекдот анекдотом, но быть может в формальной структуре он<br />копипастой становится теоремой.<br /><br />умная женщина + умный мужчина - легкий флирт.<br />умная женщина + глупый мужчина - счастливая семья.<br />глупая женщина + умный мужчина - РСПшка<br />глупая женщина + глупый мужчина - мать героиня.<br /><br />девушки выбирают глупых.<br />может быть девушкам выбирать гранаты?<br />автоматы?<br /><br />==============<br /><br />понятно, я был нескольо, точнее очень сильно дезинформирован популярной этологией.<br />хотя то, насколько она работает или не работает вопрос дискуссионый.<br /><br />девушкам нужен либо вот по внешним принципам, хм, красавчик.<br /><br />либо исполнитель заказов. ее или ее детей.<br />но вместо ее детей подставь ее.<br />но умный исполнитель заказов будет максимизировать количество секса.<br />а значит девушка должна непрерывно испытывать затруднения с безопасностью.<br />которые успешно решаются за секс.<br /><br />некоторые девушки прощелкивают эту тему.<br />и выбирают глупых исполнителей. которые честно бегут, куда покажут пальцем.<br />по приказу девушки.<br />но как это влияет на наличие здесь исполнителей простых команд и невозможность<br />даже обсудить проблему экономического расчета при социализме?<br /><br />Пойа и Бастия безопасности.<br />Ну и Дольник полезен. Хз, кто четко прощелкал эту тему и дезинформаировал.<br />А кто просто разбирался и предтечя.<br />Я без базы бы не взял тему. Мой вклад очень мелкий.<br />Быть может потому и вижу кругом страшные заговоры и яд в системе образования.<br /><br />Просто коллективным перебором был достигнут этот этап.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-08-01 06:20 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=382881#cmt382881">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("382881", 1495, "",that)}(this)' href='53665.html@replyto=382881&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt382881" data-quickreply-container="382881" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt383137' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt383137">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 06:35 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=383137#cmt383137">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=383137&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=383137" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=383137" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=383137" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1496' class='ljcomsel' id='ljcomsel_383137' /> <label for="ljcomsel_383137">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">понятно, если девушки здесь реально нуждаются в исполнителях простых приказов для безопасности.<br /><br />то в первую очередь их надо учить пистолетам, гранатам, автоматам, снайперским винтовкам,<br />квадрокоптерам с привязанной гранатой, растяжкам с гранатой.<br /><br />иначе это бред.<br />умный исполнитель команд по безопасности мгновенно прощелкает,<br />что чем тут меньше безопасности у девушки, тем больше у него секса.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-08-01 06:36 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=383137#cmt383137">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("383137", 1496, "",that)}(this)' href='53665.html@replyto=383137&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt383137" data-quickreply-container="383137" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt383393' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt383393">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 06:41 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=383393#cmt383393">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=383393&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=383393" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=383393" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=383393" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1497' class='ljcomsel' id='ljcomsel_383393' /> <label for="ljcomsel_383393">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">ну да, чистая логика выбора.<br /><br />девушка выбирает мужика.<br />- как фалоимитатор. быть может на основе поведения.<br />- как исполнителя приказов по безопасности.<br />но тут мужик, либо расследует. но это обычно не интересно.<br />либо просто исполняет приказы.<br />но умный мужик прощелкает, <br />что чем тут меньше безопасности у девушки, тем больше у него секса.<br /><br />так что для безопасности автоматы и гранаты.<div class='edittime'><em>Edited <span class="datetime"><span class="comment-date-text"> </span> <span title="">2026-08-01 06:42 (UTC)</span></span></em></div></div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=383393#cmt383393">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("383393", 1497, "",that)}(this)' href='53665.html@replyto=383393&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt383393" data-quickreply-container="383393" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt383649' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt383649">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 07:00 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=383649#cmt383649">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=383649&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=383649" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=383649" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=383649" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1498' class='ljcomsel' id='ljcomsel_383649' /> <label for="ljcomsel_383649">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content"><br /><br />&gt; вместо того, чтобы корячиться и растить 2 своих детей.<br /><br />&gt; выгоднее убить 2 несвоих девушек.<br /><br />кстати, в попэтологии это уже вброшено.<br />шимпанзе убивают в первую очередь самок и детей соседнего племени.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=383649#cmt383649">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("383649", 1498, "",that)}(this)' href='53665.html@replyto=383649&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt383649" data-quickreply-container="383649" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt383905' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt383905">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 07:34 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=383905#cmt383905">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=383905&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=383905" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=383905" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=383905" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1499' class='ljcomsel' id='ljcomsel_383905' /> <label for="ljcomsel_383905">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">но если тут безопасно девушкам,<br />отчего же тут меняется фенотип?</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=383905#cmt383905">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("383905", 1499, "",that)}(this)' href='53665.html@replyto=383905&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt383905" data-quickreply-container="383905" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt384161' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-odd visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt384161">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 07:58 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=384161#cmt384161">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=384161&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=384161" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=384161" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=384161" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1500' class='ljcomsel' id='ljcomsel_384161' /> <label for="ljcomsel_384161">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">в конечном счете можно стать брокером безопасности.<br />вот бизнес.<br />делать людям добро, а себе выгоду.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=384161#cmt384161">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("384161", 1500, "",that)}(this)' href='53665.html@replyto=384161&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt384161" data-quickreply-container="384161" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='comment-thread comment-depth-odd comment-depth-1'>
+<div id='cmt384417' class='dwexpcomment' style='margin-left: 0px; margin-top: 5px;'>
+<div class="comment-wrapper comment-wrapper-even visible    poster-transitional_writes entry-author full no-userpic  no-subject">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="comment" id="comment-cmt384417">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<div class="userpic"></div>
+<div class="comment-info">
+<h4 class="comment-title"><span  class=" invisible" >no subject</span></h4><span class="poster comment-poster"> <span lj:user="transitional_writes" style="white-space: nowrap;" class="ljuser"><a href="profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="index.html"><b>transitional_writes</b></a></span></span>
+<span class="datetime"><span class="comment-date-text"> </span> <span title="1 day after journal entry">2026-08-01 08:06 am (UTC)</span></span><span class="poster-ip"><span class="comment-ip-text"></span> (51.178.141.131)</span><span class="commentpermalink">(<a href="53665.html@thread=384417#cmt384417">link</a>)</span>
+<ul class="comment-management-links icon-links"><li class="link edit_comment first-item"><a href="53665.html@edit=384417&amp;style=site" ><img border='0' width="16" height="16" alt="Edit" title="Edit" src="https://www.dreamwidth.org/img/silk/comments/edit.png"  /></a></li>
+<li class="link delete_comment"><a href="https://www.dreamwidth.org/delcomment?journal=transitional_writes&amp;id=384417" ><img border='0' width="16" height="16" alt="Delete" title="Delete" src="https://www.dreamwidth.org/img/silk/comments/delete.png"  /></a></li>
+<li class="link screen_comment"><a href="https://www.dreamwidth.org/talkscreen?mode=screen&amp;journal=transitional_writes&amp;talkid=384417" ><img border='0' width="16" height="16" alt="Screen" title="Screen" src="https://www.dreamwidth.org/img/silk/comments/screen.png"  /></a></li>
+<li class="link freeze_thread"><a href="https://www.dreamwidth.org/talkscreen?mode=freeze&amp;journal=transitional_writes&amp;talkid=384417" ><img border='0' width="16" height="16" alt="Freeze" title="Freeze" src="https://www.dreamwidth.org/img/silk/comments/freeze.png"  /></a></li>
+</ul><span class="multiform-checkbox"><input type='checkbox' name='selected_1501' class='ljcomsel' id='ljcomsel_384417' /> <label for="ljcomsel_384417">Select</label> </span></div>
+</div>
+</div>
+<div class="contents usercontent">
+<div class="inner">
+<div class="comment-content">в конечном счете безопасность здесь держится и на том,<br />что воры не могут поделить добычу.<br />они играют в игру 10 негритят.<br /><br />если с кем-то играют в кошки мышки, то если он умрет,<br />играть здесь будут с кем-то другим.</div></div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="comment-interaction-links text-links"><li class="link commentpermalink"><a href="53665.html@thread=384417#cmt384417">Thread</a></li>
+<li class="link reply first-item"><a onclick='return function(that) {return quickreply("384417", 1501, "",that)}(this)' href='53665.html@replyto=384417&amp;style=site' >Reply to this</a></li>
+</ul><div  id="ljqrt384417" data-quickreply-container="384417" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+</div></div><div class='bottomcomment'><hr class="below-entry-interaction-links" /><ul class="entry-interaction-links text-links"><li class="entry-readlink first-item"><a href="53665.html@style=site#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">32 comments</a></li>
 <li class="entry-replylink"><a onclick='return function(that) {return quickreply("bottomcomment", 0, "",that)}(this)' href='53665.html@mode=reply&amp;style=site' >Post a new comment</a></li>
 </ul></div><div class='comment-pages bottompages'><span class="view-threaded"><a href="53665.html@style=site#comments">Threaded</a></span> | <span class="view-flat"><a href="53665.html@style=site&amp;view=flat#comments">Flat</a></span></div><div  id="ljqrtbottomcomment" data-quickreply-container="bottomcomment" style="display: none;"></div>
         <label for="multiform_mode" >
@@ -500,14 +1259,14 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
 <div class="columns large-12 small-12"><div id='account-links-userpic'><a href='https://www.dreamwidth.org/manage/icons'><img src="https://www.dreamwidth.org/img/nouserpic.png" width="80" height="80" alt="Manage Icons" title="Manage Icons" border='0' /></a></div>
 <div id='account-links-text' role="navigation" aria-label="Account Links" data-reveal>
 <div class='row'><div class='columns'>    <span class='account-links-active'><span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='index.html'><b>transitional_writes</b></a></span>    </span>
-    <form class='account-links-logout' action='https://www.dreamwidth.org/logout' method='post'><input type='hidden' name="lj_form_auth" value="c0:1785495600:2237:86400:wBzhDXrow8-4255543-24:0af10bbd7921bd8722c1b105b371220a" />        <input type="hidden" name="returnto" value="https://transitional-writes.dreamwidth.org/53665.html?style=site&amp;view=top-only" />
+    <form class='account-links-logout' action='https://www.dreamwidth.org/logout' method='post'><input type='hidden' name="lj_form_auth" value="c0:1785758400:380:86400:5xNTLIwHZ9-4255543-24:cec24de118d69d0d47b03402f7d45dbd" />        <input type="hidden" name="returnto" value="https://transitional-writes.dreamwidth.org/53665.html?style=site&amp;view=top-only" />
         <input type="hidden" name="ret" value="1" />
         <input class="logout button secondary" type="submit" name="logout_one" value="Log out" />
     </form>
 </div></div>
 <div class='row'><div class='small-12 large-12 columns'>
 <ul><li><a href='https://www.dreamwidth.org/update'>Post</a></li><li><a href='read'>Reading Page</a></li>
-<li class="before-break"><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count'>(209)</span></a></li>
+<li class="before-break"><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count'>(211)</span></a></li>
 <li class="after-break"><a href='https://www.dreamwidth.org/manage/settings/'>Account Settings</a></li><li><a href='https://www.dreamwidth.org/support/'>Help/Support</a></li>
 </ul>
 </div></div>
@@ -563,7 +1322,7 @@ var LJ_cmtinfo = {"remote":"transitional_writes","376993":{"parent":null,"rc":[]
                 <li class='subnav'><a href='https://transitional-writes.dreamwidth.org/tag'>Tags</a></li>
                 <li class='subnav'><a href='archive'>Archive</a></li>
                 <li class='subnav'><a href='https://www.dreamwidth.org/comments/recent'>Recent Comments</a></li>
-                <li class='subnav'><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count_Menu'> (209)</span></a></li>
+                <li class='subnav'><a href='https://www.dreamwidth.org/inbox/'>Inbox <span id='Inbox_Unread_Count_Menu'> (211)</span></a></li>
 </ul>
 </li><li id='explore_topnav' class='topnav has-dropdown'><a href='https://www.dreamwidth.org/nav/explore'>Explore</a>
 <ul id='explore_subnav' class='subnav_container dropdown'>

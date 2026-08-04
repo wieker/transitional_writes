@@ -15,7 +15,7 @@
                 if (!Site)
                     Site = {};
 
-                Site = Object.assign(Site, {"statprefix":"https://www.dreamwidth.org/stc","ctx_popup":1,"user_domain":"dreamwidth.org","esn_async":1,"media_embed_enabled":1,"ctx_popup_icons":1,"siteroot":"https://www.dreamwidth.org","cmax_comment":16000,"has_remote":1,"inbox_update_poll":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","ctx_popup_userhead":1,"imgprefix":"https://www.dreamwidth.org/img","currentJournal":"transitional_writes","iconprefix":"https://v2.dreamwidth.org"});
+                Site = Object.assign(Site, {"cmax_comment":16000,"currentJournalBase":"https://transitional-writes.dreamwidth.org","esn_async":1,"siteroot":"https://www.dreamwidth.org","media_embed_enabled":1,"iconprefix":"https://v2.dreamwidth.org","inbox_update_poll":1,"ctx_popup_userhead":1,"currentJournal":"transitional_writes","imgprefix":"https://www.dreamwidth.org/img","ctx_popup_icons":1,"statprefix":"https://www.dreamwidth.org/stc","has_remote":1,"ctx_popup":1,"user_domain":"dreamwidth.org"});
            </script>
         <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/skins/lynx.css?v=1783757041" />
 <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,jquery/jquery.ui.theme.smoothness.css,canary.css?v=1783736173" />
@@ -1259,6 +1259,172 @@
                 <div class="footer">
                     <div class="inner">
                         <a href="07/index.html">View Subjects</a>
+                    </div><!-- footer>inner -->
+                </div><!-- footer -->
+            </div><!-- month>inner -->
+        </div><!-- month -->
+        <div class="separator separator-after"><div class="inner"></div></div>
+    </div><!-- month-wrapper -->
+    
+    <div class="month-wrapper">
+        <div class="separator separator-before"><div class="inner"></div></div>
+        <div class="month">
+            <div class="inner">
+                <div class="header">
+                    <div class="inner">
+                        <h3>August 2026</h3>
+                    </div><!-- header>inner -->
+                </div><!-- header -->
+                <div class="contents">
+                    <div class="inner">
+                        <table summary="Monthly calendar with links to each day's entries" class="month" cellspacing="0" cellpadding="0">
+                            <caption>August 2026</caption>
+                            <thead>
+                                <tr><th>Sun</th>
+<th>Mon</th>
+<th>Tue</th>
+<th>Wed</th>
+<th>Thu</th>
+<th>Fri</th>
+<th>Sat</th>
+
+                                </tr>
+                            </thead>
+                            <tbody><tr><td class="day-empty" colspan="6">&nbsp;</td>
+
+            <td class="day">
+                <span class="label">1</span>
+            </td>
+            </tr><tr>
+            <td class="day day-has-entries">
+                <span class="label">2</span>
+                <p><a href="08/02/index.html">1</a></p>
+            </td>
+            
+            <td class="day">
+                <span class="label">3</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">4</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">5</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">6</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">7</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">8</span>
+            </td>
+            </tr><tr>
+            <td class="day">
+                <span class="label">9</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">10</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">11</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">12</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">13</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">14</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">15</span>
+            </td>
+            </tr><tr>
+            <td class="day">
+                <span class="label">16</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">17</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">18</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">19</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">20</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">21</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">22</span>
+            </td>
+            </tr><tr>
+            <td class="day">
+                <span class="label">23</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">24</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">25</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">26</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">27</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">28</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">29</span>
+            </td>
+            </tr><tr>
+            <td class="day">
+                <span class="label">30</span>
+            </td>
+            
+            <td class="day">
+                <span class="label">31</span>
+            </td>
+            <td class="day-empty" colspan="5">&nbsp;</td>
+</tr>
+                            </tbody>
+                        </table>
+                    </div><!-- contents>inner -->
+                </div><!-- contents -->
+                <div class="footer">
+                    <div class="inner">
+                        <a href="08/index.html">View Subjects</a>
                     </div><!-- footer>inner -->
                 </div><!-- footer -->
             </div><!-- month>inner -->
