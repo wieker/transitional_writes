@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en">
+<head profile="http://www.w3.org/2006/03/hcard http://purl.org/uF/hAtom/0.1/ http://gmpg.org/xfn/11">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="alternate" type="application/rss+xml" title="RSS: all entries" href="https://transitional-writes.dreamwidth.org/data/rss" />
+<link rel="alternate" type="application/atom+xml" title="Atom: all entries" href="https://transitional-writes.dreamwidth.org/data/atom" />
+<link rel="service" type="application/atomsvc+xml" title="AtomAPI service document" href="https://www.dreamwidth.org/interface/atom" />
+<link rel="openid.server" href="https://www.dreamwidth.org/openid/server" />
+<link rel="help" href="https://www.dreamwidth.org/support/faq" />
+<link rel="apple-touch-icon" href="//www.dreamwidth.org/apple-touch-icon.png" />
+<meta property="og:image:width" content="363"/>
+<meta property="og:image:height" content="363"/>
+<link rel="group friends made" title="Dreamwidth friends" href="https://transitional-writes.dreamwidth.org/read" />
+<meta name="robots" content="noindex, nofollow, noarchive" />
+<meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet" />
+
+  <script type='text/javascript'>
+  expanded = 'Collapse';
+  collapsed = 'Expand';
+  collapseAll = 'Collapse All Cut Tags';
+  expandAll = 'Expand All Cut Tags';
+  </script>
+    <link rel="next" href="https://transitional-writes.dreamwidth.org/" />
+<link rel="prev" href="https://transitional-writes.dreamwidth.org/?skip=40" />
+
+            <script type="text/javascript">
+                var Site;
+                if (!Site)
+                    Site = {};
+
+                Site = Object.assign(Site, {"currentJournal":"transitional_writes","statprefix":"https://www.dreamwidth.org/stc","imgprefix":"https://www.dreamwidth.org/img","siteroot":"https://www.dreamwidth.org","has_remote":1,"ctx_popup_userhead":1,"media_embed_enabled":1,"esn_async":1,"inbox_update_poll":1,"user_domain":"dreamwidth.org","ctx_popup_icons":1,"cmax_comment":16000,"ctx_popup":1,"currentJournalBase":"https://transitional-writes.dreamwidth.org","iconprefix":"https://v2.dreamwidth.org"});
+           </script>
+        <link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??lj_base.css,esn.css,jquery/jquery.ui.core.css,jquery/jquery.ui.tooltip.css,jquery.contextualhover.css,css/foundation/foundation_minimal.css?v=1783757040" />
+<link rel="stylesheet" type="text/css" href="https://www.dreamwidth.org/stc/??css/components/quick-reply.css,css/components/icon-select.css,css/components/imageshrink.css,jquery/jquery.ui.theme.smoothness.css,controlstrip.css,controlstrip-dark.css,jquery/jquery.ui.button.css,jquery/jquery.ui.dialog.css,canary.css?v=1783757040" />
+<link rel="stylesheet" href="https://transitional-writes.dreamwidth.org/res/4545987/stylesheet?1765491116" type="text/css" />
+<title>transitional_writes | Recent Entries</title>
+</head><body class="page-recent two-columns column-left any-column multiple-columns two-columns-left  logged-in my-journal not-subscribed has-access  has-navstrip">
+
+<div id='lj_controlstrip'>
+
+<div id='lj_controlstrip_userpic'>
+  <a href='https://www.dreamwidth.org/manage/icons'><img src='//www.dreamwidth.org/palimg/controlstrip/nouserpic.gif/p0699482' alt="Upload Icon" title="Edit Icons" height='43' width='43' /></a>
+</div>
+  <div id='lj_controlstrip_user'>
+    <span lj:user='transitional_writes' style='white-space: nowrap;' class='ljuser'><a href='https://transitional-writes.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/user.png' alt='[personal profile] ' width='17' height='17' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://transitional-writes.dreamwidth.org/'><b>transitional_writes</b></a></span>    <form id='Greeting' class='nopic' action='https://www.dreamwidth.org/logout' method='post'>
+      <div><input type='hidden' name="lj_form_auth" value="c0:1786093200:1811:86400:eo1Jzco1hj-4255543-24:b4ed292417f3292e096d1d707124861c" /><input type='hidden' name="user" value="transitional_writes" /><input type='hidden' name="returnto" value="https://transitional-writes.dreamwidth.org/?skip=20" /><input type='hidden' name="sessid" value="24" /><input type='hidden' name="ret" value="1" />
+        <input type='submit' name="logout_one" value="Log out" id="Logout" class="submit" />      </div>
+    </form><a href='https://www.dreamwidth.org/'>Home</a>&nbsp;&nbsp; <a href='https://www.dreamwidth.org/update'>Post</a>&nbsp;&nbsp;<a href='https://transitional-writes.dreamwidth.org/read'>Reading</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/manage/settings/'>Settings</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/inbox/'>Inbox (215)</a>  </div>
+<div id='lj_controlstrip_actionlinks'>
+  <span id='lj_controlstrip_statustext'>You're viewing your journal</span>
+  <br /><a href='https://www.dreamwidth.org/comments/recent'>View Recent Comments</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/editjournal'>Manage Entries</a>&nbsp;&nbsp;<a href='https://www.dreamwidth.org/manage/circle/invite'>Invite People</a></div>
+
+<div id='lj_controlstrip_search'><div class='appwidget appwidget-search' id='LJWidget_85'>
+<form action='https://www.dreamwidth.org/multisearch' method='post'>
+<input type="text" title="Search" name="q" value="" class="text" size="20" id="search" />
+<select name="type" id="id-type-0" class="select">
+<option value="int" selected='selected'>Interest</option>
+<option value="region">Region</option>
+<option value="nav_and_user">Site and Account</option>
+<option value="faq">FAQ</option>
+<option value="email">Email</option>
+</select>
+<input type='submit' value="Go" class="submit" />
+</form></div><!-- end .appwidget-search -->
+
+  Reload page in style:&nbsp;&nbsp;<a href='https://transitional-writes.dreamwidth.org/?skip=20&amp;style=light'>light</a></div>
+
+</div>
+
+    <div id="canvas">
+        <div class="inner">
+            <div id="header">
+                <div class="inner">
+                    <h1 id="title"><span><a href='https://transitional-writes.dreamwidth.org'>transitional_writes</a></span></h1><h2 id="pagetitle"><span>Recent Entries</span></h2>
+<div class="module-wrapper"><div class="separator separator-before"><div class="inner"></div></div>
+<div class="module-section-header">
+<div class="inner"></div>
+</div><div class="separator separator-after"><div class="inner"></div></div>
+</div>
+                </div><!-- end header>inner -->
+            </div><!-- end header -->
+            <div id="content">
+                <div class="inner">
+    
+                    <div id="primary"><div class="inner">
+                        
+    <div id="entries" class="hfeed">
+        <div class="inner">
+            
+    <div class="navigation topnav">
+        <div class="inner">
+    <ul><li class="page-back"><a href="https://transitional-writes.dreamwidth.org/?skip=40">Previous 20</a></li>
+<li class="page-separator"> | </li><li class="page-forward"><a href="https://transitional-writes.dreamwidth.org/">Next 20</a></li>
+</ul>
+        </div><!-- navigation>inner -->
+    </div><!-- navigation -->
+    <div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-50642">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-50642">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/50642.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/30/">30th</a>, <a href="/2026/">2026</a></span> <span class="time">04:59 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">А так, смысл базовый в том.<br />1. Никто не знает, что происходит за его спиной.<br />А большинство общественных процессов ненаблюдаемо.<br />И самые вероятные - самые простые.<br /><br />2. Только деньги никто не может подделать.<br />Поэтмоу это - база. Без денег экономическое планирование невозможно.<br /><br />3. Подумайте о бекстейдже русско украинских метарт моделей.<br />Во всех смыслах подймайте. Почему они все под УК РФ/Украины и никому до<br />этого нет дела?<br />Насколько это все было безопасно? Сколько они заработали денег?<br />Просто и доступно ли их пофоткать простому смертному?<br /><br />4. Юристы не могут все проверить с точностью естественных наук.<br />Всегда есть ошибки изакладки.<br /><br />5. То же и программисты. Огромное пространство для зловреда везде.<br />И никто не заметит.<br /><br />6. Хлоратно битумный детонатор.<br />-. квадрокоптер с привязанной гранатой.<br /><br />-. Граната - это детонатор + хлоратно-битумный порох + стальная оболочка. Это французская граната Ф1 времен ПМВ.<br /><br />-. Детонатор - этто маленький пистолетик. Хлоратно-битумный порох + пластинка стальная, которая бьет по основному заряду.<br /><br />-. Это эффективнее пистолетика как оружие возмездие. Хотя тут зависит от условий. В ряде случаев пистолет для самообороны<br />носить эффективнее.<br />А еще лучше револьвер.<br /><br />А еще лучше радиоуправляемая граната на<br />nrf52 или nrf2401L<br />кто доебался - оставь сумку и отойди за стенку.<br />там нажми на кнопочку на брелке.<br /><br />Вот они все секреты мироздания.<br /><br />&gt; Немецкая старушка (демократия, законность, порядок) сталкивается с молодым немецким полицейским (мне дали дубинку -- значит, имею право бить).<br /><br />&gt; Немецкий бюргер (благосостояние и прогресс) сталкивается с немецким политиком (нет ничего ценнее в этом мире чем моя власть).<br /><br />Так это же одно и то же.<br />Они все сталкиваются со счетом из налоговой и местным ОМОН, в случае неуплаты.<br /><br />Ну так решения два.<br /><br />1. Хлоратно-битумная граната.<br />2. Платить напрямую в местный ОМОН, чтобы не трогали.<br />Платить налоги напрямую в местный ОМОН.<br /><br />Звучит как план.<br /><br />Ия не понимаю, почему никто "не понимает" заумную часть моих рассуждений.<br />Но это просто естественно-научная методология.<br /><br />Чисто ботаническая аутистская естественно-научная методология.<br />А не хитрожопость или нечто немыслимое.<br /><br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Да, проблема, если местный ОМОН верует в Государство.<br />Ну так объяснять ему естественно-научную методологию надо.<br /><br />По большому счету вся суть конкретных предложений моего блога заключается в том,<br />что если вас не устраивает политика государства,<br />а она всех не устраивает.<br />Платите налоги в местный ОМОН.<br />Ну и запасайте хлоратно-битумные гранаты.<br /><br />Ну и объясняйте местному ОМОНу физику и естественно научную методологию.<br />Что то что происходит за вашей спиной - ненаблюдаемо и может быть любым.<br />Включая любую деятельность государства.<br /><br />А вот деньги в виде золота или биткоина - не испарятся сами собой и не исчезнут.<br /><br />Ну и элементарную биологию тоже можно.<br />Нефиг тут умничать. Все просто. Правопорядок это когда девушки легко, непринужденно<br />соглашаются на метарт за деньги и все это циркулирует. А раз циркулирует - значит<br />соглашаются. И всюду продается открыто оружие.<br />Вот как проверить и наблюдать, что кругом безопасно и ОМОН работает хорошо.<br /><br />Вот что надо объяснить местному ОМОН.<br />И так повсеместно.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=50642" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=50642" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=50642" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=50642" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=50642" lj_newentry_etypeid="1" journal="transitional_writes" lj_journalid="4255543" js_swapname="Untrack This" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&50642&3&4255543:fd724edcc10e1d37e099e8d548a337a4dc930757" lj_arg1="50642" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" class="TrackButton" lj_subid="0" lj_etypeid="3" lj_newentry_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-50642-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/50642.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/50642.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">33 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-50642-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/50642.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-50642-reply" data-quickreply-container="entry-transitional_writes-50642-reply" style="display: none;"></div>
+
+<div id='qrdiv' style="display: none;">
+<div id='qrformdiv'><form id='qrform' name='qrform' method='POST' action='https://www.dreamwidth.org/talkpost_do'><input type='hidden' name="lj_form_auth" value="c0:1786093200:1811:86400:eo1Jzco1hj-4255543-24:b4ed292417f3292e096d1d707124861c" /><input type='hidden' name="replyto" value="" id="replyto" /><input type='hidden' name="parenttalkid" value="" id="parenttalkid" /><input type='hidden' name="journal" value="transitional_writes" id="journal" /><input type='hidden' name="itemid" value="50642" id="itemid" /><input type='hidden' name="usertype" value="cookieuser" id="usertype" /><input type='hidden' name="qr" value="1" id="qr" /><input type='hidden' name="cookieuser" value="transitional_writes" id="cookieuser" /><input type='hidden' name="dtid" value="" id="dtid" /><input type='hidden' name="basepath" value="https://transitional-writes.dreamwidth.org/50642.html?" id="basepath" /><input type='hidden' name="viewing_thread" value="" id="viewing_thread" /><input type='hidden' name="chrp1" value="50642-4255543-1786093200-1038c2G0104wrGQUMmGz-419d670ee20d2810b296a387887e1258" />
+<div class='qr-meta'>
+
+  <input type="button" id="submitmoreopts" name="submitmoreopts" value="More Options" />
+
+
+
+
+
+<div class='block-icon no-label'>
+
+  <a href="https://www.dreamwidth.org/manage/icons" class="no-icon"><img src="https://www.dreamwidth.org/img/nouserpic.png" width="80" height="80" alt="Manage Icons" title="Manage Icons" border='0' /></a>
+
+</div>
+
+
+
+
+</div>
+
+<div class="qr-subject">
+        <label for="subject" class="invisible">
+            Subject
+        </label>
+        <input type="text" id="subject" value="" size="50" placeholder="Subject" class="text" maxlength="100" name="subject" />
+</div>
+
+
+
+<div class="qr-markup">
+  <div class="qr-markup-type">
+        <label for="prop_editor" class="invisible">
+            Formatting type
+        </label>
+        <select id="prop_editor" class="select" name="prop_editor">
+<option value="html_casual1" selected='selected'>Casual HTML</option>
+<option value="markdown0">Markdown</option>
+<option value="html_raw0">Raw HTML</option>
+<option value="rte0">Rich Text Editor</option>
+</select>
+    <a href="https://www.dreamwidth.org/support/faqbrowse?faqid=271" tabindex="-1" target="_blank"><img src="https://www.dreamwidth.org/img/silk/site/help.png" width="16" height="16" alt="More info about formatting" title="More info about formatting" border='0' title="More info about formatting" style="vertical-align: middle;" /></a>
+  </div>
+
+  <div class="qr-markup-controls">
+    <input type="button" id="comment-text-quote" value="Quote" tabindex="-1" class="js-only markup-button" style="display: none;" data-quote-error="To quote a portion of the original message, highlight it and press Quote." />
+  </div>
+</div>
+
+<div class="qr-body">
+        <label for="body" class="invisible">
+            Message
+        </label>
+        <textarea id="body" rows="10" wrap="soft" class="text" name="body" cols="80"></textarea></div>
+
+<div class="qr-footer">  <input type='submit' name="submitpost" value="Post Comment" class="submit" id="submitpost" />
+
+  <input type='submit' name="submitpview" value="Preview" class="submit" id="submitpview" /><input type='hidden' name="submitpreview" value="0" />
+
+  
+    <div class='de'><strong>Notice:</strong> This account is set to log the IP addresses of everyone who comments.</div>
+    
+  </div>
+
+</form></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-50324">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-50324">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/50324.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/27/">27th</a>, <a href="/2026/">2026</a></span> <span class="time">09:33 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">В конечном счете в этом блоге есть реально только 5 тем.<br />Все.<br /><br />1. Естественно-научная методология<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br />априорные вероятность априорных сценариев.<br /><br />2. Вопрос о выводе из нее априорной теоремы Мизеса о<br />социализме и инфляции<br /><a href="https://mises.org/online-book/economic-calculation-socialist-commonwealth">https://mises.org/online-book/economic-calculation-socialist-commonwealth</a><br /><br />3. Вопрос о выводе из априорного распределения<br />вопроса о распределении оружия в обществе.<br /><br />4. Вопрос о судьбе тысяч русских метарт моделей с торрентов.<br />Каков backstage? Какова их судьба?<br />Если девушки хотят денег, почему нет их контактов?<br />Почему мет-арт в УК РФ. Но fashion, который не запрещен,<br />отсутствует на торрентах.<br /><br />5. Наконец, как пофоткать этих метарт моделей?</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=50324" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=50324" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=50324" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=50324" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=50324" lj_newentry_etypeid="1" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&50324&3&4255543:9fe7a142f0d17ffe1a2cf64800a8968df275888e" js_swapname="Untrack This" lj_journalid="4255543" lj_arg1="50324" journal="transitional_writes" lj_etypeid="3" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_subid="0" class="TrackButton" lj_newentry_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-50324-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/50324.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/50324.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">6 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-50324-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/50324.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-50324-reply" data-quickreply-container="entry-transitional_writes-50324-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-49997">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-49997">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/49997.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/27/">27th</a>, <a href="/2026/">2026</a></span> <span class="time">02:04 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Государство и рынок. (черновик)<br /><br />Как следует из<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br />возможно огромное количество интерпретаций поступающей информации.<br />Включая крайне неустойчивые варианты с положительной обратной связью.<br /><br />По иерархии не может циркулировать информация, а попытки передавать информацию<br />приводят к неустойчивости и биениям.<br /><br />Также попытки отдавать приказ приводят к тому, что каждый исполнитель начинает<br />делать что-то свое, причем два исполнителя могут делать ровно противоположное.<br /><br />Если же, человек работает на рынок и ориентируется на денежную прибыль в<br />физически сохранной валюте, то от получает корректную, обеспеченную физическим<br />инвариантом информацию. При этом за счет закона спроса-предложения и своего<br />влияния на распределение денег в системе он передает устойчивую информацию<br />всем остальным игрокам.<br /><br />Только рынок может планировать сложное производство и регулировать разделение<br />труда.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=49997" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=49997" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=49997" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=49997" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=49997" lj_arg1="49997" js_swapname="Untrack This" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&49997&3&4255543:b3627c37a2aca0f4e610d18472675b5ff29efdf2" lj_journalid="4255543" journal="transitional_writes" lj_newentry_etypeid="1" lj_newentry_subid="0" lj_etypeid="3" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_subid="0" class="TrackButton" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-49997-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/49997.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/49997.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">11 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-49997-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/49997.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-49997-reply" data-quickreply-container="entry-transitional_writes-49997-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-49688">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-49688">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/49688.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/26/">26th</a>, <a href="/2026/">2026</a></span> <span class="time">07:46 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Письмо всем.<br />От программиста.<br />О пользе естественно-научной методологии.<br /><br />Зачем нужно знать естественно-научную методологию железнодорожнику и танцовщице<br />и как все вот это<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><a href="https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html">https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html</a><br />, что понятно любому ученому-физику, можно объяснить по простому,<br />без зауми?<br /><br />Есть так называемое априорное распределение.<br />Это все возможные сценарии жизни, включая порнографические.<br />В них может происходить все что угодно. В них может происходить<br />какое угодно зло. Этих сценариев бесконечно много, это так называемое<br />неразрешимое множество. Его можно бесконечно печатать.<br /><br />Во всех этих сценариях есть backstage, то что ты не видишь, но видят другие.<br />Людей 8 000 000 000, ты видишь лишь 1/8 000 000 000 часть общей картины,<br />7 999 999 999 что-то делают и о чем-то договариваются за твоей спиной.<br /><br />Чем проще сценарий, тем он вероятнее. Итоговые вероятности всех сценариев<br />задают априорное распределение вероятности финалов жизни всех людей.<br /><br />Какие априорные сценарии с точки зрения общения людей,<br />а не физика-аутиста, важнейшие?<br /><br />1. Априорная экономика.<br />Инфляция 90-ых, ее причины.<br />Возможно ли существование сложной экономики без рынка и<br />рыночных цен?<br />Каковы априорные вероятности этих явлений?<br /><br />Давайте рассмотрим эти вопросы на примере теоремы о невозможности экономического<br />расчета при социализме.<br /><br />Предположим у нас есть рабочий, который много работает,<br />вкладывается в свое образование, покупает инстумент и оборудование за<br />свой счет.<br />И хочет получать достойную оплату.<br /><br />Или есть стройная гибкая танцовщица. Она много занимается,<br />вкладывает в своей тело, делает опасные для здоровья косметические операции.<br />Как ей правильно монетизировать свою красоту?<br /><br /><img src="https://transitional-writes.dreamwidth.org/file/3123.jpg" alt="" title="" /><br /><br />Сразу дам ответ - ей надо брать за выступления деньги.<br />Твердые деньги в физически сохранной валюте.<br />Это сейчас золото.<br />Спрашивать по максимому.<br /><br />Почему она не может рассчитывать на благосклонный бекстейдж,<br />т.е. Госплан? Если отвечать по простому,<br />заодно объясняя на пальцах,<br />что такое теория индуктивного вывода Соломонова<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />1. есть бабки, которые считают, что девушки с юбкой длиннее 30 см никогда не найдут себе мужа<br />2. есть бабки, которые считают, что девушки с юбкой короче 40 см - проститутки.<br /><br />теория индуктивного вывода Соломонова и говорит, по простому.<br />что бабок из пункта 1 и 2 поровну, везде, во все времена.<br />Только типов бабок бесконечно много и каждая уникальная по своему.<br />Но результат тот же.<br /><br />Поэтому танцовщица, которая не берет денег за выступления будет получать в<br />среднем лишь злобновато-неопределенное отношение из-за настроений бабок за ее спиной.<br /><br />Так как возможны любые сценарии порнофильмов и лишь за счет тех, где она берет деньги<br />на камеру она остается с деньгами.<br /><br />Ведь всегда возможна хозяйка квартиры, которая увидив компрометирующий материал в вещах<br />красотки увеличит квартплату, решив что здесь следует ввести налог на красоту.<br />Или руководитель рабочего, который увеличит норму выработки тому, кто много работает.<br /><br />2. Априорная безопасность.<br /><br />Программисты хорошо знают индуктивную логику.<br />Они могут ознакомиться с ней на примере этого:<br /><a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br /><br />1. Программа должна быть покрыта тестами на 100%<br />2. И быть минимальной программой, проходящей эти тесты.<br /><br />Иначе она содержит дефекты и непреднамеренную функциональность,<br />закладки, уязвимости.<br />Программисты знают, что можно в три коммита добавить практически любую<br />закладку, при этом совершенно оставаясь в тени или подставив другого человека.<br />Программисты знают, что все программы крайне плохо покрыты тестами,<br />т.е. уликами и доказательствами корректности и некорректности ее работы.<br />А кодовая база чрезвычайно раздута и содержит многочисленные закладки и<br />проблемы в безопасности.<br /><br />Но в разработке ПО, если это не специалисты по безопасности, всегда<br />есть злой заказчик, который в случае пробелм может прекратить платить<br />деньги.<br /><br />Юридические раасследования базируются на той же индуктивной логике.<br />Нужны улики (тесты, доказательства). Но их гораздо меньше,<br />чем тестов у программистов. Гипотезы для доказательства в расследованиях<br />очень сложные и расплывчатые. Их можно повернуть практически в любом направлении.<br /><br />Мелкий жесткий криминалитет знает, что его практически невозможно вычислить.<br />И что если он купит пистолет и подделает корочки полицейского, то может<br />быть совершенно не отличм от настоящего полицейского.<br />Кроме того никто не откажется от услуг безопасности настоящего полицейского.<br /><br />В этом отличие мелкого жесткого криминалитета от программистов.<br /><br />В каких сценариях тацовщица и рабочий, которые много работают, не будут<br />отдавать всю зарплату мелкому жесткому криминалитету?<br />Только если они вооружены, а вокруг полно магазинов с оружием.<br /><br />3. Вопрос биополитики.<br /><br />В УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br />что это нам говорит о влиянии УК РФ на апостериорный<br />результат? Что это нам говорит, о том как это все работает?<br />Почему при этом не найти контакты этих метарт моделей?<br />Они вообще еще живы?<br />Им бы было выгодно, если бы их могли пофотографировать<br />более широкие слои населения, они потенциально теряют<br />деньги. Большие деньги. Твои деньги.<br />Насколько все это безопасно?<br /><br />Россия богата. Но из России пылесосит девушек в<br />разные страны, ЮВА, США, ОАЭ, Европу, где они работают<br />за мелкий прайс. Зачем отсюда уезжать, если здесь безопасно?<br /><br />Они бы могли рожать детей в конце концов.<br />В конце концов вопрос оплаты за красоту и труд танцовщицы<br />и ее жизнь, здоровье и безопасность<br />полностью эквивалентен вопросу оплаты за силу, умения и труд<br />рабочих и инженеров, как и вопрос их жизни здоровья и безопасности.<br /><br />Многие наивные добрые и красивые девушки, которые не знают, что<br />любой криминалитет может подделать любые корочки полицейского и<br />раздобыть пистолет, иначе это не криминалитет, верят в добрых разведчиков.<br /><br />И идут выполнять задания в структуры сетевого криминалитета за границу<br />бесплатно. Идут работать танцовщицами бесплатно.<br />Ну разве что подкинут ей еще и рабочего, чтобы совсем не оголодала<br />бедняжка.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=49688" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=49688" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=49688" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=49688" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=49688" lj_newentry_subid="0" lj_subid="0" lj_etypeid="3" journal="transitional_writes" lj_arg1="49688" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&49688&3&4255543:57d09c363ca33d385b0167b86bcc513ce9a69cce" lj_journalid="4255543" class="TrackButton" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" js_swapname="Untrack This" lj_newentry_etypeid="1" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-49688-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/49688.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/49688.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">4 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-49688-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/49688.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-49688-reply" data-quickreply-container="entry-transitional_writes-49688-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-49642">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-49642">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/49642.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/25/">25th</a>, <a href="/2026/">2026</a></span> <span class="time">03:35 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Ну, кстати, да.<br />чувак я странноват, но интересно<br />можно ли как-то спросить, почему я не популярен у девушек?<br /><br />причем не в формате ответа, сходи в качалку, проблемы отпадут.<br />хотя это тоже ответ.<br /><br />а вот реально по сценариям.<br /><br />1. чисто внешность и физическая сила.<br />я слабый и убогий.<br /><br />2. определенные сценарии популярности популярной этологии.<br />люди следующие этой схеме в итоге рано или поздно находят<br />девушку. ну и всем говорят, что те кто по другому себя<br />ведет - омежки. девушки это слышат и понимают, кто им тут нравится<br /><br />ну то есть я - омежка<br /><br />3. мелкий криминалитет. жесткий мелкий криминалитет.<br />отчасти изоморфен пункту 2, но в остальном просто черный бог<br />по сравнению с пунктом 2. и к девушкам может относиться лучше.<br />по тем или иным причинам. но понимает, что изнасилования тут<br />не расследуют. и если он оденет форму полицейского, ему открыты все двери.<br />СБП Путина - это тоже мелкий криминалитет. они походу даже не вооружены.<br />они просто всюду проникают.<br /><br />ну то есть я - лох<br /><br />4. более сложный сетевой криминалитет.<br />включая официальные службы вроде СВР?<br />есть ли между ними разница, включая жесткую эксплуатацию женщин?<br />я расписывал многие сценарии с Таней.<br /><br />ну то есть многие работают на спецслужбы.<br />а я не из спецслужб<br /><br />интересно, сколько из женщин, которые меня видели выберут какой вариант?<br /><br />особенно, если по честному.<br /><br />и интересно, выбрают ли здесь по другим критериям?</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=49642" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=49642" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=49642" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=49642" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=49642" lj_etypeid="3" class="TrackButton" lj_subid="0" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_newentry_subid="0" lj_newentry_etypeid="1" lj_arg1="49642" lj_journalid="4255543" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&49642&3&4255543:3e4c3b180b0bd8a3348c85b672df85158910ca8a" js_swapname="Untrack This" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-49642-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/49642.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/49642.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">16 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-49642-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/49642.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-49642-reply" data-quickreply-container="entry-transitional_writes-49642-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-49245">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-49245">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/49245.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/25/">25th</a>, <a href="/2026/">2026</a></span> <span class="time">07:40 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Ну и тут возможны следующие сценарии.<br /><br />Что? Естественно-научная методология?<br />Это для топовых физиков и математиков. Я то здесь при чем?<br /><br />Что? Это блатная этика? Это дно.<br />Я то здесь при чем.<br /><br />В том то и суть.<br />Что все топы это знают, поэтому они и топы.<br /><br />Те кто оказываются на дне, вынуждены шевелить мозгами и<br />тоже это открывают. В своей форме.<br /><br />Зачем это нужно знать тем, кто посерединке?<br /><br />Ну во-первых все топы используют вас, а сами вы<br />скребетесь о дно и кто-то всегда сваливается.<br />Лучше быть готовым к худшим сценариям,<br />чем просто верить, что с вами не может случиться<br />что-то плохое.<br /><br />Кроме того, это позволяет точно вычислить, что<br />в этом мире инвариантно. При любом сценарии является<br />априорным добром.<br /><br />И топы и дно любят оружие.<br />Топы не отказываются от ядерки и главного артиллерийского управления.<br />Это ядро государства.<br /><br />Дно не отказывается от физической силы, заточек и нелегального<br />оружия. Это база.<br /><br />Топы не отказываются от денег.<br />ЦБ, хранилища золота. Они выбирают деньги.<br /><br />Дно часто отказывается от денег.<br />Может быть поэтому они и на дне?<br /><br />Те, кто в этом казино выбирают оружие и деньги, те прут вверх.<br />Ну или остаются при своих.<br /><br />Но есть еще определенные инварианты, которые можно причислить<br />к априорному добру.<br />Это фотографии девушек, которые тут жили и их контакты.<br />Иначе это значит, что здесь невозможно продолжить свой род.<br /><br />При этом ресурсов здесь хватает на всех.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=49245" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=49245" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=49245" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=49245" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=49245" lj_journalid="4255543" lj_arg1="49245" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&49245&3&4255543:e01173c1b9342a2cd5553b409484b36ae8ca6e45" journal="transitional_writes" lj_etypeid="3" lj_subid="0" lj_newentry_subid="0" lj_newentry_etypeid="1" js_swapname="Untrack This" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" class="TrackButton" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-49245-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/49245.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/49245.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">16 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-49245-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/49245.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-49245-reply" data-quickreply-container="entry-transitional_writes-49245-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-49028">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-49028">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/49028.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/25/">25th</a>, <a href="/2026/">2026</a></span> <span class="time">05:59 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Короче я начинаю понимать всю систему<br /><br />1. Ну если кто еще не понял про радиоуправление,<br />оно технически возможно. Сверхдлинные волны проникают<br />сквозь тонкий слой электролита.<br /><br />2. Их прием передача возможны на короткие антенны<br /><br />3. Массивы таких антенн с beamforming доступны<br />военным 70 лет.<br /><br />4. Современные техпроцессы позволяют делать<br />такие массивы с возможностью сканирования миллиардов нейронов.<br />100 GGz АЦП, тысячи и миллионы корреляторов на одном кристалле,<br />множество параллельных кристаллов.<br /><br />По поводу инфляции.<br />ЦРУ прекрасно знали про эту теоремку (это чисто моя догадка,<br />а может загрузка из РУ. я сам не из ЦРУ).<br /><br />И весь software development это чисто лотерея на поездку в США.<br />Выполняет две функции.<br />1. Вымывает отсюда мозги. Эти люди заняты и не думают об индуктивной логике.<br />2. Дает шанс умным людям проникнуть в США на благо США.<br />3. Они прекрасно знают, что здесь все на птичьих правах. Все.<br /><br />Ну, прикрою свою жопу, понятное дело, что человек существо недоброе,<br />даже злое, но если тут я просто объективно барахтаюсь в этом,<br />пытаясь разобраться, то ко мне вопросов в целом нет.<br />Проблема была, есть и ты ее нашел.<br />Что других предупредил - ну тоже естественно, тут тоже может быть<br />есть два типа бабок, но в конечном счете другие сами могут решить,<br />что с этим делать. Тут оставаться, пытаться что-то менять,<br />рвануть в США. Все ж таки сообщить о проблеме - это задача<br />тестировщика. Иначе как тут все работает?<br /><br />Даже любопытно, что точно значат мои листочки и что точно делают люди<br />их получив.<br />И странно, чем отличается Mercury Development от Magenta Technologies.<br /><br />Это последняя лотерея в США?<br />Или это последний шанс для России?<br /><br />Впрочем, может повременить с раздачей?<br />Сейчас все счастливы и априорное зло не очень цепляет.<br />В условиях кризиса все увидят только зло и априорное добро<br />покажется такой лакомой штучкой...<br /><br />Я даже не представляю, как правильно это все делать...<br /><br />У меня не биполярочка, а 4-полярочка на эту тему.<br /><br />1. Ну вообще, раз в России просто нет образования на эту тему,<br />надо в России это все вводить и объяснять.<br />2. С другой стороны раз уж тут все друг друга топят и это все<br />воспринимают как нормальное, то значит поведение США<br />тоже в это укладывается, а раз там типа перспективнее условия<br />для продуктивной деятельности, то и нужно езжать туда.<br />3. С третьей стороны надо хотя бы тем, кто может это понять<br />это все объяснять.<br />4. С четвертой стороны, надо и о себе думать.<br />И вообще думать, что тут происходит.<br /><br />Ладно, учитывая, что меня похоже сами американцы и скинули<br />с корабля продолжу. А тут пускай люди решают, что с этим делать.<br /><br />Ммммм. Даже понятно. То я спамил на ЛОРе этим.<br />Потом в gamesys это все принялся объяснять русскоязычной<br />диаспоре Эстонии. Понятно.<br /><br />Короче, остальне все либо знают либо не знают.<br />А я разобрался чисто сам.<br /><br />Но, остальные нижки не читают, их не понимают или говорят<br />только в узких кругах об этих вещах? Или вообще никому?<br /><br />Почему не спамить это толковым студентам, способным понять,<br />что происходит?<br /><br />А, ну понятно, как работает РУ.<br />Оно свитчит и я начинаю считать некоторые априорные сценарии<br />реальными. Включает ту или иную веру.<br />Люди, которые знают эту теорему могут включать ту или иную<br />веру.<br /><br />Чет американцы какую-то лажу включили.<br />Включая для самих американцев.<br /><br />Впрочем, тут всюду такие потоки бушуют.<br />Надо во всем тщательно разбираться.<br />Видимо реально подражание животным до сих<br />пор осталось и это надо постепенно тормозить.<br />Объяснять и распространять эти материалы.<br /><br />Офигеть как это работает.<br />Это всего лишь сценарий.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=49028" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=49028" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=49028" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=49028" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=49028" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" class="TrackButton" js_swapname="Untrack This" lj_newentry_etypeid="1" lj_newentry_subid="0" lj_subid="0" lj_etypeid="3" journal="transitional_writes" lj_journalid="4255543" lj_arg1="49028" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&49028&3&4255543:fc910068dbfdabc08d1d16daeb1f10f5d9705c04" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-49028-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/49028.html">Link</a></li>
+<li class="entry-readlink" style="display:none"><a href="https://transitional-writes.dreamwidth.org/49028.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">0 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-49028-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/49028.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-49028-reply" data-quickreply-container="entry-transitional_writes-49028-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-48753">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-48753">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/48753.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/24/">24th</a>, <a href="/2026/">2026</a></span> <span class="time">12:20 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Письмо всем.<br />От программиста.<br />О пользе естественно-научной методологии.<br /><br />Зачем нужно знать естественно-научную методологию железнодорожнику и танцовщице<br />и как все вот это<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><a href="https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html">https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html</a><br />, что понятно любому ученому-физику, можно объяснить по простому,<br />без зауми?<br /><br />Есть так называемое априорное распределение.<br />Это все возможные сценарии жизни, включая порнографические.<br />В них может происходить все что угодно. В них может происходить<br />какое угодно зло. Этих сценариев бесконечно много, это так называемое<br />неразрешимое множество. Его можно бесконечно печатать.<br /><br />Во всех этих сценариях есть backstage, то что ты не видишь, но видят другие.<br />Людей 8 000 000 000, ты видишь лишь 1/8 000 000 000 часть общей картины,<br />7 999 999 999 что-то делают и о чем-то договариваются за твоей спиной.<br /><br />Чем проще сценарий, тем он вероятнее. Итоговые вероятности всех сценариев<br />задают априорное распределение вероятности финалов жизни всех людей.<br /><br />Какие априорные сценарии с точки зрения общения людей,<br />а не физика-аутиста, важнейшие?<br /><br />1. Априорная экономика.<br />Инфляция 90-ых, ее причины.<br />Возможно ли существование сложной экономики без рынка и<br />рыночных цен?<br />Каковы априорные вероятности этих явлений?<br /><br />2. Априорная эротика и биология.<br />Это чуть ли не важнейшая вещь.<br />Но значительное количество сценариев, особенно негативных,<br />будут околопорнографическими или порнографическими.<br />Что плохого в этой картинке (я - фотограф, а модель давно не выходит на связь,<br />хотя я пытаюсь связаться)?<br /><img src="https://transitional-writes.dreamwidth.org/file/3123.jpg" alt="" title="" /><br />1. Картинка как минимум просто привлекательная, так как на ней красивая девушка.<br />2. Эта картинка позволит сохранить память о тех, кто здесь жил. Какие девушки здесь были.<br />Для истории.<br />3. В конечном счете девушка на фотографии могла быть в затруднительном материальном<br />положении и несколько облегчить его на фотосессии.<br />Что в этом плохого?<br />Но ведь понятно, что данная фотография может вызвать негативные сценарии и<br />для девушки на картинке и для фотографа.<br />Почему? Нормально ли это? И каковы эти сценарии? <br />Их надо выписать.<br /><br />В конечном счете это вопрос биополитики.<br />Если за вашей спиной тысячи девушек попадают в негативные сценарии,<br />то что-то нужно делать, чтобы от них сохранились хотя бы картинки их<br />красоты.<br />В России есть статья УК РФ за met-art.<br />На торрентах тысячи русских метарт моделей, но нет их контактов,<br />также нет и fashion моделей. Что это нам говорит об апостериорном<br />результате действия УК РФ? Что массово снимают именно то, что запрещено.<br />А ведь девушки бы очень хотели подзаработать денег на фотографии. <br />И будь их контакты, нашлись бы желающие их пофотографировать.<br />Их фотографии уже в сети.<br />И совершенно не ясна их дальнейшая судьба. Живы ли они?<br /><br />3. Априорная безопасность.<br />Здесь отчасти проще, так как есть очень простой сценарий,<br />который можно обсуждать.<br />Почему у населения нет арсеналов личного вооружения?<br />Ведь это единственный способ обеспечить свою безопасность?<br /><br />Как минимум это все можно обсуждать.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=48753" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=48753" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=48753" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=48753" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=48753" lj_newentry_subid="0" class="TrackButton" lj_subid="0" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_etypeid="3" journal="transitional_writes" js_swapname="Untrack This" lj_arg1="48753" lj_journalid="4255543" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&48753&3&4255543:e43e11330fc446927386cb5b21ae9c26c9ff286d" lj_newentry_etypeid="1" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-48753-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/48753.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/48753.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">18 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-48753-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/48753.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-48753-reply" data-quickreply-container="entry-transitional_writes-48753-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-48514">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-48514">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/48514.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/23/">23rd</a>, <a href="/2026/">2026</a></span> <span class="time">04:14 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Занятно, что кому-то что-то очень мешает влючить в систему образования такую простую вещь<br />Как<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />И попытаться вывести из нее сценарии, начиная с простых, и<br />оценить априорные вероятности осуществимости государственного планирования<br />экономики без использования рыночных цен и априорные уровни безопасности<br />без вооруженного населения.<br /><br />Да, не без зацепок из литературы, но когда я нашел и обнаружил этот вопрос,<br />то в ответ получил только игнор, а затем у меня начались проблемы.<br /><br />Неужели вопрос, как же так, как вас обобрали в 90-ые совершенно не волнует<br />людей? И совершенно не волнует собственная безопасность в мире, где возможны<br />90-ые?</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=48514" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=48514" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=48514" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=48514" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=48514" lj_subid="0" lj_etypeid="3" lj_newentry_subid="0" journal="transitional_writes" lj_arg1="48514" lj_journalid="4255543" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&48514&3&4255543:c23506747df3c2526bc67dff4df7705d3569907d" class="TrackButton" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_newentry_etypeid="1" js_swapname="Untrack This" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-48514-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/48514.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/48514.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">29 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-48514-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/48514.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-48514-reply" data-quickreply-container="entry-transitional_writes-48514-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-48183">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-48183">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/48183.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/23/">23rd</a>, <a href="/2026/">2026</a></span> <span class="time">09:17 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Письмо железнодорожнику и танцовщице.<br />От программиста.<br />О пользе естественно-научной методологии.<br /><br />Зачем нужно знать естественно-научную методологию железнодорожнику и танцовщице<br />и как все вот это<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><a href="https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html">https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html</a><br />, что понятно любому ученому-физику, можно объяснить по простому,<br />без зауми?<br /><br />Есть так называемое априорное распределение.<br />Это все возможные сценарии жизни, включая порнографические.<br />В них может происходить все что угодно. В них может происходить<br />какое угодно зло. Этих сценариев бесконечно много, это так называемое<br />неразрешимое множество.<br /><br />Во всех этих сценариях есть backstage, то что ты не видишь, но видят другие.<br />Людей 8 000 000 000, ты видишь лишь 1/8 000 000 000 часть общей картины,<br />7 999 999 999 что-то делают и о чем-то договариваются за твоей спиной.<br /><br />Чем проще сценарий, тем он вероятнее. Итоговые вероятности всех сценариев<br />задают априорное распределение вероятности финалов жизни всех людей.<br /><br />Давайте посмотрим жизненные сценарии рабочего, инженера, танцовщицы.<br /><br />Если есть некоторая девушка с привлекательной внешностью,<br />она много занимается эротическими танцами, тратится на косметические <br />процедуры.<br />Или некоторый инженер или рабочий, который много учится,<br />решает задачи, берется за трудные задания,<br />много работает, покупает инструмент для экспериментов<br />за свой счет и тд и тп.<br />Или колхозник. Т.е. фермер. Как это сейчас называется в<br />России?<br /><br />То как им заработать деньги и сохранить их?<br />В каких сценариях это происходит?<br /><br />Ситуации полностью симметричны для рабочего, инженера и танцовщицы.<br />Заработать и сохранить деньги можно только в следующих<br />сценариях:<br /><br />1. За свою работу всегда следует просить по максимуму.<br />И брать только в твердо обеспеченных деньгах.<br />Золото. Может быть Bitcoin. (на самом деле уже нет, но тут есть варианты).<br />2. Должно быть доступно личное огнестрельное оружие.<br />Арсеналы личного огнестрельного оружия.<br />3. Танцовщица эротических танцев находится точно в таком же положении как и<br />рабочий железнодорожник. Она много работает и хочет денег и безопасности.<br />Но и к ней это тоже относится, как и к железнодорожнику.<br /><br />Это все формальный вывод из естественно-научной методологии,<br />если просчитать и взвесить вероятности всех вариантов.<br /><br />Если одно из этих правил не соблюдается, то вылезает наиболее<br />простой и доступный сценарий: люди начинают вести себя как<br />животные.<br /><br />Если нужны доказательства эмпирические, апостериорные,<br />то вспомни<br />В УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br />что это нам говорит о влиянии УК РФ на апостериорный<br />результат? Что это нам говорит, о том как это все работает?<br />Почему при этом не найти контакты этих метарт моделей?<br />Они вообще еще живы?<br />Им бы было выгодно, если бы их могли пофотографировать<br />более широкие слои населения, они потенциально теряют<br />деньги. Большие деньги. Твои деньги. <br />Насколько все это безопасно?<br /><br />Россия богата. Но из России пылесосит девушек в<br />разные страны, ЮВА, США, ОАЭ, Европу, где они работают<br />за мелкий прайс. Зачем отсюда уезжать, если здесь безопасно?<br /><br />Они бы могли рожать детей в конце концов.<br />В конце концов вопрос оплаты за красоту и труд танцовщицы<br />и ее жизнь, здоровье и безопасность<br />полностью эквивалентен вопросу оплаты за силу, умения и труд<br />рабочих и инженеров, как и вопрос их жизни здоровья и безопасности.<br /><br />Многие рабочие крепче танцовщиц.<br />Но ничто не сравнится с огнестрельным оружием.<br />И даже студентка может справиться с пистолетом лучше любого мужика.<br /><br />Вспомните инфляцию 90-ых.<br />Это то же самое. Когда кормят фантиками.<br /><br />Вот вам примеры.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=48183" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=48183" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=48183" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=48183" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=48183" lj_newentry_etypeid="1" js_swapname="Untrack This" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&48183&3&4255543:0939b4d5b404a5af67aa08244f3f7a5b85504129" lj_journalid="4255543" lj_arg1="48183" journal="transitional_writes" lj_etypeid="3" lj_subid="0" class="TrackButton" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_newentry_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-48183-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/48183.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/48183.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">31 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-48183-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/48183.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-48183-reply" data-quickreply-container="entry-transitional_writes-48183-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-47906">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-47906">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/47906.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/23/">23rd</a>, <a href="/2026/">2026</a></span> <span class="time">06:36 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Так, ну ряд базовых сценариев для приорной эротики и<br />априорной экономики.<br /><br />Если есть некоторая девушка с привлекательной внешностью,<br />она много занимается танцами, тратится на косметические процедуры.<br />Или некоторый инженер, который много учится, решает задачи,<br />много работает, покупает инструмент для экспериментов<br />за свой счет и тд и тп.<br /><br />И они хотят монетизировать свои достоинства.<br />А все сценарии будут симметричны.<br /><br />Как это правильно делать?<br /><br />Впрочем, можно сразу к выводам.<br />Этим людям нужно оружие.<br />Вот с чего надо начинать.<br /><br />Думать только об личном оружии.<br />Арсеналах личного оружия.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=47906" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=47906" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=47906" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=47906" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=47906" lj_etypeid="3" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" class="TrackButton" lj_subid="0" lj_newentry_subid="0" lj_newentry_etypeid="1" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&47906&3&4255543:c8fe62a6d7497fa92c51254a22d0d9c9e2e34cdb" lj_journalid="4255543" lj_arg1="47906" js_swapname="Untrack This" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-47906-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/47906.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/47906.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">28 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-47906-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/47906.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-47906-reply" data-quickreply-container="entry-transitional_writes-47906-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-47865">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-47865">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="Априорное зло и что оно сделает с тобой" href="https://transitional-writes.dreamwidth.org/47865.html">Априорное зло и что оно сделает с тобой</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/23/">23rd</a>, <a href="/2026/">2026</a></span> <span class="time">05:38 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Я обращаюсь в первую очередь к инженерам и программистам (и в первую очередь к <br />специалистам по информационной безопасности) так как рассчитываю, что даже псих, произнеся слова<br />1. естественно-научная методология<br />2. простейшие теоремы из нее<br />3. <a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br />4. ADATE: <a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br />Зацепит этих людей.<br /><br />А они, воспринимаясь более серьезно, зацепят по цепочке всех остальных.<br />В крайнем случае любой человек, который увидит эти записи может подойти к<br />знакомому программисту, инженеру, специалисту по ИБ и спросить - а это все так или нет?<br /><br />Как объяснить применение<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br />в жизни и к гуманитарным наукам?<br />Что такое априорное распределение?<br /><br />Это все сценарии фильмов. Включая порнографические.<br />Этих сценариев бесконечно много самых разных. По научному<br />это называется невычислимость априорного распределения.<br />Оно перечислимо, но ты не можешь вычислить точный сценарий,<br />всегда остается неопределенность.<br /><br />Всегда существует обширный backstage. То что ты не видишь,<br />то что за кадром. Людей 8 миллиардов и ты всегда видишь<br />лишь 1/8 000 000 000 часть этого фильма. Но<br />7 999 999 999 людей всегда что-то делают у тебя<br />за спиной.<br /><br />Чем проще сценарий, тем он вероятнее. Априорная вероятность<br />тех или иных событий - это доля тех или иных сценариев,<br />где они происходят.<br /><br />Какие вопросы, важные или для общества или для собственной<br />жизни можно вывести из априорного распределения?<br /><br />1. Вопрос о социализме, инфляции.<br />Стоит ли бороться с рынком?<br />Какие могут быть априорные сценарии?<br />Это вопрос об априорной экономике.<br />Каковы сценарии планирования гвоздя для госплана?<br /><br />2. Вопрос об априорной эротике.<br />В УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br />что это нам говорит о влиянии УК РФ на апостериорный<br />результат? Что это нам говорит, о том как это все работает?<br />Почему при этом не найти контакты этих метарт моделей?<br />Им бы было выгодно, если бы их могли пофотографировать<br />более широкие слои населения, они потенциально теряют<br />деньги. Насколько все это безопасно?<br /><br />Россия богата. Но из России пылесосит девушек в<br />разные страны, ЮВА, США, ОАЭ, Европу, где они работают<br />за мелкий прайс. Зачем отсюда уезжать, если здесь безопасно?<br /><br />В конечном счете, это очень важный граничный сценарий.<br />Если есть какая-то девушка в очень затруднительном материальном<br />положении, как ей правильно его облегчить?<br />Девушка получит деньги и не потеряет в безопасности.<br />Каковы корректные сценарии?<br /><br />3. Вопрос об оружии и безопасности.<br />Выглядит так, что при любом сценарии лучше быть<br />вооруженным, чем безоружным. Но почему оружие не распространено в России?<br />Да и всем остальном мире.<br />Только в США есть развитая оружейная культура.<br />И 5 стволов на душу населения.<br /><br />Это вводная.<br /><br />Дальнейшие записи - черновики сценариев, того что может<br />происходить, происходило или происходит.<br /><br />Но есть и определенные инварианты, которые не зависят от обстоятельств<br />времени и места. Это многократно проверяемые законы физики, в<br />частности законы сохранения. Это то, на что всегда можно поожиться и<br />считать общей базой для всех людей, включая общение всех людей.<br /><br />Это то, что одинаково во всех сценариях.<br /><br />Так, ну ряд базовых сценариев для приорной эротики и<br />априорной экономики.<br /><br />Если есть некоторая девушка с привлекательной внешностью,<br />она много занимается танцами, тратится на косметические процедуры.<br />Или некоторый инженер или рабочий, который много учится, <br />решает задачи, берется за трудные заданияб<br />много работает, покупает инструмент для экспериментов<br />за свой счет и тд и тп.<br /><br />И они хотят монетизировать свои достоинства.<br />А все сценарии будут симметричны между этими людьми.<br />Можешь как синонимы заменять этих двух людей.<br /><br />Как это правильно делать?<br /><br />Впрочем, можно сразу к выводам. Этим людям нужно оружие. Вот с чего надо начинать.<br /><br />Думать только об личном оружии. Арсеналах личного оружия.<br /><br />Потому что тех, кто работает здесь ждет только дно и смерть.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=47865" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=47865" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=47865" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=47865" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=47865" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" class="TrackButton" lj_newentry_etypeid="1" js_swapname="Untrack This" lj_etypeid="3" lj_subid="0" lj_newentry_subid="0" lj_journalid="4255543" lj_arg1="47865" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&47865&3&4255543:0ac53001b8ff45881b6ec581938595063a1b5a87" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-47865-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/47865.html">Link</a></li>
+<li class="entry-readlink" style="display:none"><a href="https://transitional-writes.dreamwidth.org/47865.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">0 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-47865-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/47865.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-47865-reply" data-quickreply-container="entry-transitional_writes-47865-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-47614">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-47614">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/47614.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/22/">22nd</a>, <a href="/2026/">2026</a></span> <span class="time">02:30 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">О наглосаксах и жЫдах.<br /><br />Я понял, что случилось.<br /><br /><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D1%8F_%D1%85%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9">Вели́кая ха́ртия во́льностей (лат. Magna Carta, также Magna Charta Libertatum) — политико-правовой документ, составленный в июне 1215 года на основе требований английской знати к королю Иоанну Безземельному</a><br /><br /><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B5%D0%B2%D1%80%D0%B5%D0%B5%D0%B2_%D0%B8%D0%B7_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B8">В 1218 году Англия стала первой страной, где от евреев потребовали носить отличительный знак.</a><br /><br />Бляяяяяя<br /><br />Короче, по простому.<br />Вот спросил наглосакс жЫда - а почему вы в Англии держите всю торговлю,<br />а мы разоряемся?<br />В чем секрет.<br /><br />жЫд ему отвечает.<br /><br />Секрета нет.<br /><br />1. Что бы не говорил человек - не верь.<br />Ну, если только он тебя физике не обучает.<br />Всегда будь за свободу слова.<br />Если кто-то кого-то требует привлечь за информацию - это даун.<br />Люди лают как собаки. Их слова не несут никакой информации.<br />Римляне ошиблись. Они говорили,<br />что  есть вещи немые, вещи мычащие и вещи говорящие.<br />Мычащие и говорящие - это одно и то же.<br /><br />2. Только физически сохранные вещи несут информацию.<br />Непорченные деньги, жизнь человека, собственность.<br /><br />Англичане так и записали в великой хартии вольностей,<br />но почему-то изгнали жЫдов.<br />Надо бы им за это отомстить.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=47614" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=47614" lj_newentry_etypeid="1" js_swapname="Untrack This" lj_journalid="4255543" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&47614&3&4255543:31521366e28b78ed5d74ec395081e9cd811c63dd" lj_arg1="47614" journal="transitional_writes" lj_etypeid="3" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_subid="0" class="TrackButton" lj_newentry_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-47614-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/47614.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/47614.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">37 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-47614-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/47614.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-47614-reply" data-quickreply-container="entry-transitional_writes-47614-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-47166">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-47166">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/47166.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/22/">22nd</a>, <a href="/2026/">2026</a></span> <span class="time">10:59 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Априорное зло и что оно сделает с тобой<br /><br />Любой физик и толковый студент-инженер знает, что такое<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Любой программист сможет вам объяснить, что такое<br /><a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br /><br />Но как объяснить это простой девушке, актрисе или<br />студенту юрфака?<br />Что такое априорное распределение, почему оно важно?<br />При чем тут невычислимость, при чем тут программирование в конце<br />концов, это же if() и while()?<br /><br />По простому - априорное распределение это все сценарии фильмов,<br />включая порнографические, перебором, которые только возможны.<br />Чем проще сценарий, тем он вероятнее, но сценариев бесконечно много<br />- это так называемое перечислимое множество из теории алгоритмов.<br /><br />Всегда существует бекстейдж. Ты видишь лишь малую часть картинки<br />и не знаешь, что происходит у тебя за спиной.<br />Если у тебя все хорошо, это не значит, что не существует<br />плохих сценариев. И это не значит, что где-то дальше в твоей жизни<br />нет if() {} else {} который утащит тебя на дно.<br /><br />Часто говорят, что<br /><br />1. Априорного зла нет, так как человек не животное.<br />Странный аргумент. Априорное зло есть, так как все сценарии<br />можно напечатать. А самый простой сценарий - это подражать<br />животным.<br /><br />2. Априорного зла нет, так как все обучены на добром советском<br />телевизоре. Но в добром советстком телевизиоре есть фильм<br />Место встречи изменить нельзя, который посвящен априорному злу.<br /><br />3. Априорного зла нет, так как в школе учат другому.<br />Но всегда есть странновато-прошаренные двоешники, которые<br />будто бы подметили асимметрию в обучающем материале и<br />сделали свои выводы.<br /><br />4. Априорного зла нет, так как есть УК РФ.<br />Но в УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br />что это нам говорит о влиянии УК РФ на апостериорный<br />результат?<br /><br />Россия богата. Но из России пылесосит девушек в<br />разные страны, ЮВА, США, ОАЭ, Европу, где они работают<br />за мелкий прайс. Зачем отсюда уезжать, если здесь безопасно?<br /><br />Априорное зло может быть побеждено только в тех сценариях,<br />где<br /><br />1. Население, включая девушек, вооружено, а оружие продается<br />свободно в магазинах.<br />2. Девушки, находящиеся в затруднительном материальном положении<br />могут спокойно сниматься в метарте не опасаясь судебного или<br />серьезного публичного осуждения. Публичные дома так же полезны.<br />И для безопасности всех девушек в том числе, так как показывают,<br />куда надо идти парням с отклонениями.<br /><br />Других сценариев с happy end и happy path нет.<br /><br />Надо еще подредактировать и про обнаженных танцовщиц,<br />испытывающих материальные затруднения, которые они бы<br />хотели облегчить побольше добавить.<br />На фотосессиях, конечно, чето я прямо не очень любитель<br />проституции. Фотография интеллектуальнее и сохраняет красоту.<br />Хотя бы на фотографии.<br /><br />&gt; Надо еще подредактировать и про обнаженных танцовщиц,<br />&gt; испытывающих материальные затруднения, которые они бы<br />&gt; хотели облегчить побольше добавить.<br /><br />На самом деле думаю фотография безопасна и мир не сер и<br />антиэротичен. Тут, конечно, нужно считать, но<br /><br />1. Если население вооружено.<br />2. И отношение к красивым девушкам положительное.<br />3. Здесь безопасно и не отбирают деньги.<br /><br />То чем это отличается от любого другого способа заработка?<br />Ничем.<br /><br />любопытный вопрос,<br />насколько это все реально повлияло на внешность девушек в России,<br />ну или в некоторых регионах?<br /><br />все-таки в метарт отбирали по внешним данным,<br />а их судьба загадочна.<br /><br />и доля на пике была ну<br />70 млн женщин.<br />1 млн 20-летних<br />на пике &gt; 1000 девушек в год снималось?<br />0.1% каждого курса студентов?<br /><br />но ведь публичный метарт это скорее всего<br />самое безопасное? и это небольшая доля<br />непубличного?<br /><br />Почему же здесь с этим проблемы и как они влияют на <br />биополитику?<br />Что здесь делает власть?<br /><br />Запрещает обсуждение априорного зла и априорной эротики?<br /><br />Ну, раз я все-таки пробую доредуцировать все до<br /><br />финальной версии. То нужно уже в сборе все тащить.<br />Остается кроме априорного зла и априорной эротики<br /><br />вывод невозможности экономического расчета при социализме:<br /><br />В конечном счете отличие физики от социальных наук еще и в том,<br />что в физику идут люди, которые в априорном распределении уже<br />преодолели много if() и предназначена она для таких же людей.<br /><br />Если физикой начинают интересоваться люди,<br />которые не перепроверяют что-то на физическом уровне строгости,<br />то физика тоже превращается в социальную науку.<br /><br />Физика - для физиков и инженеров.<br />Это экспериментальная наука.<br /><br />начните с эксперимента по сохранению массы металла в пространстве и времени.<br />не улетучивается ли он? не прибывает ли сам?<br /><br />Если вы это надежно установите, то это будет как минимум определенный<br />простейший ориентир для некоторых социальных взаимодействий<br />(не всех),<br />не зависящий от сложностей социальных наук.<br /><br />Инварианты - то есть то что сохраняется независимо от физических условий, это база для<br />понимания и взаимодействия людей.<br /><br />Есть что-то что объединяет всех, кроме фотографий красивых женщин?<br /><br />И что с ними творят в России?<br /><br />В этом посте нет ничего, кроме 4 вещей:<br /><br />1. Индуктивная логика и априорное распределение.<br /><br />2. Судьба метарт моделей и прочих красивых женщин,<br />решивших подзаработать. Что с ними?<br />Вопрос об их вознаграждении полностью изоморфен<br />теореме Мизеса о вознаграждении рабочего.<br />Что тут не так, кроме обсуждения наиболее<br />безопасной и эффективной для общества формы?<br /><br />3. Судьба прочих девушек.<br />Ведь если нет публичных heneypot для маньяков,<br />они ходят по улицам и лесопаркам.<br />Почему полиция не пользуется естественным honeypot?<br /><br />4. Инфляция и социализм.<br />Что это было и кто это устроил?<br /><br />Кстати, а можно ли этот текст под что либо подвести?<br /><br />1. Индуктивную логику?<br /><br />2. Вопрос про инфляцию?<br /><br />3. Легализацию метарта и вопрос о судьбе моделей?<br />Ну, возможно можно под какое распространение материалов или что-то подобное.<br />Но тут либо такой вопрос вообще априорно без этого нельзя поставить.<br />Ну или я неудачно выразился. ну чтож бывает.<br />Но думается, что без этого априорно нельзя.<br /><br />4. Легализация оружия.<br />Ну что ж, тут скорее всего тоже априорно нельзя.<br /><br />Вот и весь сказ.<br /><br />Литература:<br /><b>Потапов А.С. Распознавание образов и машинное восприятие: общий подход на основе принципа минимальной длины описания</b><br /><br /><a href="https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html">https://polytechnics.ru/shop/product-details/32-potapov-a-s-raspoznavanie-obrazov-i-mashinnoe-vospriyatie-obshhij-podxod-na-osnove-principa-minimalnoj-dliny-opisaniya.html</a></div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=47166" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=47166" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=47166" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=47166" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=47166" journal="transitional_writes" lj_arg1="47166" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&47166&3&4255543:ad792ab581f44958a1d4b0ec37a3b283443b3803" lj_journalid="4255543" lj_subid="0" lj_etypeid="3" lj_newentry_subid="0" lj_newentry_etypeid="1" js_swapname="Untrack This" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" class="TrackButton" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-47166-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/47166.html">Link</a></li>
+<li class="entry-readlink" style="display:none"><a href="https://transitional-writes.dreamwidth.org/47166.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">0 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-47166-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/47166.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-47166-reply" data-quickreply-container="entry-transitional_writes-47166-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-46951">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-46951">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/46951.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/22/">22nd</a>, <a href="/2026/">2026</a></span> <span class="time">06:00 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Априорное зло и что оно сделает с тобой<br /><br />Любой физик и толковый студент-инженер знает, что такое <br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Любой программист сможет вам объяснить, что такое<br /><a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br /><br />Но как объяснить это простой девушке, актрисе или<br />студенту юрфака?<br />Что такое априорное распределение, почему оно важно?<br />При чем тут невычислимость, при чем тут программирование в конце<br />концов, это же if() и while()?<br /><br />По простому - априорное распределение это все сценарии фильмов,<br />включая порнографические, перебором, которые только возможны.<br />Чем проще сценарий, тем он вероятнее, но сценариев бесконечно много<br />- это так называемое перечислимое множество из теории алгоритмов.<br /><br />Всегда существует бекстейдж. Ты видишь лишь малую часть картинки<br />и не знаешь, что происходит у тебя за спиной.<br />Если у тебя все хорошо, это не значит, что не существует<br />плохих сценариев. И это не значит, что где-то дальше в твоей жизни<br />нет if() {} else {} который утащит тебя на дно.<br /><br />Часто говорят, что<br /><br />1. Априорного зла нет, так как человек не животное.<br />Странный аргумент. Априорное зло есть, так как все сценарии<br />можно напечатать. А самый простой сценарий - это подражать<br />животным.<br /><br />2. Априорного зла нет, так как все обучены на добром советском <br />телевизоре. Но в добром советстком телевизиоре есть фильм<br />Место встречи изменить нельзя, который посвящен априорному злу.<br /><br />3. Априорного зла нет, так как в школе учат другому.<br />Но всегда есть странновато-прошаренные двоешники, которые<br />будто бы подметили асимметрию в обучающем материале и<br />сделали свои выводы.<br /><br />4. Априорного зла нет, так как есть УК РФ.<br />Но в УК РФ есть статья за метарт, а на торрентах<br />тысячи русских метарт моделей и нет fashion моделей,<br />что это нам говорит о влиянии УК РФ на апостериорный <br />результат?<br /><br />Россия богата. Но из России пылесосит девушек в<br />разные страны, ЮВА, США, ОАЭ, Европу, где они работают<br />за мелкий прайс. Зачем отсюда уезжать, если здесь безопасно?<br /><br />Априорное зло может быть побеждено только в тех сценариях,<br />где<br /><br />1. Население, включая девушек, вооружено, а оружие продается<br />свободно в магазинах.<br />2. Есть коллективная самооборона.<br />3. Девушки, находящиеся в затруднительном материальном положении<br />могут облегчить его в публичных местах. А не за границей с<br />пакетом на голове.<br /><br />Других сценариев с happy end и happy path нет.<br /><br />Надо еще подредактировать и про обнаженных танцовщиц,<br />испытывающих материальные затруднения, которые они бы<br />хотели облегчить побольше добавить.<br />На фотосессиях, конечно, чето я прямо не очень любитель<br />проституции. Фотография интеллектуальнее и сохраняет красоту.<br />Хотя бы на фотографии.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=46951" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=46951" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=46951" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=46951" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=46951" class="TrackButton" lj_subid="0" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_etypeid="3" lj_newentry_subid="0" lj_newentry_etypeid="1" journal="transitional_writes" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&46951&3&4255543:9ea3dce87fe6877f1ca4df836402b07cedbd80bf" lj_arg1="46951" js_swapname="Untrack This" lj_journalid="4255543" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-46951-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/46951.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/46951.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">16 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-46951-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/46951.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-46951-reply" data-quickreply-container="entry-transitional_writes-46951-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-46795">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-46795">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/46795.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/18/">18th</a>, <a href="/2026/">2026</a></span> <span class="time">07:32 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Каждый раз скачет мысль.<br />Интересно доредуцирую свои догадки про индуктивную логику?<br />Ведь по идее западная наука вообще от юристов пошла.<br />Значит они корень <br />(зла).<br /><br />Инженер и технарь прекрасно понимает ценность естественно-научной методологии.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br />Это база физики<br /><br />Если попытаться объяснить применение естественно-научной<br />методологии к социальным наукам, то как это описать?<br /><br />Нужно выписать все возможные сценарии фильмов которые увидит человек, со всеми возможными backstage, которые всегда будут за его спиной.<br /><br />При этом неважно, злые это сценарии или нет,<br />запрещенка в них или нет, если есть криминал,<br />значит полицейские будут кого-то ловить,<br />но тогда будут и сценарии где полицейские криминал.<br />Будут все сценарии. Их бесконечно много.<br />Чем проще сценарий, тем он вероятнее.<br />Его априорная вероятность выше.<br /><br />Как же физики выявляют законы природы?<br />Они могут провести тысячи очень простых<br />опытов в одних и тех же<br />контролируемых условиях без бекстейджа.<br />И эти опыты не зависят от времени и места.<br /><br />В случае социальных наук невозможно собрать<br />такое же количество улик, чтобы это было сопоставимо с точностью физиков.<br />В социальных науках всегда есть бекстейдж.<br />В социальных науках затруднено прямое сравнение<br />сложности гипотез, а это оставляет пространство для<br />закладок.<br /><br />Априорные злые сценарии - это априорное зло.<br />Его почему-то принято игнорировать.<br /><br />В качестве доводов обычно говорится.<br /><br />1. Да, часто говорят что зло от животных.<br />Но человек не животное, на него нельзя распространять эти законы.<br />Но этот аргумент не смещает априорное распределение<br />для человека.<br /><br />2. Да, априорно можно навыдумывать множество if()<br />со злом, но если про них не говорить в системе образования,<br />то никто не догадается.<br /><br />Но при внимательном рассмотрении оказывается,<br />что двоешники, троешники, хорошисты и<br />отличники, это какие-то несколько разные категории.<br />Именно троечник - это такой простоватый парень.<br />Хорошист - это именно толковый парень.<br />Надежный.<br />А вот двоечник выглядит странно.<br />Будто он что-то прошарил.<br />Не увидел ли он асимметрии в обучающем множестве?<br />Не подтолкнуло ли его что-то на какие-то мысли.<br />Странно выглядят и отличники.<br />Будто бы они тоже что-то разглядели (не я),<br />у меня все по честному.<br />Хотя таких рассказов море, с намеками на отличников<br />подвинувших микроскоп.<br />Ну и наличие тонн малоизвестных ключей в <br />технической литературе также<br />намекает.<br />А они везде есть.<br />Везде в литературе посерьезнее есть намек,<br />что если ты не знаешь back hat, ты <br />ничего не знаешь.<br /><br />Есть еще аргумент, он даже понятнее, чем<br />обучающее множество в образовании.<br /><br />Можно же добавить статью в УК РФ.<br />Как это сдвинет распределение в априорном поведении<br />людей?<br /><br />Ну, учитывая что на торрентах тонны<br />русско-украинских метарт моделей.<br />И нет вообще fashion моделей это может<br />намекать на определенный апостериорный <br />результат.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=46795" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=46795" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=46795" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=46795" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=46795" lj_newentry_etypeid="1" js_swapname="Untrack This" lj_journalid="4255543" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&46795&3&4255543:dcd8fe190e6d27e3402228d6e710768def07d985" lj_arg1="46795" journal="transitional_writes" lj_etypeid="3" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_subid="0" class="TrackButton" lj_newentry_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-46795-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/46795.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/46795.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">64 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-46795-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/46795.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-46795-reply" data-quickreply-container="entry-transitional_writes-46795-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-46365">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-46365">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/46365.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/18/">18th</a>, <a href="/2026/">2026</a></span> <span class="time">10:11 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Нет, ну понятное дело, что к каждому найдется свой ключ.<br /><br />Инженер и технарь прекрасно понимает ценность естественно-научной методологии.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />Если передо мной не инженер, а клоун из института культуры,<br />то и он прекрасно поймет объяснение, что такое априорное распределение,<br />на примере всех возможных сценариев.<br /><br />А за деталями, при чем тут теория алгоритмов и невычислимость, может<br />обратиться к любому программисту, их много, показав ему это:<br /><a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br /><br />Если эти листочки не дают прочитать, а отбирают, то кто это делает?<br />Если персонажи из офоциальных органов, ФСБ прокуратура, то можно им объяснить, что<br /><a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br /><br />Это полностью эквивалентно логике прокуратуры и это может объяснить любой программист,<br />в чем разница между тщательно разобраться и сделать код без дыр,<br />рисовать красивые отчеты и делать закладки в коде.<br />Это та же самая индуктивная логика.<br /><br />Если кто-то неформальный, то рядовому быку можно объяснить свою ценность,<br />что ты прекрасно можешь изобретать и открывать тайны вооружения.<br />Кроме того, можно прекрасно объяснить, что такой же концерт, как вокруг меня<br />можно устроить вокруг ядерной шахты. И это большие деньги.<br /><br />Если кто-то крупный неформальный, блатной, то даже ему можно рассказать<br />про метарт моделей и поведение животных.<br />Кто ты?<br />Животное или разумное?</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=46365" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=46365" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=46365" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=46365" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=46365" lj_etypeid="3" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_subid="0" class="TrackButton" lj_newentry_subid="0" lj_newentry_etypeid="1" lj_arg1="46365" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&46365&3&4255543:4dc16e188339c5c3264d04a3efd0c8fc1b4dd76d" js_swapname="Untrack This" lj_journalid="4255543" journal="transitional_writes" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-46365-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/46365.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/46365.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">8 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-46365-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/46365.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-46365-reply" data-quickreply-container="entry-transitional_writes-46365-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-46262">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-46262">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/46262.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/18/">18th</a>, <a href="/2026/">2026</a></span> <span class="time">07:55 am</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Ну хорошо.<br /><br />1. Поведение животных.<br />Классная книжка Дольника.<br /><br />2. Блатные. Евреи.<br />Мурка, Одесса. Блатные тоже произошли от евреев?<br />Какие еще круги прекрасно все понимают??<br /><br />3. Вопрос с метарт моделями.<br />Что это было?<br /><br />4. Каков средний уровень интеллекта и каковы цели<br />знатоков этой теоремки?<br /><br />5. Каков средний уровень интеллекта и элементарные цели<br />тех, кто эту теоремку не знает, если похоже только<br />я ищу и нахожу и цепляюсь за зацепки?<br /><br />Кому то пора в Африку.<br />К животным.<br />Здесь все очень много работали, чтобы получить билет в Африку.<br />К животным.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=46262" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=46262" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=46262" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=46262" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=46262" lj_subid="0" class="TrackButton" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_etypeid="3" lj_newentry_subid="0" lj_newentry_etypeid="1" journal="transitional_writes" js_swapname="Untrack This" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&46262&3&4255543:7e7b484b6fd00e6b58829fe87de2527d7c346957" lj_arg1="46262" lj_journalid="4255543" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-46262-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/46262.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/46262.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">5 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-46262-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/46262.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-46262-reply" data-quickreply-container="entry-transitional_writes-46262-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-odd security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-45962">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-45962">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/45962.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/17/">17th</a>, <a href="/2026/">2026</a></span> <span class="time">09:43 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Короче вопрос такой,<br />инженер, рабочий, солдат.<br /><br />Твою дочь, жену, деньги, оружие<br />блатным и Путину или себе оставишь?<br />Кому?</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=45962" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=45962" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=45962" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=45962" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=45962" lj_newentry_etypeid="1" lj_arg1="45962" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&45962&3&4255543:ac063b870b4b52e6055199832ae015c61dfca129" lj_journalid="4255543" js_swapname="Untrack This" journal="transitional_writes" lj_etypeid="3" lj_subid="0" class="TrackButton" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_newentry_subid="0" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-45962-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/45962.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/45962.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">4 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-45962-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45962.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-45962-reply" data-quickreply-container="entry-transitional_writes-45962-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+<div class="entry-wrapper entry-wrapper-even security-public restrictions-none journal-type-P poster-transitional_writes journal-transitional_writes no-userpic  has-subject" id="entry-wrapper-45642">
+<div class="separator separator-before"><div class="inner"></div></div>
+<div class="entry" id="entry-45642">
+<div class="inner">
+<div class="header">
+<div class="inner">
+<h3 class="entry-title"><a title="(no subject)" href="https://transitional-writes.dreamwidth.org/45642.html">(no subject)</a></h3><span class="datetime"><span class="date"><a href="/2026/06/">Jun</a>. <a href="/2026/06/16/">16th</a>, <a href="/2026/">2026</a></span> <span class="time">03:47 pm</span></span></div>
+</div>
+<div>
+<div class="contents">
+<div class="inner">
+<div class="userpic"></div>
+<span class="poster entry-poster empty"></span><div class="entry-content">Ну, собственно, продолжая.<br />По сути две темы блога средуцировались к следующему.<br /><br />1. Объяснение естественно-научной методологии, базы<br />студентам базовых вузов - нефтяников, электротехников.<br /><a href="https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference">https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference</a><br /><br />2. А заодно и способу познакомиться со студентками гуманитарных вузов,<br />в свою очередь объяснив им естественно-научную методологию.<br /><br />Ну, программисты это и так могут понять на примере ADATE:<br /><a href="https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf">https://fileadmin.cs.lth.se/ai/Proceedings/ECML-PKDD%202007/workshops/AAIP/olsson/olsson.pdf</a><br /><br />А вот как может объяснить ADATE иженер-нефтяник студентке<br />филфака?<br /><br />Что такое априорная вероятность, почему она невычислима?<br />При чем тут в конце концов программирование, ведь это if и while?<br /><br />Предположим, студентка филфака хорошенькая<br />(Хотя здесь уже есть if(), ведь каждому нравятся разные девушки,<br />одним нравятся, другим нет) и в принципе считает, что ее внешность помогает ей в жизни.<br />Верно ли это?<br /><br />Априорное распределение Соломонова это и есть все сценарии порнофильмов<br />с хорошенькой студенткой филфака, со всеми возможными if и while,<br />включая сценарии с надетым на голову пакетом и султанским гаремом.<br /><br />Во всех этих сценариях студентка филфака теряет и деньги и здоровье,<br />если только эти деньги ей не дает студент базовых специальностей этого региона:<br />нефтяник, электротехник, энергетик, оружейник.<br /><br />Но есть нюанс, если оружейник не делает оружие для студентов базовых специальностей<br />этого региона. То деньги теряют все.<br /><br />А невычислима она потому, что всех возможных сенариев порнофильмов<br />бесконечное множество. Это так называемые перечислимые и неразрешимые множества<br />из теории алгоритмов.<br /><br />Но сколько до сих пор не перебирали этих алгоритмов, happy end случается только в тех, где<br /><br />Во всех этих сценариях студентка филфака теряет и деньги и здоровье,<br />если только эти деньги ей не дает студент базовых специальностей этого региона:<br />нефтяник, электротехник, энергетик, оружейник.<br /><br />Но есть нюанс, если оружейник не делает оружие для студентов базовых специальностей<br />этого региона. То деньги теряют все.<br /><br />А невычислима она потому, что всех возможных сенариев порнофильмов<br />бесконечное множество. Это так называемые перечислимые и неразрешимые множества<br />из теории алгоритмов.<br /><br />Но сколько до сих пор не перебирали этих алгоритмов, happy end случается только в тех, где<br /><br />Во всех этих сценариях студентка филфака теряет и деньги и здоровье,<br />если только эти деньги ей не дает студент базовых специальностей этого региона:<br />нефтяник, электротехник, энергетик, оружейник.<br /><br />Но есть нюанс, если оружейник не делает оружие для студентов базовых специальностей<br />этого региона. То деньги теряют все.</div></div>
+</div>
+</div>
+<div class="footer">
+<div class="inner">
+<ul class="entry-management-links icon-links"><li class="link edit_entry first-item"><a href="https://www.dreamwidth.org/editjournal?journal=transitional_writes&amp;itemid=45642" ><img border='0' width="16" height="16" alt="Edit Entry" title="Edit Entry" src="//www.dreamwidth.org/img/silk/entry/edit.png"  /></a></li>
+<li class="link edit_tags"><a href="https://www.dreamwidth.org/edittags?journal=transitional_writes&amp;itemid=45642" ><img border='0' width="16" height="16" alt="Edit Tags" title="Edit Tags" src="//www.dreamwidth.org/img/silk/entry/tag_edit.png"  /></a></li>
+<li class="link mem_add"><a href="https://www.dreamwidth.org/tools/memadd?journal=transitional_writes&amp;itemid=45642" ><img border='0' width="16" height="16" alt="Add Memory" title="Add Memory" src="//www.dreamwidth.org/img/silk/entry/memories_add.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?journal=transitional_writes&amp;itemid=45642" ><img border='0' width="16" height="16" alt="Share This Entry" title="Share This Entry" src="//www.dreamwidth.org/img/silk/entry/tellafriend.png"  /></a></li>
+<li class="link watch_comments"><a href="https://www.dreamwidth.org/manage/tracking/entry?journal=transitional_writes&amp;itemid=45642" lj_subid="0" class="TrackButton" lj_newentry_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&1&4255543:711631804deab0321a0817a20e7f0cd227ed4416" lj_etypeid="3" lj_newentry_subid="0" lj_newentry_etypeid="1" journal="transitional_writes" lj_arg1="45642" lj_journalid="4255543" js_swapname="Untrack This" lj_auth_token="ajax:1786093200:4255543:24:/__rpc_esn_subs:addsub&45642&3&4255543:1f57f8f6794320dfe2903ac2dca319b2df022752" ><img border='0' width="16" height="16" alt="Track This" title="Track This" src="//www.dreamwidth.org/img/silk/entry/track.png"  /></a></li>
+</ul><ul class="entry-interaction-links text-links" data-quickreply-target="entry-transitional_writes-45642-reply">
+<li class="entry-permalink first-item"><a href="https://transitional-writes.dreamwidth.org/45642.html">Link</a></li>
+<li class="entry-readlink"><a href="https://transitional-writes.dreamwidth.org/45642.html#comments" data-sing="1 comment" data-dual="2 comments" data-plur="3 comments">25 comments</a></li>
+<li class="entry-replylink"><a onclick='return function(that) {return quickreply("entry-transitional_writes-45642-reply", 0, "",that)}(this)' href='https://transitional-writes.dreamwidth.org/45642.html?mode=reply' >Reply</a></li>
+</ul><div  id="ljqrtentry-transitional_writes-45642-reply" data-quickreply-container="entry-transitional_writes-45642-reply" style="display: none;"></div></div>
+</div>
+</div>
+</div>
+<div class="separator separator-after"><div class="inner"></div></div>
+</div>
+
+    <div class="navigation bottomnav">
+        <div class="inner">
+    <ul><li class="page-back"><a href="https://transitional-writes.dreamwidth.org/?skip=40">Previous 20</a></li>
+<li class="page-separator"> | </li><li class="page-forward"><a href="https://transitional-writes.dreamwidth.org/">Next 20</a></li>
+</ul>
+        </div><!-- navigation>inner -->
+    </div><!-- navigation -->
+    
+        </div><!-- entries>inner-->
+    </div><!-- entries -->
+    
+                    </div></div><!-- end primary and primary>inner -->
+    
+                    <div id="secondary"><div class="inner">
+    <div class="module-wrapper"><div class="separator separator-before"><div class="inner"></div></div>
+<div class="module-section-one">
+<div class="inner"><div class="module-userprofile module"><h2 class="module-header"><a href="https://transitional-writes.dreamwidth.org/profile">Profile</a></h2>
+<div class="module-content">
+<div class='journal-name'>transitional_writes</div>
+<div class='journal-website-name'><a href='https://github.com/wieker/electrolyser'>My Website</a></div>
+<ul class="userlite-interaction-links icon-links"><li class="link watch first-item"><a href="https://www.dreamwidth.org/manage/circle/add?user=transitional_writes&action=subscribe" ><img border='0' width="20" height="18" alt="Subscribe to your account" title="Subscribe to your account" src="https://www.dreamwidth.org/img/silk/profile/subscription_add.png"  /></a></li>
+<li class="link post_entry"><a href="https://www.dreamwidth.org/update?usejournal=transitional_writes" ><img border='0' width="20" height="18" alt="Post to your journal" title="Post to your journal" src="https://www.dreamwidth.org/img/silk/profile/post.png"  /></a></li>
+<li class="link message"><a href="https://www.dreamwidth.org/inbox/compose?user=transitional_writes" ><img border='0' width="20" height="18" alt="Send a private message to yourself" title="Send a private message to yourself" src="https://www.dreamwidth.org/img/silk/profile/message.png"  /></a></li>
+<li class="link tell_friend"><a href="https://www.dreamwidth.org/tools/tellafriend?user=transitional_writes" ><img border='0' width="16" height="16" alt="Tell someone about your journal" title="Tell someone about your journal" src="https://www.dreamwidth.org/img/silk/profile/tellafriend.png"  /></a></li>
+</ul></div>
+</div>
+<div class="module-navlinks module"><div class="module-content">
+<ul class="module-list">
+<li class="module-list-item list-item-recent"><a href="https://transitional-writes.dreamwidth.org/" class="current recent">Recent Entries</a></li>
+<li class="module-list-item list-item-archive"><a href="https://transitional-writes.dreamwidth.org/archive" class="archive">Archive</a></li>
+<li class="module-list-item list-item-read"><a href="https://transitional-writes.dreamwidth.org/read" class="read">Reading</a></li>
+<li class="module-list-item list-item-tags"><a href="https://transitional-writes.dreamwidth.org/tag/" class="tags">Tags</a></li>
+<li class="module-list-item list-item-memories"><a href="https://www.dreamwidth.org/tools/memories?user=transitional_writes" class="memories">Memories</a></li>
+<li class="module-list-item list-item-userinfo"><a href="https://transitional-writes.dreamwidth.org/profile" class="userinfo">Profile</a></li>
+</ul>
+</div>
+</div>
+<div class="module-calendar module"><h2 class="module-header"><a href="/2026/08/">August</a> <a href="/2026/">2026</a></h2>
+<div class="module-content">
+<table summary="Monthly calendar with links to each day's entries">
+<tr>
+<th>S</th>
+<th>M</th>
+<th>T</th>
+<th>W</th>
+<th>T</th>
+<th>F</th>
+<th>S</th>
+</tr>
+<tr>
+<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td class="empty-day">1</td></tr>
+<tr>
+<td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/08/02/" title="1 entry">2</a></td><td class="empty-day">3</td><td class="empty-day">4</td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/08/05/" title="2 entries">5</a></td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/08/06/" title="1 entry">6</a></td><td class="entry-day"> <a href="https://transitional-writes.dreamwidth.org/2026/08/07/" title="1 entry">7</a></td><td class="empty-day">8</td></tr>
+<tr>
+<td class="empty-day">9</td><td class="empty-day">10</td><td class="empty-day">11</td><td class="empty-day">12</td><td class="empty-day">13</td><td class="empty-day">14</td><td class="empty-day">15</td></tr>
+<tr>
+<td class="empty-day">16</td><td class="empty-day">17</td><td class="empty-day">18</td><td class="empty-day">19</td><td class="empty-day">20</td><td class="empty-day">21</td><td class="empty-day">22</td></tr>
+<tr>
+<td class="empty-day">23</td><td class="empty-day">24</td><td class="empty-day">25</td><td class="empty-day">26</td><td class="empty-day">27</td><td class="empty-day">28</td><td class="empty-day">29</td></tr>
+<tr>
+<td class="empty-day">30</td><td class="empty-day">31</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+</div>
+</div>
+<div class="module-syndicate module"><h2 class="module-header">Syndicate</h2>
+<div class="module-content">
+ <a href="https://transitional-writes.dreamwidth.org/data/rss" ><img border='0' width="32" height="15" alt="RSS" title="RSS" src="//www.dreamwidth.org/img/data_rss.gif"  /></a>  <a href="https://transitional-writes.dreamwidth.org/data/atom" ><img border='0' width="32" height="15" alt="Atom" title="Atom" src="//www.dreamwidth.org/img/data_atom.gif"  /></a> </div>
+</div>
+<div class="module-tags_list module"><h2 class="module-header"><a href="https://transitional-writes.dreamwidth.org/tag/">Most Popular Tags</a></h2>
+<div class="module-content">
+<ul class="module-list" >
+<li class="visibility-private module-list-item" ><a href="https://transitional-writes.dreamwidth.org/tag/%D0%B9">й</a> - <span class='detail-tagcount'>0 uses</span></li>
+
+</ul>
+<div class="manage-link manage-tags-link"><a href="https://www.dreamwidth.org/manage/tags?authas=transitional_writes">Manage Tags</a></div></div>
+</div>
+<div class="module-pagesummary module"><h2 class="module-header">Page Summary</h2>
+<div class="module-content">
+<ul class="module-list">
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-50642" title="33 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-50324" title="6 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-49997" title="11 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-49688" title="4 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-49642" title="16 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-49245" title="16 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-49028" title="0 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-48753" title="18 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-48514" title="29 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-48183" title="31 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-47906" title="28 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-47865" title="0 comments">Априорное зло и что оно сделает с тобой</a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-47614" title="37 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-47166" title="0 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-46951" title="16 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-46795" title="64 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-46365" title="8 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-46262" title="5 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-45962" title="4 comments"><em>(no subject)</em></a></span></li>
+<li class="module-list-item"><span class="pagesummary-subject"><a href="#entry-45642" title="25 comments"><em>(no subject)</em></a></span></li>
+</ul>
+</div>
+</div>
+<div class="module-credit module"><h2 class="module-header">Style Credit</h2>
+<div class="module-content">
+<ul class="module-list"><li class="module-list-item"><span class="category-title">Style:</span> <span class="theme-name">Neutral Good</span> for <span class="style-name"><a href="https://www.dreamwidth.org/customize/?layoutid=165554">Practicality</a></span> by <span class="style-author"><span lj:user="timeasmymeasure" style="white-space: nowrap;" class="ljuser"><a href="https://timeasmymeasure.dreamwidth.org/profile"><img src="https://www.dreamwidth.org/img/silk/identity/user.png" alt="[personal profile] " width="17" height="17" style="vertical-align: text-bottom; border: 0; padding-right: 1px;" /></a><a href="https://timeasmymeasure.dreamwidth.org/"><b>timeasmymeasure</b></a></span></span></li>
+</ul></div>
+</div>
+<div class="module-cuttagcontrols module"><h2 class="module-header">Expand Cut Tags</h2>
+<div class="module-content">
+<span class="cutTagControls"><span style="font-size: smaller;">No cut tags</span></span></div>
+</div>
+</div>
+</div><div class="separator separator-after"><div class="inner"></div></div>
+</div>
+                    </div></div><!--  end secondary and secondary>inner -->
+    
+                    <div id="invisible-separator" style="float: left; width: 1px;"></div> <!-- this is a hack for IE7 + two-columns-right -->
+                    <div id="tertiary"><div class="inner">
+                        <div class="module-wrapper"><div class="separator separator-before"><div class="inner"></div></div>
+<div class="module-section-two">
+<div class="inner"><div class="module-time module"><div class="module-content">
+<span id="load-time">Page generated Aug. 7th, 2026 09:30 am</span></div>
+</div>
+<div class="module-powered module"><div class="module-content">
+<span id="site-branding">Powered by <a href="https://www.dreamwidth.org/">Dreamwidth Studios</a></span></div>
+</div>
+</div>
+</div><div class="separator separator-after"><div class="inner"></div></div>
+</div>
+                    </div></div><!-- end tertiary and tertiary>inner -->
+                    <div id="content-footer"></div>
+                </div><!-- end content>inner -->
+            </div> <!-- end content -->
+        </div> <!-- end canvas>inner -->
+    
+    <div id="footer">
+        <div class="inner">
+            
+                <div class="page-top"><a href="#">Top of page</a></div>
+        </div>
+    </div>
+
+    </div> 
+    <script type="text/javascript" src="//www.dreamwidth.org/js/??jquery/jquery-1.8.3.js,foundation/vendor/custom.modernizr.js,foundation/foundation/foundation.js,foundation/foundation/foundation.topbar.js,dw/dw-core.js,jquery/jquery.ui.core.js,jquery/jquery.ui.widget.js,jquery/jquery.ui.tooltip.js,jquery.ajaxtip.js,jquery/jquery.ui.position.js,jquery.hoverIntent.js,jquery.contextualhover.js?v=1783736183"></script>
+<script type="text/javascript" src="//www.dreamwidth.org/js/??jquery.esn.js,jquery.replyforms.js,jquery.poll.js,journals/jquery.tag-nav.js,jquery.mediaplaceholder.js,jquery.imageshrink.js,components/jquery.icon-select.js,jquery.quickreply.js,jquery.threadexpander.js,jquery.cuttag-ajax.js,jquery.default-editor.js,jquery/jquery.ui.button.js,jquery/jquery.ui.dialog.js?v=1783736183"></script>
+
+<script type='text/javascript'>
+jQuery(function(jQ){
+    if (jQ("#lj_controlstrip").length == 0) {
+        jQ.getJSON("/transitional_writes/__rpc_controlstrip?user=transitional_writes&host=transitional-writes.dreamwidth.org&uri=/&args=skip%3D20&view=", {},
+            function(data) {
+                jQ("<div></div>").html(data.control_strip).prependTo("body");
+            }
+        );
+    }
+})
+</script><script>$(document).foundation();</script><div id='statistics' style='text-align: left; font-size:0; line-height:0; height:0; overflow:hidden;'></div></body></html>
